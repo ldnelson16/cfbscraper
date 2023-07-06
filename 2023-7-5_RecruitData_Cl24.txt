@@ -1,0 +1,1001 @@
+Name	On3 Rating	247 Rating	ESPN Rating	Rivals Rating	Position	City	State	Commit Status	Commit Team
+Dylan Raiola	[98]	[98]	[91]	[6.1]	QB	Buford	GA	True	Georgia Bulldogs	
+Jeremiah Smith	[98]	[98]	[90]	[6.1]	WR	Hollywood	FL	True	Ohio State Buckeyes	
+Williams Nwaneri	[98]	[98]	[90]	[6.1]	DL	Lee's Summit	MO	False	False	
+Micah Hudson	[98]	[98]	[90]	[6.1]	WR	Temple	TX	False	False	
+Colin Simmons	[98]	[98]	[90]	[6.1]	EDGE	Duncanville	TX	False	False	
+KJ Bolden	[98]	[98]	[90]	[6.1]	S	Buford	GA	False	False	
+Dylan Stewart	[98]	[98]	[90]	[6.1]	EDGE	Washington	DC	False	False	
+Ellis Robinson IV	[98]	[98]	[91]	[6.0]	CB	New Haven	CT	True	Georgia Bulldogs	
+Justin Scott	[98]	[98]	[86]	[6.1]	DL	Chicago	IL	True	Ohio State Buckeyes	
+Cam Coleman	[98]	[98]	[90]	[6.0]	WR	Phenix City	AL	True	Texas Am Aggies	
+Julian Sayin	[96]	[98]	[91]	[6.1]	QB	Carlsbad	CA	True	Alabama Crimson Tide	
+David Stone	[96]	[98]	[91]	[6.1]	DL	Oklahoma City	OK	False	False	
+Mike Matthews	[96]	[98]	[91]	[6.1]	WR	Lilburn	GA	False	False	
+Justin Williams	[96]	[98]	[90]	[6.1]	LB	Conroe	TX	False	False	
+Jaylen Mbakwe	[97]	[98]	[91]	[6.0]	ATH	Pinson	AL	True	Alabama Crimson Tide	
+Terry Bussey	[97]	[98]	[87]	[6.0]	ATH	Timpson	TX	False	False	
+Mylan Graham	[97]	[98]	[86]	[6.0]	WR	New Haven	IN	True	Ohio State Buckeyes	
+Bryant Wesco	[96]	[98]	[88]	[6.0]	WR	Midlothian	TX	True	Clemson Tigers	
+Sammy Brown	[95]	[98]	[90]	[6.0]	LB	Jefferson	GA	True	Clemson Tigers	
+Eddrick Houston	[95]	[98]	[86]	[6.1]	DL	Buford	GA	False	False	
+Brandon Baker	[96]	[98]	[86]	[6.0]	OT	Santa Ana	CA	False	False	
+Kobe Black	[95]	[98]	[89]	[6.0]	CB	Waco	TX	False	False	
+Charles Lester III	[97]	[96]	[86]	[6.0]	CB	Venice	FL	False	False	
+Dominick McKinley	[97]	[98]	[87]	[5.9]	DL	Lafayette	LA	False	False	
+Landen Thomas	[95]	[98]	[86]	[6.0]	TE	Moultrie	GA	True	Florida State Seminoles	
+Xavier Filsaime	[95]	[98]	[86]	[6.0]	S	McKinney	TX	True	Florida Gators	
+Jordan Ross	[96]	[98]	[88]	[5.9]	EDGE	Birmingham	AL	False	False	
+Ryan Wingo	[93]	[98]	[87]	[6.1]	WR	Saint Louis	MO	False	False	
+DJ Lagway	[96]	[95]	[90]	[6.0]	QB	Willis	TX	True	Florida Gators	
+Elijah Rushing	[95]	[98]	[89]	[5.9]	EDGE	Tucson	AZ	False	False	
+Joshisa Trader	[94]	[95]	[90]	[6.1]	WR	Miami	FL	False	False	
+Perry Thompson	[95]	[98]	[86]	[5.9]	WR	Foley	AL	True	Alabama Crimson Tide	
+Aydin Breland	[94]	[98]	[86]	[5.9]	DL	Santa Ana	CA	False	False	
+Demarcus Riddick	[95]	[95]	[86]	[6.0]	LB	Clanton	AL	True	Georgia Bulldogs	
+Taylor Tatum	[95]	[95]	[86]	[6.0]	RB	Longview	TX	False	False	
+Cam Williams	[96]	[94]	[86]	[6.0]	WR	Glen Ellyn	IL	True	Notre Dame Fighting Irish	
+Kamarion Franklin	[91]	[98]	[87]	[6.1]	DL	Lake Cormorant	MS	False	False	
+Aaron Scott Jr.	[97]	[96]	[86]	[5.8]	CB	Springfield	OH	False	False	
+Gatlin Bair	[93]	[96]	[84]	[6.0]	WR	Burley	ID	False	False	
+Air Noland	[95]	[95]	[87]	[5.9]	QB	Fairburn	GA	True	Ohio State Buckeyes	
+Jaden Reddell	[96]	[94]	[86]	[5.9]	TE	Raymore	MO	True	Georgia Bulldogs	
+Quinton Martin	[93]	[95]	[86]	[6.0]	ATH	Belle Vernon	PA	True	Penn State Nittany Lions	
+Jordan Seaton	[94]	[93]	[84]	[6.0]	OT	Washington	DC	False	False	
+Joseph Jonah-Ajonye	[95]	[93]	[88]	[5.9]	DL	Conroe	TX	False	False	
+CJ Carr	[91]	[96]	[86]	[6.0]	QB	Saline	MI	True	Notre Dame Fighting Irish	
+Selman Bridges	[94]	[95]	[85]	[5.9]	CB	Temple	TX	False	False	
+Jerrick Gibson	[95]	[93]	[87]	[5.9]	RB	Gainesville	FL	True	Texas Longhorns	
+Bryce West	[94]	[92]	[87]	[6.0]	CB	Cleveland	OH	True	Ohio State Buckeyes	
+Josiah Thompson	[96]	[94]	[85]	[5.8]	OT	Dillon	SC	True	South Carolina Gamecocks	
+Kam Davis	[94]	[92]	[86]	[6.0]	RB	Albany	GA	True	Florida State Seminoles	
+Guerby Lambert	[96]	[92]	[85]	[5.9]	OT	West Roxbury	MA	False	False	
+Myles Graham	[91]	[94]	[85]	[6.1]	LB	Atlanta	GA	True	Florida Gators	
+Kam Pringle	[95]	[91]	[86]	[6.0]	OT	Dorchester	SC	True	South Carolina Gamecocks	
+Adarius Hayes	[93]	[93]	[84]	[6.0]	LB	Largo	FL	True	Florida Gators	
+Nathaniel Frazier	[96]	[92]	[84]	[5.9]	RB	Santa Ana	CA	False	False	
+Jadyn Davis	[92]	[93]	[83]	[6.1]	QB	Charlotte	NC	True	Michigan Wolverines	
+TJ Capers	[93]	[94]	[86]	[5.9]	LB	Miami	FL	True	Louisville Cardinals	
+LJ McCray	[94]	[96]	['-']	[5.8]	DL	Daytona Beach	FL	False	False	
+Carter Nelson	[93]	[95]	[81]	[5.9]	TE	Ainsworth	NE	True	Nebraska Cornhuskers	
+Luke Kromenhoek	[95]	[96]	[82]	[5.7]	QB	Savannah	GA	True	Florida State Seminoles	
+Zion Kearney	[94]	[93]	[84]	[5.9]	WR	Missouri City	TX	True	Oklahoma Sooners	
+Zabien Brown	[92]	[95]	[83]	[5.9]	CB	Santa Ana	CA	False	False	
+Jamonta Waller	[89]	[98]	[90]	[5.9]	LB	Picayune	MS	True	Florida Gators	
+Benedict Umeh	[96]	[91]	[84]	[5.9]	DL	Toronto	ON	False	False	
+Ny Carr	[92]	[92]	[86]	[6.0]	WR	Moultrie	GA	True	Georgia Bulldogs	
+Caleb Odom	[95]	[93]	[84]	[5.8]	TE	Carrollton	GA	False	False	
+Casey Poe	[95]	[92]	[81]	[5.9]	IOL	Lindale	TX	False	False	
+Trey'Dez Green	[92]	[92]	[84]	[6.0]	TE	Jackson	LA	True	Lsu Tigers	
+Corian Gipson	[94]	[92]	[84]	[5.9]	CB	Lancaster	TX	False	False	
+Jeremiah Beaman	[93]	[93]	[83]	[5.9]	DL	Birmingham	AL	True	Alabama Crimson Tide	
+Marquise Lightfoot	[94]	[92]	[83]	[5.9]	EDGE	Chicago	IL	True	Miami Hurricanes	
+Marcelles Williams	[92]	[94]	[84]	[5.9]	CB	Bellflower	CA	True	Usc Trojans	
+Jonathan Daniels	[98]	[89]	[85]	[5.9]	OT	Pensacola	FL	False	False	
+Zaquan Patterson	[90]	[93]	[84]	[6.1]	S	Hollywood	FL	False	False	
+Dealyn Evans	[91]	[95]	[82]	[5.9]	DL	Longview	TX	True	Texas Am Aggies	
+Jamari Howard	[95]	[93]	[83]	[5.8]	CB	Miami	FL	False	False	
+Jaylen Heyward	[94]	[91]	[84]	[5.9]	S	Rockledge	FL	True	Georgia Bulldogs	
+Dre'lon Miller	[92]	[93]	[84]	[5.9]	WR	Silsbee	TX	True	Texas Am Aggies	
+Brady Prieskorn	[93]	[92]	[84]	[5.9]	TE	Rochester	MI	True	Michigan Wolverines	
+Wardell Mack	[96]	[90]	[81]	[5.9]	CB	Marrero	LA	False	False	
+Kevin Riley	[92]	[93]	[85]	[5.9]	RB	Northport	AL	True	Miami Hurricanes	
+Grant Brix	[93]	[92]	[84]	[5.9]	IOL	Logan	IA	False	False	
+Nathan Roy	[95]	[91]	[81]	[5.9]	OT	Mukwonago	WI	True	Minnesota Golden Gophers	
+Liam Andrews	[94]	[93]	[83]	[5.8]	IOL	Brookline	MA	False	False	
+James Peoples	[92]	[93]	[82]	[5.9]	RB	San Antonio	TX	True	Ohio State Buckeyes	
+Xavier Jordan	[93]	[93]	[84]	[5.8]	WR	Los Angeles	CA	True	Usc Trojans	
+Demello Jones	[92]	[93]	[83]	[5.9]	CB	Swainsboro	GA	True	Georgia Bulldogs	
+Jordan Marshall	[93]	[90]	[83]	[6.0]	RB	Cincinnati	OH	True	Michigan Wolverines	
+Christian Bentancur	[92]	[93]	[83]	[5.9]	TE	Woodstock	IL	True	Clemson Tigers	
+Charleston Collins	[92]	[93]	[82]	[5.9]	DL	Pine Bluff	AR	True	Arkansas Razorbacks	
+Peyton Woodyard	[91]	[91]	[84]	[6.1]	S	Bellflower	CA	True	Georgia Bulldogs	
+Ernest Willor	[91]	[93]	[86]	[5.9]	DL	Baltimore	MD	False	False	
+Ryan Pellum	[91]	[93]	[84]	[5.9]	WR	Long Beach	CA	True	Usc Trojans	
+Kyngstonn Viliamu-Asa	[90]	[93]	[82]	[6.0]	LB	Bellflower	CA	False	False	
+Aaron Butler	[91]	[93]	[84]	[5.9]	ATH	Calabasas	CA	True	Colorado Buffaloes	
+Nigel Smith II	[92]	[92]	[84]	[5.9]	DL	Melissa	TX	False	False	
+Dakoda Fields	[92]	[92]	[84]	[5.9]	CB	Gardena	CA	True	Usc Trojans	
+Isendre Ahfua	[92]	[92]	[85]	[5.9]	IOL	Seattle	WA	False	False	
+Jason Zandamela	[92]	[94]	[83]	[5.8]	IOL	Clearwater	FL	True	Usc Trojans	
+Caden Durham	[93]	[91]	[82]	[5.9]	RB	Duncanville	TX	False	False	
+Ashton Bethel-Roman	[93]	[93]	[82]	[5.8]	WR	Missouri City	TX	True	Arkansas Razorbacks	
+Gekyle Baker	[93]	[93]	[82]	[5.8]	WR	Brownsboro	TX	True	Tcu Horned Frogs	
+Ify Obidegwu	[92]	[92]	[83]	[5.9]	CB	Baltimore	MD	True	Oregon Ducks	
+Michael Smith	[92]	[94]	[82]	[5.8]	TE	Savannah	GA	True	South Carolina Gamecocks	
+Dwight Phillips	[93]	[92]	[85]	[5.8]	RB	Mableton	GA	True	Georgia Bulldogs	
+Elijah Brown	[91]	[93]	[81]	[5.9]	QB	Santa Ana	CA	True	Stanford Cardinal	
+Jason Brown	[93]	[92]	[84]	[5.8]	RB	Seattle	WA	False	False	
+Cai Bates	[91]	[93]	[82]	[5.9]	CB	Orlando	FL	False	False	
+Aaron Chiles	[91]	[92]	[85]	[5.9]	LB	Olney	MD	True	Florida Gators	
+Jake Merklinger	[92]	[91]	[84]	[5.9]	QB	Savannah	GA	True	Tennessee Volunteers	
+Kamron Beavers	[92]	[92]	[82]	[5.9]	DL	Bay Springs	MS	True	Ole Miss Rebels	
+Jeremiah McClellan	[91]	[93]	[81]	[5.9]	WR	Saint Louis	MO	False	False	
+Chance Robinson	[92]	[92]	[82]	[5.9]	WR	Fort Lauderdale	FL	True	Miami Hurricanes	
+Blake Ivy	[93]	[92]	[83]	[5.8]	IOL	League City	TX	False	False	
+Weston Davis	[96]	[90]	[79]	[5.9]	OT	Beaumont	TX	True	Texas Am Aggies	
+Daniel Calhoun	[90]	[93]	[84]	[5.9]	IOL	Roswell	GA	True	Georgia Bulldogs	
+Justin Greene	[92]	[91]	[83]	[5.9]	DL	Lawrenceville	GA	True	Georgia Bulldogs	
+Koy Beasley	[93]	[92]	[83]	[5.8]	CB	Cincinnati	OH	True	Purdue Boilermakers	
+Chris Cole	[90]	[94]	[84]	[5.9]	LB	Salem	VA	False	False	
+Nick Marsh	[92]	[91]	[82]	[5.9]	WR	River Rouge	MI	False	False	
+Joseph Phillips	[93]	[92]	[82]	[5.8]	LB	Tuskegee	AL	True	Auburn Tigers	
+Jordan Thomas	[92]	[93]	[84]	[5.8]	DL	Ramsey	NJ	True	Georgia Bulldogs	
+Jericho Johnson	[91]	[92]	[82]	[5.9]	DL	Fairfield	CA	False	False	
+Walter Matthews	[92]	[93]	[84]	[5.8]	TE	Hiram	GA	True	Usc Trojans	
+Aaron Flowers	[93]	[92]	[83]	[5.8]	S	Forney	TX	True	Oregon Ducks	
+Hunter Moddon	[92]	[92]	[84]	[5.8]	CB	Houston	TX	False	False	
+DeAndre Carter	[89]	[94]	[86]	[5.9]	IOL	Santa Ana	CA	False	False	
+Kris Jones	[90]	[93]	[83]	[5.9]	LB	Fairfax	VA	False	False	
+Ian Moore	[90]	[91]	[83]	[6.0]	IOL	New Palestine	IN	True	Ohio State Buckeyes	
+NiTareon Tuggle	[90]	[93]	[82]	[5.9]	WR	South Bend	IN	True	Georgia Bulldogs	
+Jordan Pride	[92]	[92]	[85]	[5.8]	S	Blountstown	FL	True	Texas Am Aggies	
+Kam Mikell	[94]	[91]	[83]	[5.8]	CB	Statesboro	GA	False	False	
+Amir Jackson	[92]	[90]	[84]	[5.9]	TE	Portal	GA	True	Florida Gators	
+TJ Moore	[92]	[93]	[82]	[5.8]	WR	Tampa	FL	True	Clemson Tigers	
+JJ Harrell	[93]	[90]	[81]	[5.9]	WR	Sardis	MS	True	Mississippi State Bulldogs	
+Bradley Shaw	[91]	[94]	[82]	[5.8]	LB	Hoover	AL	False	False	
+Cutter Boley	[94]	[90]	[81]	[5.9]	QB	Hodgenville	KY	True	Kentucky Wildcats	
+Aeryn Hampton	[92]	[90]	[83]	[5.9]	WR	Daingerfield	TX	False	False	
+Walker White	[91]	[93]	[82]	[5.8]	QB	Little Rock	AR	True	Auburn Tigers	
+Kameryn Fountain	[90]	[95]	[84]	[5.7]	EDGE	Atlanta	GA	True	Usc Trojans	
+Maurice Williams	[91]	[91]	[82]	[5.9]	S	Bellaire	TX	True	Houston Cougars	
+Jonathan Echols	[92]	[91]	[86]	[5.8]	TE	Franklin	GA	True	Tennessee Volunteers	
+Jordan Anderson	[91]	[91]	[82]	[5.9]	WR	Newport Beach	CA	True	Oregon Ducks	
+Zay Mincey	[94]	[93]	[84]	[5.6]	S	Daytona Beach	FL	False	False	
+Tylen Singleton	[90]	[92]	[83]	[5.9]	LB	Many	LA	False	False	
+Andrew Sprague	[92]	[92]	[82]	[5.8]	OT	Kansas City	MO	True	Michigan Wolverines	
+Garrett Stover	[92]	[92]	[83]	[5.8]	LB	Sunbury	OH	True	Ohio State Buckeyes	
+Brian Robinson	[91]	[90]	[84]	[5.9]	EDGE	Austintown	OH	False	False	
+Ricardo Jones	[91]	[91]	[82]	[5.9]	S	Warner Robins	GA	True	Clemson Tigers	
+Michael Uini	[92]	[91]	[84]	[5.8]	OT	Copperas Cove	TX	True	Georgia Bulldogs	
+Kaleb Beasley	[92]	[92]	[82]	[5.8]	CB	Nashville	TN	True	Tennessee Volunteers	
+Braylon Staley	[92]	[92]	[81]	[5.8]	WR	Aiken	SC	True	Tennessee Volunteers	
+Wendell Gregory	[94]	[90]	[84]	[5.8]	LB	Marietta	GA	True	South Carolina Gamecocks	
+Bennett Warren	[90]	[93]	[84]	[5.8]	OT	Sugar Land	TX	False	False	
+Fox Crader	[93]	[91]	[81]	[5.8]	OT	Vancouver	WA	True	Oregon Ducks	
+Dashawn McBryde	[91]	[93]	[83]	[5.7]	S	Denham Springs	LA	True	Lsu Tigers	
+Ryan Puglisi	[93]	[90]	[85]	[5.8]	QB	Avon	CT	True	Georgia Bulldogs	
+Dylan Williams	[91]	[90]	[81]	[6.0]	LB	Long Beach	CA	False	False	
+Loghan Thomas	[93]	[90]	[81]	[5.8]	EDGE	Katy	TX	True	Notre Dame Fighting Irish	
+Nyier Daniels	[92]	[92]	[82]	[5.7]	OT	Oradell	NJ	False	False	
+Jimothy Lewis	[91]	[93]	[81]	[5.8]	IOL	Madison	MS	True	Mississippi State Bulldogs	
+Sterling Dixon	[93]	[90]	[81]	[5.8]	LB	Mobile	AL	True	Alabama Crimson Tide	
+Blake Frazier	[91]	[90]	[81]	[5.9]	OT	Austin	TX	True	Michigan Wolverines	
+Brandon Jacob	[92]	[91]	[83]	[5.8]	S	Orlando	FL	False	False	
+Tae Johnson	[90]	[91]	[81]	[5.9]	ATH	Fort Wayne	IN	True	Notre Dame Fighting Irish	
+Artavius Jones	[91]	[92]	[84]	[5.7]	DL	Blountstown	FL	False	False	
+Hogan Hansen	[91]	[92]	[81]	[5.8]	TE	Bellevue	WA	True	Michigan Wolverines	
+Darien Mayo	[93]	[89]	[80]	[5.9]	EDGE	Olney	MD	True	Clemson Tigers	
+Chauncey Bowens	[93]	[88]	[83]	[5.9]	RB	North Palm Beach	FL	True	Georgia Bulldogs	
+Danny Okoye	[94]	[89]	[83]	[5.8]	EDGE	Tulsa	OK	False	False	
+Booker Pickett	[92]	[90]	[82]	[5.8]	EDGE	Tampa	FL	False	False	
+Kedren Young	[93]	[90]	[82]	[5.8]	RB	Lufkin	TX	True	Notre Dame Fighting Irish	
+Cayden Jones	[91]	[91]	[85]	[5.8]	LB	Arden	NC	True	Alabama Crimson Tide	
+Jalyn Crawford	[90]	[91]	[82]	[5.9]	CB	Lilburn	GA	False	False	
+Ellis Davis	[94]	[90]	[80]	[5.7]	OT	Prosper	TX	True	Texas Tech Red Raiders	
+Micahi Danzy	[92]	[91]	[82]	[5.7]	ATH	Tallahassee	FL	False	False	
+Jon Mitchell	[93]	[90]	[83]	[5.7]	CB	Jacksonville	FL	True	Penn State Nittany Lions	
+Jaydan Hardy	[89]	[92]	[83]	[5.9]	S	Lewisville	TX	True	Oklahoma Sooners	
+Gabriel Williams	[93]	[90]	[80]	[5.8]	LB	Washington	DC	True	Virginia Tech Hokies	
+Cheta Ofili	[92]	[91]	[82]	[5.7]	EDGE	Sachse	TX	True	Texas Tech Red Raiders	
+Jameer Grimsley	[93]	[90]	[81]	[5.7]	CB	Tampa	FL	True	Alabama Crimson Tide	
+Jordan Lyle	[94]	[88]	[79]	[5.9]	RB	Fort Lauderdale	FL	True	Ohio State Buckeyes	
+Amaris Williams	[88]	[93]	[81]	[5.9]	DL	Clinton	NC	True	Florida Gators	
+Jeffery Rush	[89]	[94]	[83]	[5.8]	DL	Pascagoula	MS	True	Ole Miss Rebels	
+Dilin Jones	[90]	[92]	[83]	[5.8]	RB	Olney	MD	False	False	
+Mazeo Bennett	[92]	[90]	[82]	[5.8]	WR	Greenville	SC	True	South Carolina Gamecocks	
+Jordon Johnson-Rubell	[89]	[91]	[84]	[5.9]	S	Fort Worth	TX	True	Texas Longhorns	
+Keylen Adams	[92]	[90]	[82]	[5.8]	WR	Virginia Beach	VA	False	False	
+Jonathan Paylor	[90]	[90]	[84]	[5.9]	WR	Burlington	NC	False	False	
+Jac'Qawn McRoy	[89]	[94]	[85]	[5.7]	OT	Pinson	AL	True	Oregon Ducks	
+Peyton Lewis	[91]	[91]	[83]	[5.8]	RB	Salem	VA	True	Tennessee Volunteers	
+Zion Ragins	[92]	[90]	[82]	[5.8]	WR	Gray	GA	False	False	
+Freddie Dubose Jr.	[92]	[90]	[82]	[5.8]	WR	Schertz	TX	True	Texas Longhorns	
+Hevin Brown-Shuler	[90]	[90]	[81]	[5.9]	DL	Atlanta	GA	True	Clemson Tigers	
+Boo Carter	[90]	[89]	[81]	[6.0]	ATH	Chattanooga	TN	True	Tennessee Volunteers	
+Courtney Crutchfield	[89]	[94]	[81]	[5.8]	ATH	Pine Bluff	AR	True	Arkansas Razorbacks	
+Travaris Banks	[91]	[89]	[83]	[5.9]	S	Tuscaloosa	AL	True	Ole Miss Rebels	
+Jelani Watkins	[90]	[92]	[84]	[5.8]	WR	Houston	TX	False	False	
+Max Anderson	[91]	[90]	[82]	[5.8]	IOL	Frisco	TX	True	Tennessee Volunteers	
+Daniel Cruz	[92]	[89]	[80]	[5.9]	IOL	North Richland Hills	TX	True	Texas Longhorns	
+Daniel Hill	[91]	[90]	[82]	[5.8]	ATH	Meridian	MS	False	False	
+CJ Jackson	[93]	[89]	[81]	[5.8]	EDGE	Tucker	GA	True	Georgia Tech Yellow Jackets	
+Dylan Stephenson	[91]	[89]	[82]	[5.9]	EDGE	Miami	FL	True	Stanford Cardinal	
+Kelvin Hunter	[91]	[91]	[82]	[5.7]	S	Florence	SC	True	South Carolina Gamecocks	
+Michael Van Buren	[90]	[89]	[88]	[5.9]	QB	Bowie	MD	True	Oregon Ducks	
+Kwazi Gilmer	[92]	[89]	[79]	[5.9]	WR	West Hills	CA	False	False	
+Zina Umeozulu	[91]	[90]	[86]	[5.8]	EDGE	Allen	TX	False	False	
+J'Marion Burnette	[90]	[90]	[81]	[5.9]	RB	Andalusia	AL	True	Auburn Tigers	
+Frankie Arthur	[91]	[92]	[79]	[5.7]	RB	Conroe	TX	False	False	
+William Satterwhite	[90]	[90]	[82]	[5.9]	IOL	Akron	OH	False	False	
+Jacob Oden	[91]	[90]	[81]	[5.8]	S	Harper Woods	MI	True	Michigan Wolverines	
+KingJoseph Edwards	[91]	[90]	[85]	[5.8]	EDGE	Hoschton	GA	False	False	
+Donovan Harbour	[90]	[90]	[85]	[5.8]	IOL	Waukesha	WI	True	Penn State Nittany Lions	
+Mason Curtis	[92]	[90]	[81]	[5.8]	LB	Nashville	TN	True	Michigan Wolverines	
+Braylon Burnside	[91]	[90]	[82]	[5.8]	WR	Starkville	MS	True	Mississippi State Bulldogs	
+Ivan Carreon	[91]	[90]	[81]	[5.8]	WR	Odessa	TX	True	Oklahoma Sooners	
+Isaiah Garcia	[91]	[90]	[83]	[5.7]	IOL	Draper	UT	False	False	
+Ondre Evans	[93]	[88]	[82]	[5.8]	CB	Nashville	TN	True	Lsu Tigers	
+Brayden Platt	[89]	[93]	[82]	[5.7]	LB	Yelm	WA	False	False	
+Micah Gilbert	[91]	[90]	[81]	[5.8]	WR	Charlotte	NC	True	Notre Dame Fighting Irish	
+Luke Reynolds	[87]	[95]	[81]	[5.8]	TE	Westford	MA	True	Penn State Nittany Lions	
+Aneyas Williams	[90]	[90]	[80]	[5.9]	RB	Hannibal	MO	True	Notre Dame Fighting Irish	
+Kylan Fox	[89]	[92]	[82]	[5.8]	TE	Loganville	GA	True	Ucf Knights	
+Xadavien Sims	[88]	[91]	[81]	[5.9]	DL	Durant	OK	True	Oregon Ducks	
+Marquis Gallegos	[92]	[90]	[82]	[5.7]	S	West Hills	CA	True	Usc Trojans	
+Kolaj Cobbins	[89]	[90]	[82]	[5.9]	LB	Destrehan	LA	True	Lsu Tigers	
+Preston Taumua	[90]	[90]	[82]	[5.8]	IOL	Aiea	HI	False	False	
+Cooper Cousins	[90]	[90]	[84]	[5.8]	IOL	Erie	PA	True	Penn State Nittany Lions	
+Marcos Davila	[90]	[91]	[79]	[5.8]	QB	Midland	TX	True	Purdue Boilermakers	
+Jalewis Solomon	[90]	[89]	[82]	[5.9]	ATH	Ellaville	GA	False	False	
+Jason Mitchell	[90]	[90]	[81]	[5.8]	S	Los Angeles	CA	False	False	
+Jerrae Hawkins	[90]	[91]	[82]	[5.8]	WR	Wheeling	WV	True	Florida Gators	
+Keonde Henry	[92]	[90]	[78]	[5.8]	WR	Lake Dallas	TX	True	Purdue Boilermakers	
+Ethan Calloway	[93]	[89]	[79]	[5.8]	OT	Mooresville	NC	True	Lsu Tigers	
+Jacob Smith	[90]	[90]	[84]	[5.8]	EDGE	Cheshire	CT	False	False	
+Payton Pierce	[88]	[90]	[83]	[5.9]	LB	Lucas	TX	True	Ohio State Buckeyes	
+Santana Wilson	[93]	[89]	[79]	[5.8]	CB	Scottsdale	AZ	True	Texas Longhorns	
+Lawayne McCoy	[89]	[91]	[77]	[5.9]	WR	Miami	FL	True	Florida State Seminoles	
+Paki Finau	[90]	[90]	[82]	[5.8]	IOL	Hesperia	CA	True	Washington Huskies	
+Ashton Funk	[90]	[89]	[83]	[5.9]	IOL	Katy	TX	True	Texas Am Aggies	
+Terhyon Nichols	[91]	[90]	[81]	[5.8]	CB	Cincinnati	OH	True	Kentucky Wildcats	
+Marques Easley	[90]	[90]	[81]	[5.8]	OT	Kankakee	IL	False	False	
+Jordan Washington	[91]	[90]	[80]	[5.7]	RB	Long Beach	CA	True	Arizona Wildcats	
+Tawaski Abrams	[91]	[90]	[81]	[5.8]	WR	Fort Myers	FL	True	Florida State Seminoles	
+Dakyus Brinkley	[91]	[90]	[81]	[5.8]	EDGE	Katy	TX	True	Kansas Jayhawks	
+Dillon Gresham	[91]	[90]	[81]	[5.8]	WR	San Jacinto	CA	True	Oregon Ducks	
+Kavion Henderson	[88]	[90]	[83]	[5.9]	DL	Leeds	AL	True	Arkansas Razorbacks	
+T.A. Cunningham	[90]	[90]	[83]	[5.8]	DL	Miami	FL	False	False	
+Troy Stevenson	[89]	[92]	[80]	[5.8]	CB	Charleston	SC	False	False	
+Josiah Brown	[90]	[90]	[82]	[5.7]	ATH	Hicksville	NY	True	Penn State Nittany Lions	
+Malcolm Ziglar	[93]	[89]	[79]	[5.7]	S	Fuquay Varina	NC	False	False	
+Tyseer Denmark	[91]	[88]	[80]	[5.9]	WR	Philadelphia	PA	True	Penn State Nittany Lions	
+Kamar Mothudi	[89]	[91]	[83]	[5.8]	LB	Los Angeles	CA	False	False	
+Vaboue Toure	[92]	[89]	[81]	[5.7]	S	Irvington	NJ	True	Penn State Nittany Lions	
+Caleb Holmes	[90]	[90]	[81]	[5.7]	IOL	Fairburn	GA	True	Pittsburgh Panthers	
+Noah Dixon	[89]	[90]	[81]	[5.9]	S	Lagrange	GA	True	Clemson Tigers	
+Tavoy Feagin	[89]	[90]	[81]	[5.9]	CB	Tampa	FL	True	Clemson Tigers	
+Fletcher Westphal	[90]	[90]	[82]	[5.7]	OT	Leesburg	VA	False	False	
+Naki Tuakoi	[91]	[90]	[80]	[5.8]	LB	Oakland	CA	True	Stanford Cardinal	
+Jerod Smith	[88]	[92]	[82]	[5.8]	DL	Cheshire	CT	True	Michigan Wolverines	
+Eddy Pierre-Louis	[90]	[87]	[81]	[6.0]	IOL	Tampa	FL	False	False	
+Kellen Lindstrom	[90]	[89]	[79]	[5.9]	EDGE	Springfield	MO	True	Tennessee Volunteers	
+Ju’Juan Johnson	[90]	[90]	[80]	[5.8]	CB	Lafayette	LA	True	Lsu Tigers	
+Xavier Atkins	[90]	[89]	[80]	[5.9]	LB	Jonesboro	LA	True	Lsu Tigers	
+Roger Gradney	[90]	[91]	[79]	[5.7]	S	Altair	TX	True	Nebraska Cornhuskers	
+Rico Scott	[90]	[90]	[81]	[5.8]	WR	Harrisburg	PA	True	Alabama Crimson Tide	
+Christian Clark	[90]	[89]	[80]	[5.9]	RB	Phoenix	AZ	True	Texas Longhorns	
+DD Holmes	[92]	[88]	[81]	[5.8]	EDGE	Washington	DC	True	Florida State Seminoles	
+Nasir Johnson	[90]	[90]	[78]	[5.8]	DL	Dublin	GA	True	Florida Gators	
+Jordan Ross	[91]	[89]	[81]	[5.8]	WR	Garden Grove	CA	True	Colorado State Rams	
+Jeremy Payne	[89]	[90]	[82]	[5.8]	RB	Missouri City	TX	True	Tcu Horned Frogs	
+Brandon Davis-Swain	[88]	[90]	[82]	[5.9]	DL	West Bloomfield	MI	True	Colorado Buffaloes	
+Jeremiah Beasley	[90]	[90]	[79]	[5.8]	LB	Belleville	MI	True	Michigan Wolverines	
+Kevin Heywood	[92]	[88]	[80]	[5.8]	OT	Royersford	PA	True	Wisconsin Badgers	
+Joey Olsen	[91]	[89]	[82]	[5.7]	TE	Lake Oswego	OR	True	Usc Trojans	
+Braylen Russell	[90]	[90]	[81]	[5.8]	RB	Benton	AR	False	False	
+Brian Huff	[92]	[88]	['-']	[5.8]	LB	Jonesboro	AR	False	False	
+Noreel White	[90]	[90]	[80]	[5.8]	WR	Ocean Springs	MS	True	Arkansas Razorbacks	
+Jeremiah Newcombe	[90]	[90]	[79]	[5.8]	CB	Queen Creek	AZ	True	Oklahoma Sooners	
+Alex Taylor	[89]	[91]	[78]	[5.8]	WR	Greensboro	NC	False	False	
+Grant Stec	[90]	[90]	[82]	[5.8]	TE	Algonquin	IL	True	Wisconsin Badgers	
+Max LeBlanc	[90]	[90]	[82]	[5.8]	TE	Chattanooga	TN	True	Ohio State Buckeyes	
+Cameron Keys	[92]	[90]	[80]	[5.6]	CB	Panama City	FL	True	Missouri Tigers	
+Myles Davis	[91]	[90]	[79]	[5.7]	S	Converse	TX	False	False	
+Ka'Davion Dotson-Walker	[90]	[90]	[80]	[5.8]	S	Duncanville	TX	False	False	
+Ethan Grunkemeyer	[89]	[90]	[84]	[5.7]	QB	Lewis Center	OH	True	Penn State Nittany Lions	
+Hauss Hejny	[90]	[90]	[79]	[5.8]	QB	Fort Worth	TX	True	Tcu Horned Frogs	
+Jaylen McClain	[93]	[89]	[83]	[5.6]	S	West Orange	NJ	True	Ohio State Buckeyes	
+Hardley Gilmore	[90]	[88]	[81]	[5.9]	WR	Belle Glade	FL	False	False	
+Isiah Canion	[93]	[89]	[82]	[5.6]	WR	Warner Robins	GA	True	Georgia Tech Yellow Jackets	
+Stacy Gage	[89]	[89]	[80]	[5.9]	RB	Fort Lauderdale	FL	True	Ucf Knights	
+Mario Craver	[90]	[90]	[81]	[5.8]	WR	Pinson	AL	False	False	
+Bredell Richardson	[90]	[88]	[80]	[5.9]	WR	Tampa	FL	False	False	
+Colin Hurley	[90]	[90]	[81]	[5.8]	QB	Jacksonville	FL	True	Lsu Tigers	
+A'Mon Lane	[89]	[90]	[81]	[5.8]	CB	Alabaster	AL	True	Auburn Tigers	
+Elijah Newby	[89]	[90]	[81]	[5.8]	LB	Cheshire	CT	True	Usc Trojans	
+Corey Smith	[89]	[90]	[82]	[5.8]	RB	Waukesha	WI	True	Penn State Nittany Lions	
+Amari Jefferson	[90]	[89]	[81]	[5.8]	WR	Chattanooga	TN	False	False	
+Izaiah Williams	[91]	[89]	[79]	[5.8]	WR	Zephyrhills	FL	True	Florida Gators	
+Demond Williams Jr.	[89]	[90]	[82]	[5.8]	QB	Chandler	AZ	True	Ole Miss Rebels	
+Joseph Stone	[89]	[90]	[81]	[5.8]	WR	Fairburn	GA	True	Lsu Tigers	
+Kingston Lopa	[89]	[90]	[82]	[5.7]	ATH	Sacramento	CA	True	Oregon Ducks	
+Edwin Spillman	[90]	[90]	[80]	[5.8]	LB	Nashville	TN	False	False	
+Elias Rudolph	[89]	[90]	[81]	[5.8]	EDGE	Deerfield Beach	FL	True	Michigan Wolverines	
+Anthony Carrie	[89]	[89]	[79]	[5.9]	RB	Tampa	FL	True	Michigan State Spartans	
+Marcellus Barnes	[92]	[88]	[79]	[5.7]	CB	Chattanooga	TN	True	Virginia Tech Hokies	
+Peter Jones	[89]	[88]	[81]	[5.9]	IOL	Malvern	PA	True	Notre Dame Fighting Irish	
+Tayvion Galloway	[88]	[90]	[82]	[5.8]	TE	Pickerington	OH	False	False	
+I'marion Stewart	[89]	[89]	[79]	[5.9]	WR	Chicago	IL	True	Michigan Wolverines	
+Deontae Armstrong	[91]	[88]	[80]	[5.8]	OT	Lakewood	OH	True	Ohio State Buckeyes	
+Malcolm Simmons	[90]	[89]	[80]	[5.8]	ATH	Alexander City	AL	False	False	
+Johann Cardenas	[92]	[88]	[79]	[5.7]	RB	Houston	TX	False	False	
+Kahnen Daniels	[90]	[89]	[80]	[5.8]	RB	West Point	MS	True	Florida Gators	
+JaCorey Whitted	[91]	[89]	[79]	[5.7]	TE	McCalla	AL	False	False	
+Emerson Mandell	[92]	[88]	[78]	[5.7]	IOL	Saint Paul	MN	True	Wisconsin Badgers	
+Trever Jackson	[90]	[89]	[80]	[5.7]	QB	Winter Garden	FL	False	False	
+Kylan Billiot	[87]	[93]	[78]	[5.7]	WR	Houma	LA	True	Lsu Tigers	
+Isaac Brown	[90]	[90]	[80]	[5.7]	RB	Homestead	FL	True	Louisville Cardinals	
+Dejuan Lane	[89]	[90]	[81]	[5.8]	S	Baltimore	MD	True	Penn State Nittany Lions	
+DeJuan Williams	[89]	[90]	[81]	[5.8]	RB	Baltimore	MD	True	Maryland Terrapins	
+Zion Ferguson	[88]	[89]	[80]	[5.9]	CB	Gainesville	GA	True	North Carolina Tar Heels	
+Styles Prescod	[91]	[88]	[80]	[5.7]	IOL	Fishers	IN	True	Notre Dame Fighting Irish	
+Cody Fox	[88]	[90]	[82]	[5.8]	IOL	Winthrop	IA	True	Iowa Hawkeyes	
+Mario Buford	[92]	[87]	[80]	[5.7]	CB	DeSoto	TX	True	Nebraska Cornhuskers	
+Emmett Mosley	[89]	[90]	[81]	[5.8]	WR	Rancho Santa Margarita	CA	True	Stanford Cardinal	
+Braydon Lee	[89]	[88]	[80]	[5.9]	CB	Springdale	MD	True	South Carolina Gamecocks	
+Waltclaire Flynn Jr.	[88]	[90]	[82]	[5.8]	IOL	Loganville	GA	True	Ucf Knights	
+TJ Lindsey	[89]	[88]	['-']	[5.9]	DL	Bryant	AR	False	False	
+Elija Lofton	[88]	[90]	[81]	[5.8]	TE	Las Vegas	NV	True	Miami Hurricanes	
+KJ Duff	[90]	[89]	[79]	[5.8]	TE	Riverhead	NY	True	Rutgers Scarlet Knights	
+Bryce Young	[91]	[88]	[79]	[5.8]	EDGE	Charlotte	NC	True	Notre Dame Fighting Irish	
+Will Hammond	[89]	[90]	[78]	[5.8]	QB	Hutto	TX	True	Texas Tech Red Raiders	
+Elijah Moore	[90]	[89]	[79]	[5.8]	WR	Olney	MD	True	Florida State Seminoles	
+Jayden Lewis	[89]	[90]	[80]	[5.8]	CB	Anniston	AL	True	Auburn Tigers	
+Omar White	[90]	[89]	[80]	[5.8]	DL	Valdosta	GA	True	Colorado Buffaloes	
+Isaac Wilson	[89]	[90]	[80]	[5.8]	QB	Draper	UT	True	Utah Utes	
+Damian Thompson	[89]	[90]	[80]	[5.8]	S	Florence	AL	False	False	
+DayDay Farmer	[89]	[90]	[80]	[5.8]	WR	Melbourne	FL	True	Pittsburgh Panthers	
+Josh Philostin	[90]	[89]	[80]	[5.7]	CB	Palm Beach	FL	False	False	
+Miles Lockhart	[89]	[90]	[79]	[5.8]	CB	Chandler	AZ	False	False	
+Peyton Morgan	[93]	[89]	[78]	[5.6]	S	Pflugerville	TX	True	Texas Tech Red Raiders	
+Ryner Swanson	[90]	[89]	['-']	[5.8]	TE	Laguna Beach	CA	True	Byu Cougars	
+Champ Thompson	[90]	[88]	[81]	[5.8]	DL	Norcross	GA	True	Clemson Tigers	
+Fred Gaskin III	[88]	[89]	[79]	[5.9]	S	Ocala	FL	False	False	
+James Madison II	[89]	[89]	[81]	[5.8]	WR	Fort Lauderdale	FL	True	Missouri Tigers	
+Devontae Armstrong	[90]	[88]	[80]	[5.8]	OT	Lakewood	OH	True	Ohio State Buckeyes	
+Tyanthony Smith	[90]	[88]	[79]	[5.8]	LB	Jasper	TX	True	Texas Am Aggies	
+Ca'lil Valentine	[90]	[88]	[80]	[5.8]	RB	Chandler	AZ	False	False	
+Mark Schroller	[90]	[89]	[79]	[5.7]	OT	Mission Viejo	CA	True	Ucla Bruins	
+Mylachi Williams	[91]	[87]	['-']	[5.8]	EDGE	Philadelphia	PA	False	False	
+Samaj Jones	[90]	[88]	[81]	[5.7]	QB	Philadelphia	PA	True	Cincinnati Bearcats	
+Michael Hawkins	[88]	[88]	[81]	[5.9]	QB	McKinney	TX	True	Oklahoma Sooners	
+Jaylen Harvey	[89]	[89]	[80]	[5.8]	EDGE	Potomac	MD	False	False	
+Damarion Witten	[88]	[90]	[79]	[5.8]	TE	Cleveland	OH	True	Ohio State Buckeyes	
+Manasse Itete	[91]	[92]	[79]	[5.5]	OT	Modesto	CA	True	Usc Trojans	
+James Nesta	[90]	[89]	[78]	[5.7]	LB	Cornelius	NC	True	Oklahoma Sooners	
+Julius Pope	[89]	[90]	[79]	[5.8]	LB	Batesville	MS	True	Arkansas Razorbacks	
+Anthonie Knapp	[91]	[88]	[78]	[5.7]	IOL	Roswell	GA	True	Notre Dame Fighting Irish	
+Derrick McFall	[89]	[90]	[80]	[5.7]	ATH	Tyler	TX	False	False	
+Joel Rogers	[91]	[89]	[82]	[5.6]	S	Saint Francisville	LA	True	Lsu Tigers	
+Tyson Turner	[91]	[88]	[78]	[5.7]	WR	Bryan	TX	True	Texas Tech Red Raiders	
+Garrett Sexton	[92]	[89]	[79]	[5.6]	OT	Hartland	WI	True	Penn State Nittany Lions	
+Dante Reno	[88]	[90]	[81]	[5.8]	QB	Fiskdale	MA	True	South Carolina Gamecocks	
+Marcus Goree	[90]	[89]	[78]	[5.7]	S	Cleveland	TN	True	Tennessee Volunteers	
+Jayshawn Ross	[88]	[88]	[80]	[5.9]	ATH	Kansas City	MO	False	False	
+Luke Hamilton	[88]	[90]	[81]	[5.8]	IOL	Avon	OH	True	Michigan Wolverines	
+Kendall Jackson	[90]	[89]	['-']	[5.7]	DL	Gainesville	FL	False	False	
+Witt Edwards	[89]	[90]	['-']	[5.7]	ATH	Wagoner	OK	False	False	
+Elijah Groves	[89]	[92]	[79]	[5.6]	LB	Cross Plains	TN	True	Kentucky Wildcats	
+Derek Weisskopf	[90]	[91]	[76]	[5.6]	LB	Williamsburg	IA	True	Iowa Hawkeyes	
+Jamie Tremble	[88]	[90]	['-']	[5.7]	TE	Norcross	GA	True	Syracuse Orange	
+Jaxson Jones	[89]	[89]	[79]	[5.8]	EDGE	Yuma	AZ	True	Oregon Ducks	
+Ziron Brown	[91]	[87]	['-']	[5.7]	OT	Bay Saint Louis	MS	True	Stanford Cardinal	
+Dae'vonn Hall	[89]	[89]	[80]	[5.8]	WR	Bellevue	NE	True	Nebraska Cornhuskers	
+Earl Kulp	[88]	[90]	[80]	[5.8]	CB	Fort Lauderdale	FL	True	Purdue Boilermakers	
+Eli Bowen	[88]	[90]	[80]	[5.8]	CB	Denton	TX	False	False	
+Qua Birdsong	[89]	[89]	[80]	[5.8]	LB	Lagrange	GA	True	Ucf Knights	
+BJ Gibson	[89]	[89]	[80]	[5.8]	WR	Rochelle	GA	True	Florida State Seminoles	
+Jordan Burns	[89]	[89]	[80]	[5.8]	LB	Atlanta	GA	True	Tennessee Volunteers	
+TyShun White	[88]	[88]	[79]	[5.9]	CB	Buford	GA	True	North Carolina Tar Heels	
+Dominic Nichols	[90]	[89]	[79]	[5.7]	EDGE	Ijamsville	MD	True	Michigan Wolverines	
+Luke Williams	[89]	[90]	[79]	[5.7]	WR	Naperville	IL	True	Purdue Boilermakers	
+Duke Watson	[90]	[89]	[79]	[5.7]	RB	Forsyth	GA	True	Louisville Cardinals	
+Parker Livingstone	[87]	[88]	[82]	[5.9]	WR	Lucas	TX	True	Texas Longhorns	
+Chris Johnson	[90]	[88]	['-']	[5.7]	CB	Aledo	TX	True	Arizona State Sun Devils	
+Josh Flowers	[90]	[88]	[81]	[5.7]	QB	Mobile	AL	True	Mississippi State Bulldogs	
+Michael Turner	[88]	[90]	[81]	[5.7]	WR	River Ridge	LA	True	Lsu Tigers	
+Kensley Faustin	[90]	[88]	[78]	[5.8]	S	Naples	FL	True	Auburn Tigers	
+Roger Saleapaga	[89]	[89]	['-']	[5.8]	TE	Orem	UT	False	False	
+Michael Boganowski	[89]	[89]	['-']	[5.8]	LB	Junction City	KS	False	False	
+Travis Jackson	[89]	[89]	['-']	[5.8]	EDGE	Tyler	TX	True	Tcu Horned Frogs	
+Davion Gause	[87]	[88]	[81]	[5.9]	RB	Hollywood	FL	True	North Carolina Tar Heels	
+Nathaniel Palmer	[90]	[88]	[79]	[5.7]	RB	Decatur	TX	True	Tcu Horned Frogs	
+Terrance Hibbler	[88]	[87]	[81]	[5.9]	DL	Lexington	MS	True	Mississippi State Bulldogs	
+Jordan Lockhart	[88]	[88]	[79]	[5.9]	LB	Bellflower	CA	True	Texas Am Aggies	
+Kenyan Kelly	[89]	[90]	[78]	[5.7]	S	Denison	TX	True	Utsa Roadrunners	
+Gerard Johnson	[92]	[88]	['-']	[5.6]	EDGE	Virginia Beach	VA	True	Virginia Tech Hokies	
+Daniel Kaelin	[88]	[90]	[78]	[5.7]	QB	Bellevue	NE	True	Nebraska Cornhuskers	
+Austin Alexander	[91]	[89]	[80]	[5.6]	CB	Hazel Crest	IL	True	Kansas Jayhawks	
+Jaden Smith	[89]	[88]	[84]	[5.7]	LB	Charlotte	NC	True	Michigan Wolverines	
+A.J. Pugliano	[88]	[90]	[79]	[5.8]	TE	Medford	OR	True	Oregon Ducks	
+Kaj Sanders	[90]	[88]	[79]	[5.8]	S	Oradell	NJ	False	False	
+Dylan Mesman	[89]	[89]	[79]	[5.8]	TE	Saline	MI	True	Louisville Cardinals	
+Ted Hammond	[89]	[89]	[79]	[5.8]	DL	Cincinnati	OH	True	Michigan Wolverines	
+Eric Karner	[90]	[88]	[79]	[5.8]	TE	Itasca	IL	True	Texas Am Aggies	
+Emanuel Ross	[90]	[88]	[80]	[5.7]	WR	Red Bank	NJ	True	Stanford Cardinal	
+Cam Pruitt	[88]	[90]	[80]	[5.7]	LB	Theodore	AL	True	Miami Hurricanes	
+Darrion Dupree	[88]	[88]	[78]	[5.9]	RB	Chicago	IL	False	False	
+Terrell Anderson	[92]	[88]	[79]	[5.6]	WR	Greensboro	NC	False	False	
+Alex January	[91]	[87]	[78]	[5.7]	DL	Duncanville	TX	True	Texas Longhorns	
+Jadon Porter	[89]	[90]	[77]	[5.7]	WR	Lorena	TX	True	Baylor Bears	
+Tionne Gray	[87]	[88]	[80]	[5.9]	DL	Saint Louis	MO	True	Oregon Ducks	
+KJ Jackson	[88]	[90]	[78]	[5.8]	QB	Montgomery	AL	True	Arkansas Razorbacks	
+Jordan Shipp	[89]	[89]	[78]	[5.8]	WR	Charlotte	NC	False	False	
+Makai Saina	[89]	[89]	[78]	[5.8]	IOL	Arlington	TX	True	Usc Trojans	
+Jacory Barney	[89]	[89]	[78]	[5.8]	WR	Miami	FL	True	Nebraska Cornhuskers	
+Jaylan Hornsby	[90]	[88]	[78]	[5.8]	WR	Camden	NJ	True	Texas Am Aggies	
+Dominic Kirks	[90]	[88]	[78]	[5.8]	DL	Cleveland	OH	True	Washington Huskies	
+Jakob Gude	[89]	[89]	[78]	[5.8]	S	Fairburn	GA	False	False	
+Ernest Campbell	[90]	[87]	[79]	[5.8]	WR	Refugio	TX	False	False	
+Anelu Lafaele	[88]	[90]	['-']	[5.7]	EDGE	Honolulu	HI	False	False	
+Obinna Onwuka	[90]	[88]	['-']	[5.7]	EDGE	Upper Marlboro	MD	True	West Virginia Mountaineers	
+Caleb Moore	[89]	[89]	['-']	[5.7]	DL	Hattiesburg	MS	True	Southern Miss Golden Eagles	
+Dontae Carter	[90]	[88]	['-']	[5.7]	S	Cibolo	TX	False	False	
+Tyler Cherry	[91]	[87]	[77]	[5.7]	QB	Greenwood	IN	True	Duke Blue Devils	
+David Eziomume	[89]	[88]	[79]	[5.8]	RB	Kennesaw	GA	True	Clemson Tigers	
+Ronnie Royal III	[87]	[90]	[80]	[5.8]	ATH	Alexandria	AL	True	Nc State Wolfpack	
+David Washington	[87]	[90]	[80]	[5.8]	WR	Las Vegas	NV	False	False	
+Owen Wafle	[88]	[89]	[80]	[5.8]	DL	Princeton	NJ	True	Michigan Wolverines	
+Paul Mencke Jr.	[92]	[88]	[78]	[5.6]	S	Cibolo	TX	True	Duke Blue Devils	
+Anthony Speca	[88]	[89]	[79]	[5.8]	LB	Pittsburgh	PA	True	Penn State Nittany Lions	
+Melvin Laster	[88]	[90]	[77]	[5.8]	LB	Liberty	MO	True	Unlv Rebels	
+Elyjah Thurmon	[90]	[87]	['-']	['-']	IOL	Hinesville	GA	False	False	
+Jake Guarnera	[89]	[89]	[79]	[5.7]	IOL	Ponte Vedra Beach	FL	True	Michigan Wolverines	
+Edward Smith	[89]	[89]	[79]	[5.7]	EDGE	Pearland	TX	True	Texas Tech Red Raiders	
+Isaiah McMorris	[89]	[89]	[79]	[5.7]	WR	Omaha	NE	True	Nebraska Cornhuskers	
+Kyan McDonald	[90]	[90]	[80]	[5.6]	CB	Seattle	WA	False	False	
+Navarro Schunke	[90]	[90]	[80]	[5.6]	IOL	Brandon	SD	False	False	
+Jamyri Cauley	[88]	[88]	[83]	[5.8]	ATH	Dallas	TX	True	Smu Mustangs	
+Leonard Moore	[89]	[88]	[78]	[5.8]	CB	Round Rock	TX	True	Notre Dame Fighting Irish	
+Joshua Lair	[89]	[89]	[79]	['-']	S	Missouri City	TX	False	False	
+Elijah Baesa	[88]	[89]	[81]	[5.7]	WR	Mesquite	TX	True	Arizona State Sun Devils	
+Cam Buffington	[89]	[90]	[80]	[5.6]	LB	Winfield	IA	True	Iowa Hawkeyes	
+Willis McGahee IV	[87]	[90]	[79]	[5.7]	LB	Miami	FL	True	Nebraska Cornhuskers	
+Gabriel Winowich	[87]	[90]	[81]	[5.7]	ATH	Detroit	MI	True	Rutgers Scarlet Knights	
+Andrew Dennis	[87]	[90]	[78]	[5.7]	OT	Mount Pleasant	MI	True	Michigan State Spartans	
+Justin Logan	[88]	[89]	['-']	[5.8]	LB	Marietta	GA	False	False	
+Daniel Freitag	[89]	[88]	['-']	[5.8]	WR	Minneapolis	MN	False	False	
+Devon Baxter	[90]	[88]	[78]	[5.7]	EDGE	Brandywine	MD	True	Michigan Wolverines	
+Reggie Powers	[90]	[88]	[78]	[5.7]	S	Dayton	OH	True	Michigan State Spartans	
+Tristan Jernigan	[89]	[89]	[78]	[5.7]	LB	Tupelo	MS	True	Texas Am Aggies	
+Omillio Agard	[87]	[87]	[81]	[5.9]	CB	Philadelphia	PA	True	Wisconsin Badgers	
+Brayshon Williams	[90]	[86]	[80]	[5.8]	S	Lakeland	FL	False	False	
+Jason Robinson	[88]	[89]	[79]	[5.8]	WR	Rancho Santa Margarita	CA	True	Washington Huskies	
+Damani Maxson	[89]	[88]	[79]	[5.8]	S	Houston	TX	True	Kansas Jayhawks	
+Davhon Keys	[89]	[88]	[79]	[5.8]	LB	Aledo	TX	True	Lsu Tigers	
+Rodney Hill	[89]	[88]	[79]	[5.8]	LB	Palm Coast	FL	True	Tulane Green Wave	
+William Love	[89]	[88]	[79]	[5.8]	LB	Camden	NJ	False	False	
+Malik Blocton	[88]	[89]	[79]	[5.8]	DL	Pike Road	AL	False	False	
+Devon Jordan	[88]	[89]	[79]	[5.8]	CB	Tulsa	OK	False	False	
+Ricky Knight	[88]	[87]	[78]	[5.9]	CB	Palm Beach Gardens	FL	True	Florida State Seminoles	
+Jamir Benjamin	[88]	[89]	[80]	[5.7]	CB	West Bloomfield	MI	True	Northwestern Wildcats	
+Kayvion Sibley	[89]	[88]	[80]	[5.7]	RB	Allen	TX	False	False	
+Christian Peterson	[89]	[88]	[80]	[5.7]	S	Atlanta	GA	False	False	
+Camdon Frier	[88]	[88]	[81]	[5.8]	WR	Lake City	FL	True	Florida State Seminoles	
+Mekhai White	[88]	[89]	[78]	[5.8]	WR	King George	VA	False	False	
+Jarvis Boatwright Jr.	[89]	[88]	[78]	[5.8]	S	Clearwater	FL	True	Usc Trojans	
+Koby Young	[89]	[88]	[78]	[5.8]	WR	New Orleans	LA	True	Georgia Tech Yellow Jackets	
+Chase Tyler	[89]	[88]	[78]	[5.8]	WR	Hiram	GA	True	Duke Blue Devils	
+Justin Tauanuu	[88]	[89]	[78]	[5.8]	OT	Huntington Beach	CA	True	Stanford Cardinal	
+Bodie Kahoun	[89]	[88]	[78]	[5.8]	LB	Roanoke	VA	True	Notre Dame Fighting Irish	
+Caden Brown	[91]	[88]	['-']	[5.6]	EDGE	New York	NY	False	False	
+Rob Booker	[90]	[87]	[77]	[5.7]	TE	Waunakee	WI	True	Ucla Bruins	
+Solomon Williams	[88]	[89]	['-']	[5.7]	EDGE	Tampa	FL	False	False	
+Robby Martin	[88]	[89]	['-']	[5.7]	IOL	Huntington	WV	False	False	
+Jameson Riggs	[87]	[90]	['-']	[5.7]	IOL	Hiram	GA	False	False	
+Jordan Washington	[88]	[89]	['-']	[5.7]	TE	Houston	TX	True	Texas Longhorns	
+Keyshawn Flowers	[89]	[88]	['-']	[5.7]	LB	Severn	MD	True	Maryland Terrapins	
+Zycarl Lewis	[88]	[88]	[80]	[5.8]	WR	Tampa	FL	True	Colorado Buffaloes	
+CJ Heard	[89]	[87]	[80]	[5.8]	S	Atlanta	GA	True	Florida State Seminoles	
+Jack Larsen	[88]	[88]	[80]	[5.8]	TE	Charlotte	NC	True	Notre Dame Fighting Irish	
+Jaylen Thompson	[88]	[88]	[80]	[5.8]	CB	Murfreesboro	TN	True	Michigan State Spartans	
+Cameron Lindsey	[88]	[88]	[80]	[5.8]	LB	Aliquippa	PA	True	Pittsburgh Panthers	
+Isaiah Rubin	[86]	[90]	[80]	[5.8]	CB	Los Alamitos	CA	False	False	
+James Randle	[89]	[88]	[79]	[5.7]	WR	Daytona Beach	FL	False	False	
+J'Koby Williams	[89]	[88]	[79]	[5.7]	RB	Beckville	TX	True	Texas Tech Red Raiders	
+Anthony Robinson	[88]	[89]	[79]	[5.7]	S	Destrehan	LA	True	Ole Miss Rebels	
+Josiah Davis	[88]	[89]	[79]	[5.7]	S	Nashville	GA	True	Florida Gators	
+Koi Perich	[89]	[90]	[80]	[5.6]	S	Esko	MN	True	Minnesota Golden Gophers	
+Nate Kibble	[89]	[87]	[81]	[5.7]	IOL	Humble	TX	True	Texas Longhorns	
+PJ Woodland	[88]	[88]	[78]	[5.8]	ATH	Hattiesburg	MS	True	Mississippi State Bulldogs	
+Joshua Smith	[88]	[89]	['-']	['-']	WR	Crandall	TX	False	False	
+Kenny Woseley	[88]	[88]	[78]	[5.8]	CB	Philadelphia	PA	True	Penn State Nittany Lions	
+Mabrey Mettauer	[88]	[87]	[80]	[5.8]	QB	The Woodlands	TX	True	Wisconsin Badgers	
+D'antre Robinson	[89]	[86]	[80]	[5.8]	DL	Orlando	FL	False	False	
+Channing Goodwin	[87]	[90]	[78]	[5.7]	WR	Charlotte	NC	True	Michigan Wolverines	
+Markeis Barrett Jr.	[89]	[88]	[78]	[5.7]	WR	Knoxville	TN	True	Vanderbilt Commodores	
+Rodney Bimage	[89]	[88]	[78]	[5.7]	CB	Dickinson	TX	True	Arizona State Sun Devils	
+Devin Smith	[89]	[88]	[78]	[5.7]	LB	Brunswick	GA	False	False	
+Clinton Richard	[89]	[88]	[78]	[5.7]	IOL	Hiram	GA	True	Wake Forest Demon Deacons	
+Karson Hobbs	[89]	[88]	[78]	[5.7]	CB	Cincinnati	OH	True	Notre Dame Fighting Irish	
+Marcus Downs	[89]	[88]	[78]	[5.7]	DL	Taylors	SC	False	False	
+Red Morgan	[89]	[88]	[78]	[5.7]	S	Phenix City	AL	True	Florida State Seminoles	
+Ryan Mack	[90]	[89]	[77]	[5.6]	S	Fort Lauderdale	FL	True	Miami Hurricanes	
+Noah Carter	[91]	[90]	['-']	[5.5]	EDGE	Peoria	AZ	True	Washington Huskies	
+Anthony Maddox	[88]	[87]	[82]	[5.8]	QB	Hattiesburg	MS	True	Texas Am Aggies	
+Vosky Howard	[89]	[87]	['-']	[5.8]	WR	Timpson	TX	False	False	
+Khmori House	[89]	[87]	['-']	[5.8]	LB	Bellflower	CA	True	Washington Huskies	
+Devoux Tuataga	[89]	[87]	['-']	[5.8]	EDGE	EAGLE MOUNTAIN	UT	False	False	
+Tobias Steppes	[88]	[88]	['-']	[5.8]	OT	Lancaster	TX	True	Tcu Horned Frogs	
+Khristian Dunbar-Hawkins	[85]	[90]	[80]	[5.8]	S	Tustin	CA	True	Ucla Bruins	
+Braylon Conley	[89]	[87]	[79]	[5.8]	S	Humble	TX	True	Usc Trojans	
+Ben Roebuck	[87]	[89]	[79]	[5.8]	OT	Lakewood	OH	True	Michigan Wolverines	
+Blake Franks	[88]	[88]	[79]	[5.8]	IOL	Greenville	SC	True	South Carolina Gamecocks	
+Trey Owens	[88]	[88]	[79]	[5.8]	QB	Cypress	TX	True	Texas Longhorns	
+Cameron Jones	[88]	[88]	[79]	[5.8]	RB	San Bernardino	CA	True	Ucla Bruins	
+Andrew Hines III	[88]	[88]	[80]	[5.7]	LB	Atlanta	GA	True	Wake Forest Demon Deacons	
+Jason Patterson	[87]	[89]	[81]	['-']	RB	Sneads	FL	False	False	
+Kumaro Brown	[90]	[87]	[77]	[5.7]	ATH	Memphis	TN	False	False	
+Micah Ka'apana	[88]	[89]	[77]	[5.7]	RB	Las Vegas	NV	True	Michigan Wolverines	
+Kyland Reed	[88]	['-']	['-']	[5.7]	LB	Arlington	TX	True	Baylor Bears	
+Jakhari Williams	[91]	[87]	[79]	[5.6]	QB	Macon	GA	True	Syracuse Orange	
+Eddie Tuerk	[88]	[88]	[78]	[5.8]	DL	La Grange	IL	True	Illinois Fighting Illini	
+Jadan Baugh	[88]	[88]	[78]	[5.8]	ATH	Decatur	GA	True	Arkansas Razorbacks	
+Dimitry Nicolas	[88]	[88]	[78]	[5.8]	DL	Opa Locka	FL	False	False	
+Tysean Griffin	[88]	[88]	[78]	[5.8]	ATH	Chicago	IL	True	Illinois Fighting Illini	
+De'Myrion Johnson	[87]	[88]	[82]	[5.7]	DL	New Iberia	LA	True	Lsu Tigers	
+Peyton Waters	[87]	[88]	[80]	[5.8]	WR	Los Angeles	CA	True	Washington Huskies	
+Luke Moga	[89]	[86]	[80]	[5.8]	QB	Phoenix	AZ	True	Oregon Ducks	
+Quintavius Johnson	[88]	[87]	[80]	[5.8]	DL	Atlanta	GA	True	Georgia Bulldogs	
+Ashton Woods	[90]	[86]	[77]	[5.8]	LB	Marietta	GA	True	North Carolina Tar Heels	
+D'Angelo Barber	[89]	[87]	[77]	[5.8]	LB	Pinson	AL	True	Auburn Tigers	
+Jalen Todd	[89]	[87]	[77]	[5.8]	CB	Southfield	MI	True	Kansas Jayhawks	
+Tony-Louis Nkuba	[90]	[85]	[76]	[5.8]	CB	Lewisville	TX	True	Arizona State Sun Devils	
+BJ Canady	[88]	[88]	['-']	[5.7]	DL	Topeka	KS	False	False	
+Marshel Sanders	[89]	[87]	['-']	[5.7]	WR	Fresno	CA	False	False	
+LaVonte Johnson	[89]	[87]	['-']	[5.7]	S	Houston	TX	False	False	
+Herb Gray	[88]	[88]	['-']	[5.7]	DL	Upper Marlboro	MD	False	False	
+Jiquavious Marshall	[89]	[87]	['-']	[5.7]	ATH	Macon	GA	True	Kentucky Wildcats	
+Wyatt Simmons	[89]	[87]	['-']	[5.7]	LB	Searcy	AR	False	False	
+Martavious Collins	[87]	[89]	[79]	[5.7]	TE	Calhoun	GA	True	Auburn Tigers	
+Maealiuaki Smith	[88]	[88]	[79]	[5.7]	QB	Sacramento	CA	False	False	
+Tovani Mizell	[88]	[88]	[79]	[5.7]	RB	Fort Lauderdale	FL	True	Kentucky Wildcats	
+Barry Walker	[87]	[89]	[79]	[5.7]	OT	Cordele	GA	False	False	
+Kewan Lacy	[89]	[87]	[79]	[5.7]	RB	Lancaster	TX	True	Nebraska Cornhuskers	
+Jeremiah Marcelin	[89]	[87]	[79]	[5.7]	LB	Miami	FL	True	Pittsburgh Panthers	
+Devin Brooks	[87]	[89]	[79]	[5.7]	IOL	Clackamas	OR	True	Oregon Ducks	
+Andrew Rosinski	[88]	[88]	[79]	[5.7]	OT	Ball Ground	GA	True	North Carolina Tar Heels	
+Cole Sullivan	[89]	[87]	[79]	[5.7]	LB	Pittsburgh	PA	True	Michigan Wolverines	
+Caleb Brewer	[88]	[88]	[79]	[5.7]	ATH	Reading	PA	True	Penn State Nittany Lions	
+Jayden Jackson	[87]	[88]	[78]	[5.8]	DL	Bradenton	FL	False	False	
+Kari Jackson	[88]	[87]	[78]	[5.8]	LB	Bloomfield Hills	MI	True	Penn State Nittany Lions	
+Jaden Allen	[87]	[88]	[78]	[5.8]	CB	Aledo	TX	True	Arkansas Razorbacks	
+Edrees Farooq	[88]	[88]	[76]	[5.8]	S	Baltimore	MD	True	Tennessee Volunteers	
+Kai Greer	[88]	[88]	[76]	[5.8]	IOL	Waxhaw	NC	True	Stanford Cardinal	
+Harry Stewart	[88]	[88]	[78]	[5.7]	RB	Frisco	TX	True	Kansas Jayhawks	
+Landyn Cleveland	[88]	[88]	[78]	[5.7]	S	Mansfield	TX	True	Oklahoma State Cowboys	
+Joshua Jackson	[88]	[88]	[78]	[5.7]	WR	New Orleans	LA	True	Tulane Green Wave	
+Marc Nave	[88]	[88]	[78]	[5.7]	IOL	Toledo	OH	True	Ohio State Buckeyes	
+Sean Sevillano	[88]	[88]	[78]	[5.7]	DL	Clearwater	FL	True	Notre Dame Fighting Irish	
+Curtis Simpson	[89]	[87]	[78]	[5.7]	EDGE	Kings Mountain	NC	True	North Carolina Tar Heels	
+Oliver Miles	[88]	[88]	[78]	[5.7]	S	El Campo	TX	True	Texas Tech Red Raiders	
+Yasin Willis	[87]	[88]	[77]	[5.8]	RB	Montvale	NJ	False	False	
+Mykel Patterson-McDonald	[87]	['-']	['-']	[5.8]	S	Moore	OK	False	False	
+Debron Gatling	[87]	[88]	[79]	[5.8]	WR	Alpharetta	GA	True	Texas Am Aggies	
+Cedrick Bailey Jr.	[88]	[87]	[79]	[5.8]	QB	Hollywood	FL	True	Nc State Wolfpack	
+Dylan Tapley	[88]	[87]	[79]	[5.8]	ATH	Scottsdale	AZ	True	Arizona State Sun Devils	
+KJ Daniels	[87]	[88]	[80]	[5.7]	WR	Franklinton	LA	True	Oklahoma Sooners	
+Coen Echols	[88]	[87]	[80]	[5.7]	IOL	Katy	TX	True	Texas Am Aggies	
+Jay Harper	['-']	[88]	[77]	[5.7]	CB	Valley	AL	True	Wisconsin Badgers	
+Isaiah Buxton	[87]	[89]	[77]	[5.7]	CB	Chula Vista	CA	True	Arizona Wildcats	
+Khayree Lee	[87]	[89]	[77]	[5.7]	IOL	Marrero	LA	True	Lsu Tigers	
+Marcus Harrison	[87]	[89]	[77]	[5.7]	OT	Athol	NY	True	Georgia Bulldogs	
+Thomas Heiberger	[89]	[87]	[77]	[5.7]	LB	Sioux Falls	SD	True	Wisconsin Badgers	
+Chris Davis	[88]	[86]	[81]	[5.8]	RB	Picayune	MS	True	Stanford Cardinal	
+Jaheim Merriweather	[90]	[88]	[79]	[5.6]	ATH	Knoxville	TN	True	Purdue Boilermakers	
+Will Nolan	[89]	[89]	[79]	[5.6]	OT	Arlington Heights	IL	True	Iowa Hawkeyes	
+D'marius Rucker	[88]	[88]	['-']	['-']	RB	Lakeland	FL	False	False	
+Jamari Payne	[89]	[87]	['-']	['-']	DL	Auburn	AL	False	False	
+Maurice Davis	[89]	[87]	['-']	['-']	EDGE	Albany	GA	False	False	
+Devondre McGee	[88]	[88]	['-']	['-']	CB	Conroe	TX	False	False	
+Noah Onyia	[89]	[87]	['-']	['-']	TE	Lawrenceville	GA	False	False	
+Malik Esquerra	[88]	[88]	['-']	['-']	S	Killeen	TX	False	False	
+Jahsear Whittington	[87]	[88]	[78]	[5.8]	DL	Philadelphia	PA	True	Pittsburgh Panthers	
+Sincere Edwards	[87]	[88]	[78]	[5.8]	DL	Apopka	FL	False	False	
+Isaiah Autry	[88]	[87]	[78]	[5.8]	OT	Fulton	MS	True	Oklahoma Sooners	
+Deshon Dodson	[88]	[87]	[78]	[5.8]	DL	Philadelphia	PA	False	False	
+Derek Jensen	[88]	[87]	[78]	[5.8]	OT	Hartland	WI	True	Wisconsin Badgers	
+Zy’marion Lang	[88]	[87]	[78]	[5.8]	WR	Palmetto	FL	False	False	
+John Wayne Oliver	[89]	[86]	[78]	[5.8]	IOL	Nashville	TN	True	Ole Miss Rebels	
+Fred Johnson	[88]	[92]	[77]	[5.5]	LB	Norfolk	VA	True	South Carolina Gamecocks	
+Chalil Cummings	[91]	[87]	[76]	[5.6]	ATH	Starke	FL	False	False	
+Kennedy Urlacher	[89]	[87]	[76]	[5.7]	S	Chandler	AZ	True	Notre Dame Fighting Irish	
+EJ Caminong	[89]	[89]	[78]	[5.6]	QB	Seattle	WA	True	California Golden Bears	
+Bryan Jackson	[88]	[86]	[80]	[5.8]	RB	McKinney	TX	True	Usc Trojans	
+Lamar Radcliffe	[86]	[88]	[80]	[5.8]	RB	Sacramento	CA	False	False	
+Chanz Wiggins	[87]	[87]	[80]	[5.8]	WR	King George	VA	False	False	
+Nicholas Rodriguez	[88]	[86]	[80]	[5.8]	LB	Fort Lauderdale	FL	True	Missouri Tigers	
+Gage Ginther	[87]	[87]	[80]	[5.8]	OT	Fort Collins	CO	True	Tennessee Volunteers	
+Jaylin Lackey	[89]	[87]	[78]	['-']	CB	Snellville	GA	True	Virginia Cavaliers	
+Ian Flynt	[87]	[88]	[77]	[5.8]	TE	Katy	TX	True	Nebraska Cornhuskers	
+Holton Hendrix	[88]	[87]	[77]	[5.8]	IOL	Lubbock	TX	True	Texas Tech Red Raiders	
+Isaiah Thomas	[88]	[87]	[77]	[5.8]	S	Toronto	ON	True	Miami Hurricanes	
+Elijah Washington	[90]	[87]	['-']	[5.6]	TE	Norfolk	VA	False	False	
+Marquise Thorpe-Taylor	[87]	[88]	[79]	[5.7]	OT	Tacoma	WA	True	Ucla Bruins	
+Stacy Bey	[88]	[88]	[75]	[5.7]	LB	Rancho Cucamonga	CA	True	San Diego State Aztecs	
+Caleb Pyfrom	[87]	[88]	['-']	[5.7]	OT	Omaha	NE	True	Illinois Fighting Illini	
+Deshawn Warner	[88]	[87]	['-']	[5.7]	EDGE	Goodyear	AZ	True	Kansas Jayhawks	
+Melvin Hills	[88]	[87]	['-']	[5.7]	DL	Lafayette	LA	False	False	
+Amare Sanders	[89]	[86]	['-']	[5.7]	CB	Miami	FL	False	False	
+Damarrion White	[88]	[87]	['-']	[5.7]	EDGE	El Cajon	CA	False	False	
+Kaedin Massey	[86]	[89]	['-']	[5.7]	OT	Lyndon	KS	True	Kansas State Wildcats	
+Adam Kissayi	[89]	[89]	[77]	[5.6]	EDGE	Palm Bay	FL	True	Minnesota Golden Gophers	
+D'Mon Marable	[89]	[89]	[77]	[5.6]	S	Clinton	TN	True	Purdue Boilermakers	
+Terrence Curtis	[88]	['-']	[78]	['-']	CB	Lilburn	GA	False	False	
+Asaad Brown	[87]	[87]	[78]	[5.8]	CB	Portsmouth	VA	True	Nc State Wolfpack	
+Aba Selm	[90]	[87]	[77]	[5.6]	IOL	Independence	KY	True	Kentucky Wildcats	
+Danny O'Neil	[87]	[88]	[78]	[5.7]	QB	Indianapolis	IN	True	Colorado Buffaloes	
+Brandon Booker	[88]	[87]	[78]	[5.7]	LB	DeSoto	TX	True	Stanford Cardinal	
+Tre McLeod	[87]	[88]	[78]	[5.7]	RB	Philadelphia	PA	False	False	
+Nasir Smith	[89]	[86]	[78]	[5.7]	DL	Grayson	GA	False	False	
+Jalon Thompson	[89]	[86]	[78]	[5.7]	S	Orlando	FL	False	False	
+Dozie Ezukanma	[88]	[87]	[78]	[5.7]	WR	Fort Worth	TX	True	Oklahoma Sooners	
+Zechariah Sample	[88]	[87]	[78]	[5.7]	ATH	Katy	TX	True	Arizona State Sun Devils	
+Eagan Boyer	[87]	[88]	[78]	[5.7]	OT	Cornelius	NC	True	Penn State Nittany Lions	
+Josiah Martin	[88]	[87]	[78]	[5.7]	WR	Denton	TX	True	Boston College Eagles	
+Jeilani Davis	[88]	[87]	[78]	[5.7]	S	Santa Ana	CA	True	Utah Utes	
+Cole Mullins	[88]	[87]	[78]	[5.7]	LB	Hoschton	GA	True	Notre Dame Fighting Irish	
+Joseph McVay	[88]	[87]	[78]	[5.7]	WR	Earle	AR	True	Vanderbilt Commodores	
+Ashton Williams	[87]	['-']	['-']	[5.7]	S	Trophy Club	TX	False	False	
+Jayden Bradford	[88]	[86]	[79]	[5.8]	QB	Chapin	SC	False	False	
+Jaylen Boardley	[86]	[89]	[77]	[5.7]	ATH	Texarkana	TX	True	Oklahoma State Cowboys	
+Tre Griffiths	[89]	[86]	[77]	[5.7]	WR	Keller	TX	True	Oklahoma State Cowboys	
+Traevon Dunbar	[87]	[88]	[77]	[5.7]	RB	Aiken	SC	False	False	
+Duke Scott	[88]	[87]	[77]	[5.7]	RB	Stockbridge	GA	True	Nc State Wolfpack	
+Landon Bell	[88]	[87]	[77]	[5.7]	WR	Henderson	NV	True	Arizona Wildcats	
+Dylan Day	[88]	[87]	[77]	[5.7]	S	Baton Rouge	LA	True	Miami Hurricanes	
+Marcus Mascoll	[89]	[86]	[77]	[5.7]	OT	Atlanta	GA	True	Florida Gators	
+Ahmad Breaux	[88]	[87]	[77]	[5.7]	EDGE	Ruston	LA	True	Lsu Tigers	
+Desman Stephens	[89]	[86]	[77]	[5.7]	S	Clarkston	MI	True	Boston College Eagles	
+Antoine Belgrave-Shorter	[88]	[87]	[77]	[5.7]	CB	Jacksonville	FL	True	Penn State Nittany Lions	
+Trey Horne	[88]	[87]	[77]	[5.7]	ATH	Rabun Gap	GA	True	Georgia Tech Yellow Jackets	
+Carlon Jones	[88]	[87]	[77]	[5.7]	DL	Bay City	TX	True	Nebraska Cornhuskers	
+Rod Gainey Jr.	[88]	[86]	['-']	[5.8]	RB	Tampa	FL	True	Charlotte 49Ers	
+Ronan O'Connell	[87]	[87]	['-']	[5.8]	IOL	Franklin	TN	True	Clemson Tigers	
+Ryan Howerton	[87]	[87]	['-']	[5.8]	OT	Laurel	MD	False	False	
+Rahshawn Clark	[87]	[90]	[79]	[5.6]	ATH	Seattle	WA	False	False	
+Gibson Pyle	[89]	[88]	[79]	[5.6]	IOL	Houston	TX	True	Nebraska Cornhuskers	
+Bodey McCaslin	[89]	[88]	[79]	[5.6]	OT	Saint Charles	IL	True	Iowa Hawkeyes	
+Eric Brantley Jr.	[88]	[89]	[79]	[5.6]	DL	Valdosta	GA	True	Colorado Buffaloes	
+James Resar	[87]	[90]	[79]	[5.6]	QB	Jacksonville	FL	True	Iowa Hawkeyes	
+Justin Denson Jr.	[89]	[88]	[79]	[5.6]	S	Providence	RI	True	Michigan State Spartans	
+Wyatt Gilmore	[87]	[90]	[79]	[5.6]	EDGE	Rogers	MN	True	Oklahoma Sooners	
+Sam Robinson	[89]	[88]	[79]	[5.6]	LB	Tallahassee	FL	True	Rutgers Scarlet Knights	
+Cameron Clark	[89]	[88]	[79]	[5.6]	ATH	Medina	TN	True	Ole Miss Rebels	
+Drew Campbell	[91]	[88]	[78]	[5.5]	EDGE	Cedar Falls	IA	True	Iowa Hawkeyes	
+Vincent Shavers	[88]	[86]	[78]	[5.8]	LB	Miami Gardens	FL	True	Miami Hurricanes	
+Zavier Hamilton	[88]	[86]	[78]	[5.8]	LB	Gulf Breeze	FL	True	Usf Bulls	
+Deuce Adams	[87]	[87]	[78]	[5.8]	QB	New Braunfels	TX	True	Louisville Cardinals	
+Sacovie White	[87]	[87]	[78]	[5.8]	WR	Cartersville	GA	True	Georgia Bulldogs	
+Dermaricus Davis	[89]	[88]	['-']	[5.6]	QB	Upland	CA	True	Washington Huskies	
+Rickey Williams	[89]	[88]	['-']	[5.6]	LB	Akron	OH	True	West Virginia Mountaineers	
+Brandon Hood	[89]	[87]	[81]	[5.6]	RB	McDonough	GA	False	False	
+Malachi Durant	[87]	[88]	[76]	[5.7]	WR	Graham	WA	True	Oregon State Beavers	
+Mason Wade	[89]	[86]	[76]	[5.7]	IOL	Purcellville	VA	True	Duke Blue Devils	
+Kaleb Harris	[87]	[88]	[76]	[5.7]	S	Alabaster	AL	False	False	
+Dion Stutts	[89]	[86]	[76]	[5.7]	DL	Memphis	TN	False	False	
+Jo'Ziah Edmond	[87]	[88]	[76]	[5.7]	ATH	Nappanee	IN	True	Purdue Boilermakers	
+Aidan Glover	[89]	[86]	[76]	[5.7]	QB	Collierville	TN	True	Missouri Tigers	
+Dayton Aupiu	[89]	[88]	[78]	[5.6]	S	Oxnard	CA	True	California Golden Bears	
+Robert Bourdon	[89]	[88]	[78]	[5.6]	OT	Collierville	TN	True	Duke Blue Devils	
+Trajen Greco	[89]	[88]	[78]	[5.6]	CB	Hoschton	GA	True	Georgia Tech Yellow Jackets	
+Jaiden Patterson	[89]	[88]	[78]	[5.6]	CB	Hoschton	GA	True	North Carolina Tar Heels	
+Ory Williams	[86]	[87]	[82]	[5.7]	OT	Buda	TX	False	False	
+Brandon Rehmann	[87]	[87]	[77]	[5.8]	WR	Philadelphia	PA	True	West Virginia Mountaineers	
+Jah Jah Boyd	[88]	[86]	[81]	['-']	CB	Philadelphia	PA	True	James Madison Dukes	
+Jayden Parrish	[87]	[87]	[79]	[5.7]	LB	Delray Beach	FL	True	Florida State Seminoles	
+Xavier Robinson	[86]	[88]	[79]	[5.7]	RB	Midwest City	OK	True	Oklahoma Sooners	
+Isaia Faga	[88]	[86]	[79]	[5.7]	DL	Phenix City	AL	True	Alabama Crimson Tide	
+Marcus Dawson	[87]	[88]	['-']	['-']	S	Baton Rouge	LA	False	False	
+Creece Brister	[88]	[87]	['-']	['-']	IOL	Stephenville	TX	False	False	
+Justin Okoronkwo	[87]	[88]	['-']	['-']	LB	Munich	BY	True	Maryland Terrapins	
+Adrian Laing	[89]	[86]	['-']	['-']	CB	Paramus	NJ	False	False	
+Zaiden Wallace	[88]	[87]	['-']	['-']	DL	Kapolei	HI	False	False	
+Luke Webb	[87]	[88]	['-']	['-']	DL	Deer Park	TX	False	False	
+Kahmir Prescott	[90]	[87]	[77]	[5.6]	S	Philadelphia	PA	True	Wisconsin Badgers	
+Gavin Grover	[88]	[89]	[77]	[5.6]	TE	Lewis Center	OH	True	Cincinnati Bearcats	
+Terrence Kiel	[86]	[88]	['-']	[5.7]	WR	Smyrna	GA	False	False	
+Dinellson Exume	[87]	[87]	['-']	[5.7]	EDGE	Miami	FL	False	False	
+Anthony Reddick	[88]	[86]	['-']	[5.7]	EDGE	Hampton	VA	True	Maryland Terrapins	
+Shakir Collins	[88]	[86]	['-']	[5.7]	LB	Oro Grande	CA	False	False	
+William Sanders	[90]	[84]	['-']	[5.7]	IOL	Brookwood	AL	False	False	
+Teddy Foster	[87]	[87]	['-']	[5.7]	CB	Sarasota	FL	False	False	
+Tra'Mar Harris	[88]	[86]	['-']	[5.7]	WR	Cincinnati	OH	True	Purdue Boilermakers	
+Cooper Alexander	[86]	[88]	['-']	[5.7]	TE	Washington	OK	True	Iowa State Cyclones	
+Javarius Green	[88]	[86]	['-']	[5.7]	WR	Shelby	NC	False	False	
+Aidan Lynch	[87]	[87]	['-']	[5.7]	OT	Flanders	NJ	True	Virginia Tech Hokies	
+Tyreek'e Robinson	[87]	[87]	[78]	[5.7]	DL	Bradenton	FL	False	False	
+Tyler Mason	[88]	[86]	[78]	[5.7]	RB	Mount Airy	NC	True	Virginia Tech Hokies	
+Xavier Gayten	[86]	[88]	[78]	[5.7]	ATH	Brookhaven	MS	True	Mississippi State Bulldogs	
+Gus Hawkins	[89]	[88]	[76]	[5.6]	OT	Shawnee	KS	True	Kansas State Wildcats	
+Kavion Broussard	[86]	[88]	[80]	['-']	OT	Zachary	LA	False	False	
+David Kabongo	['-']	[87]	[76]	[5.7]	S	Trophy Club	TX	True	Oklahoma State Cowboys	
+Shamar Rigby	['-']	[87]	[76]	[5.7]	ATH	Saint Petersburg	FL	True	Purdue Boilermakers	
+Tyjai Hopper	[89]	['-']	['-']	['-']	CB	Alpharetta	GA	False	False	
+Colton Heinrich	[87]	[86]	[79]	[5.8]	TE	Fort Lauderdale	FL	True	Georgia Bulldogs	
+Kobe Boykin	[86]	[88]	[75]	[5.8]	RB	Los Alamitos	CA	False	False	
+Decker DeGraaf	[87]	[88]	[77]	['-']	TE	Glendora	CA	True	Washington Huskies	
+Kyren Condoll	[88]	[86]	[77]	[5.7]	CB	Upland	CA	True	Duke Blue Devils	
+Micah Welch	[87]	[87]	[77]	[5.7]	RB	Milledgeville	GA	True	Colorado Buffaloes	
+Colin Cubberly	[88]	[86]	[77]	[5.7]	OT	Lagrangeville	NY	True	Wisconsin Badgers	
+Sam Williams-Dixon	[88]	[86]	[77]	[5.7]	ATH	Millersburg	OH	True	Ohio State Buckeyes	
+Leontre Bradford	[88]	[86]	[77]	[5.7]	S	East Saint Louis	IL	False	False	
+Willie Nelson	[88]	[86]	[77]	[5.7]	CB	Longview	TX	True	Oklahoma State Cowboys	
+Chris Wheatley-Humphrey	[88]	[86]	[77]	[5.7]	RB	Hollywood	FL	True	Miami Hurricanes	
+Kristopher Wokomah	[90]	[86]	[77]	[5.6]	S	Arlington	TX	True	Baylor Bears	
+Cam'Ron Warren	[88]	[88]	[79]	[5.6]	OT	Chesapeake	VA	False	False	
+D'Nas White	[88]	[88]	[79]	[5.6]	DL	Concord	NC	False	False	
+Marquawn McCraney	[86]	[90]	[79]	[5.6]	S	Burien	WA	False	False	
+Davis Andrews	[88]	[88]	[79]	[5.6]	S	American Fork	UT	False	False	
+Zuri Madison	[88]	[88]	[79]	[5.6]	OT	Lexington	KY	True	Arkansas Razorbacks	
+Deyvid Palepale	[88]	[88]	[79]	[5.6]	DL	Landisville	PA	True	Usc Trojans	
+Xavier Porter	[87]	[86]	['-']	[5.8]	DL	Tampa	FL	False	False	
+Ashton Hampton	[86]	[87]	[78]	[5.8]	ATH	Tallahassee	FL	False	False	
+Adrian Lewis	[87]	['-']	[79]	['-']	IOL	Fort Worth	TX	False	False	
+Jeremy Hecklinski	[87]	[87]	[76]	[5.7]	QB	Marietta	GA	True	Wake Forest Demon Deacons	
+Ahkhari Johnson	[88]	[86]	[76]	[5.7]	ATH	Texarkana	TX	True	Arkansas Razorbacks	
+Jide Abasiri	[88]	[86]	[76]	[5.7]	DL	Savage	MN	True	Minnesota Golden Gophers	
+Quentin Reddish	[88]	[86]	[76]	[5.7]	S	Charlotte	NC	True	Virginia Tech Hokies	
+Jacob Ponton	[88]	[86]	[76]	[5.7]	OT	Dripping Springs	TX	True	Texas Tech Red Raiders	
+Bobby Kennedy	[88]	[88]	['-']	[5.6]	CB	New Orleans	LA	False	False	
+Makai Byerson	[89]	[87]	['-']	[5.6]	EDGE	Richmond	VA	True	West Virginia Mountaineers	
+Chima Chineke	[88]	[88]	['-']	[5.6]	EDGE	Plano	TX	False	False	
+Tommy Ricard	[89]	[87]	['-']	[5.6]	IOL	Hudson	OH	True	Virginia Tech Hokies	
+Marqavious Saboor	[89]	[87]	['-']	[5.6]	S	Marietta	GA	True	Cincinnati Bearcats	
+Joseph Dodds	[88]	[88]	['-']	[5.6]	RB	Markham	TX	True	Baylor Bears	
+Uche Iloh	[88]	[88]	['-']	[5.6]	DL	Peachtree City	GA	False	False	
+Jayden Coleman	[88]	[88]	[78]	[5.6]	CB	Phenix City	AL	False	False	
+Brandon Winton Jr.	[88]	[88]	[78]	[5.6]	WR	Knoxville	TN	True	Usf Bulls	
+Joshua Glanz	[89]	[87]	[78]	[5.6]	OT	Chula Vista	CA	True	Ucla Bruins	
+Eugene Brooks	[83]	[89]	[80]	[5.8]	IOL	Chatsworth	CA	False	False	
+Cameron Frazier	[87]	[87]	[75]	[5.7]	ATH	Columbus	OH	False	False	
+Jake Stonebraker	[88]	[87]	[80]	[5.6]	S	Castle Rock	CO	True	Kansas State Wildcats	
+AJ Surace	[88]	[88]	[77]	[5.6]	QB	Trenton	NJ	True	Rutgers Scarlet Knights	
+Jordan Boyd	[88]	[88]	[77]	[5.6]	LB	Beech Island	SC	True	Georgia Tech Yellow Jackets	
+Ananias Walker	[88]	[88]	[77]	[5.6]	ATH	Rohnert Park	CA	False	False	
+Jacob Simpson	[89]	[87]	[77]	[5.6]	TE	Johnston	IA	True	Minnesota Golden Gophers	
+Julian Johnson	[88]	[88]	[77]	[5.6]	TE	Aurora	IL	True	Minnesota Golden Gophers	
+Keona Wilhite	[88]	[88]	[77]	[5.6]	DL	Tucson	AZ	True	Arizona Wildcats	
+Isaiah Crumpler	[92]	[86]	[76]	[5.5]	S	Greenville	NC	True	Rutgers Scarlet Knights	
+Diontay Ramon	[86]	['-']	['-']	[5.7]	ATH	Hawley	TX	False	False	
+Favour Awodoyin	[86]	['-']	['-']	[5.7]	EDGE	Conroe	TX	False	False	
+Dedaunte Scott	[86]	['-']	['-']	[5.7]	CB	Kennedale	TX	False	False	
+Emmett Laws	[87]	[86]	[76]	[5.8]	DL	Elkton	MD	True	Virginia Tech Hokies	
+Peter Pesansky	[87]	[86]	[76]	[5.8]	DL	Tampa	FL	True	North Carolina Tar Heels	
+Caleb Mitchell	[87]	[86]	[78]	[5.7]	DL	DeSoto	TX	True	Purdue Boilermakers	
+Riley Trujillo	[86]	[87]	[78]	[5.7]	QB	Jacksonville	FL	True	Ucf Knights	
+Crews Law	[88]	[85]	[78]	[5.7]	LB	Nashville	TN	True	North Carolina Tar Heels	
+Rahji Dennis	[86]	[87]	[78]	[5.7]	WR	New Orleans	LA	True	Ole Miss Rebels	
+Dorian Williams	[85]	[88]	[78]	[5.7]	WR	Cincinnati	OH	True	Vanderbilt Commodores	
+Landon Gauthier	[87]	[86]	[78]	[5.7]	LB	Green Bay	WI	True	Wisconsin Badgers	
+Zacharyus Williams	[86]	[87]	['-']	[5.7]	WR	Playa Del Rey	CA	False	False	
+Ray'Quan Bell	[87]	[86]	['-']	[5.7]	IOL	Houston	TX	True	Houston Cougars	
+Da'Jaun Riggs	[87]	[86]	['-']	[5.7]	RB	Washington	DC	True	Oregon Ducks	
+Chase Morrison	[87]	[86]	['-']	[5.7]	EDGE	Roswell	GA	True	Virginia Cavaliers	
+Mercer Luniewski	[86]	[87]	['-']	[5.7]	OT	Cincinnati	OH	True	Michigan State Spartans	
+David Dossett	[86]	[87]	['-']	[5.7]	WR	Lee's Summit	MO	False	False	
+Evan Bennett	[89]	[87]	[76]	[5.6]	LB	Eatonton	GA	True	North Carolina Tar Heels	
+Brevin Doll	[89]	[89]	[78]	[5.5]	RB	Adel	IA	True	Iowa Hawkeyes	
+King Large	[88]	[86]	['-']	['-']	IOL	Bellflower	CA	True	Smu Mustangs	
+SanFrisco Magee	[87]	[87]	['-']	['-']	WR	Mccomb	MS	False	False	
+Antavious Murphy	[89]	[85]	['-']	['-']	WR	Bainbridge	GA	False	False	
+Nuku Mafi	[88]	[86]	['-']	['-']	IOL	Salt Lake City	UT	False	False	
+Jaylin Jones	[88]	[86]	['-']	['-']	EDGE	Beaumont	TX	False	False	
+Ryan Powell	[88]	[86]	['-']	['-']	RB	Warren	OH	False	False	
+Elias Williams	[88]	[86]	['-']	['-']	EDGE	Hudson	FL	False	False	
+Trey Petty	[88]	[85]	[77]	[5.7]	QB	Starkville	MS	True	Illinois Fighting Illini	
+Isaiah Patterson	[86]	[87]	[77]	[5.7]	LB	Yelm	WA	True	Ucla Bruins	
+Camden Hardy	[87]	[86]	[77]	[5.7]	EDGE	Jacksonville	FL	True	Wake Forest Demon Deacons	
+Teddy Rezac	[87]	[86]	[77]	[5.7]	ATH	Omaha	NE	True	Notre Dame Fighting Irish	
+Ben Grice	[86]	[87]	[77]	[5.7]	WR	College Park	GA	True	Wake Forest Demon Deacons	
+Blake Tabaracci	[89]	[86]	[79]	[5.6]	LB	Park City	UT	True	Ucla Bruins	
+Brandon Nicholson	[88]	[87]	[79]	[5.6]	CB	Memphis	TN	True	Stanford Cardinal	
+John Price	[87]	[88]	[79]	[5.6]	RB	Stilwell	KS	True	Kansas State Wildcats	
+Whittman Whaley	[89]	[86]	[79]	[5.6]	LB	Gatlinburg	TN	True	Wake Forest Demon Deacons	
+Raphael Dunn	[89]	[86]	[79]	[5.6]	S	Trenton	NJ	True	Wisconsin Badgers	
+Caleb Hackleman	[89]	[87]	[75]	[5.6]	IOL	Texarkana	TX	True	Oklahoma State Cowboys	
+Riley Sunram	[89]	[89]	[77]	[5.5]	IOL	Kindred	ND	True	Minnesota Golden Gophers	
+Brandon Jones	[88]	[85]	[76]	[5.7]	LB	Dallas	TX	True	North Texas Mean Green	
+Foster Slaughter	[87]	[86]	[76]	[5.7]	S	Perris	CA	True	San Diego State Aztecs	
+Keenan Jackson	[86]	[87]	[76]	[5.7]	WR	Waxhaw	NC	True	North Carolina Tar Heels	
+Patrick Broomfield	[87]	[86]	[76]	[5.7]	CB	Clarksdale	MS	True	Ole Miss Rebels	
+Jani Norwood	[88]	[85]	[76]	[5.7]	IOL	Ramseur	NC	True	North Carolina Tar Heels	
+Matt Mayfield	[87]	[86]	[76]	[5.7]	WR	Arnaudville	LA	True	Mississippi State Bulldogs	
+Brock Jackson	[86]	[86]	['-']	[5.8]	EDGE	Lumberton	TX	True	Baylor Bears	
+Caleb Benning	[87]	[88]	[78]	[5.6]	S	Omaha	NE	False	False	
+Joshua Clarke	[88]	[87]	[78]	[5.6]	CB	Oakton	VA	True	Virginia Tech Hokies	
+CJ Brown	[87]	[88]	[78]	[5.6]	WR	Bentonville	AR	True	Arkansas Razorbacks	
+Landan Callahan	[87]	[88]	[78]	[5.6]	S	Pfafftown	NC	True	Duke Blue Devils	
+William Echoles	[88]	[87]	[78]	[5.6]	IOL	Houston	MS	True	Ole Miss Rebels	
+Kale Woodburn	[87]	[88]	[78]	[5.6]	WR	Warner Robins	GA	True	Cincinnati Bearcats	
+Daniel Anderson	[88]	[87]	[78]	[5.6]	EDGE	Germantown	TN	True	North Carolina Tar Heels	
+Gabriel Reliford	[88]	[87]	[78]	[5.6]	EDGE	Shreveport	LA	True	Texas Am Aggies	
+TJ Lockhart	[88]	[87]	[78]	[5.6]	IOL	Winona	MS	True	Mississippi State Bulldogs	
+Adrian Oratokhai	[87]	['-']	[77]	['-']	IOL	Austin	TX	False	False	
+Vinny Winters	[90]	[85]	['-']	[5.6]	IOL	Malvern	AR	False	False	
+William Nettles	[89]	[86]	['-']	[5.6]	CB	Dallas	TX	True	Purdue Boilermakers	
+David Washington Jr.	[86]	[86]	[77]	[5.8]	WR	Philadelphia	PA	False	False	
+Wallace Foster	[86]	[86]	[79]	[5.7]	CB	New Orleans	LA	True	Lsu Tigers	
+Ryan Cory	[87]	[87]	[80]	[5.6]	IOL	Gibsonia	PA	True	Wisconsin Badgers	
+Trent Ferguson	[87]	[86]	[75]	[5.7]	OT	Salem	OR	True	Oregon Ducks	
+Aaris Bethea	[88]	[87]	[77]	[5.6]	DL	Brooklyn	NY	True	Rutgers Scarlet Knights	
+Hudauri Hines	[88]	[87]	[77]	[5.6]	CB	Indianapolis	IN	True	Purdue Boilermakers	
+Ta'Ron Haile	[88]	[87]	[77]	[5.6]	WR	Millville	NJ	True	Syracuse Orange	
+Tomauri Johnson	[88]	[87]	[77]	[5.6]	CB	Miami	FL	False	False	
+Juelz Goff	[88]	[87]	[77]	[5.6]	RB	York	PA	True	Pittsburgh Panthers	
+Jordan Floyd	[87]	[88]	[77]	[5.6]	OT	Atlanta	GA	True	Georgia Tech Yellow Jackets	
+Carlos Mitchell	[87]	[88]	[77]	[5.6]	ATH	Lake Wales	FL	True	North Carolina Tar Heels	
+Charles Anderson	[88]	[87]	[77]	[5.6]	DL	Pearland	TX	True	Texas Tech Red Raiders	
+Francis Brewu	[88]	[87]	[77]	[5.6]	DL	Columbus	OH	True	Pittsburgh Panthers	
+Miles O'Neill	[88]	[87]	[77]	[5.6]	QB	Marblehead	MA	True	Texas Am Aggies	
+Xavier Lucas	[86]	[86]	[76]	[5.8]	S	Fort Lauderdale	FL	False	False	
+Jamaal Wiley	[88]	['-']	['-']	[5.6]	RB	Stafford	TX	True	California Golden Bears	
+Elijah Green	[88]	['-']	['-']	[5.6]	ATH	Oklahoma City	OK	False	False	
+Chandlin Myers	[87]	[85]	[78]	[5.7]	ATH	Hawley	TX	True	Texas Tech Red Raiders	
+Isaiah Marshall	[86]	[89]	[76]	[5.6]	QB	Southfield	MI	True	Kansas Jayhawks	
+Carson Gentle	[89]	[86]	[76]	[5.6]	DL	Chattanooga	TN	True	Tennessee Volunteers	
+Eric Lee	[88]	[87]	[76]	[5.6]	S	Camden	NJ	True	New Hampshire Wildcats	
+Kash Dillon	[87]	[88]	[76]	[5.6]	EDGE	Draper	UT	False	False	
+Josh Joyner	[88]	[87]	[76]	[5.6]	RB	Oxnard	CA	True	Washington State Cougars	
+Manuel Beigel	[87]	[88]	[76]	[5.6]	IOL	Frankf	t,	True	Michigan Wolverines	
+Drake Lindsey	[87]	[88]	[76]	[5.6]	QB	Fayetteville	AR	True	Minnesota Golden Gophers	
+Bryce Cain	[89]	[88]	[78]	[5.5]	WR	Mobile	AL	True	Auburn Tigers	
+Tye Hylton	[87]	[85]	['-']	[5.7]	OT	Oviedo	FL	False	False	
+Devonte Lyons	[87]	[85]	['-']	[5.7]	RB	Saint Augustine	FL	False	False	
+Josh Alexander-Felton	[87]	[85]	['-']	[5.7]	DL	Orlando	FL	False	False	
+Jay'Quan Bostic	[86]	[86]	['-']	[5.7]	WR	Cincinnati	OH	True	West Virginia Mountaineers	
+Aaron Travis	[87]	[85]	['-']	[5.7]	DL	Grenada	MS	True	Southern Miss Golden Eagles	
+Tony Mathis	[87]	[85]	['-']	[5.7]	S	Macon	GA	False	False	
+Camren Campbell	[86]	[86]	['-']	[5.7]	CB	Tampa	FL	True	Michigan State Spartans	
+Brett Carroll	['-']	[88]	[77]	[5.6]	OT	Olathe	KS	True	Minnesota Golden Gophers	
+Brandon Heyward	[86]	[86]	[75]	[5.8]	WR	Oak Ridge	TN	False	False	
+Jayden Fortier	[88]	[89]	['-']	[5.5]	TE	Tualatin	OR	True	Arizona State Sun Devils	
+Dontrell Holt	[90]	[87]	['-']	[5.5]	IOL	Joplin	MO	True	Iowa State Cyclones	
+Brody Barnhardt	[87]	[87]	[79]	[5.6]	S	Charlotte	NC	True	Nc State Wolfpack	
+Kyle Altuner	[87]	[87]	[79]	[5.6]	IOL	Olney	MD	True	West Virginia Mountaineers	
+Preston Watson	[87]	[87]	[79]	[5.6]	DL	Sanford	FL	True	Duke Blue Devils	
+Gemyel Allen	[87]	[87]	[79]	[5.6]	IOL	Lawrenceville	GA	True	Duke Blue Devils	
+Davi Belfort	[85]	[85]	[81]	[5.8]	QB	Fort Lauderdale	FL	True	Virginia Tech Hokies	
+Timajay Hayes	[85]	['-']	[76]	[5.8]	LB	Melbourne	FL	False	False	
+Will Smith	[87]	[88]	[75]	[5.6]	EDGE	Choctaw	OK	False	False	
+Matthew Fuller	[88]	[88]	[80]	[5.5]	RB	Jesup	GA	True	South Carolina Gamecocks	
+Tamarcus Gray	[88]	[85]	[78]	['-']	WR	Texarkana	TX	True	Tulsa Golden Hurricane	
+Montreze Smith	[86]	[87]	[78]	['-']	LB	Carrollton	GA	True	Duke Blue Devils	
+Jeremy St. Hilaire	[89]	[88]	[77]	[5.5]	QB	Chattanooga	TN	True	Vanderbilt Commodores	
+Kyan Berry-Johnson	[86]	[86]	[74]	[5.8]	WR	Bolingbrook	IL	True	Wisconsin Badgers	
+Aaron Philo	[85]	[87]	[76]	[5.7]	QB	Bogart	GA	True	Georgia Tech Yellow Jackets	
+Noah Jenkins	[86]	[86]	[76]	[5.7]	S	Highland Springs	VA	True	Virginia Tech Hokies	
+Jacob Boyce	[86]	[86]	[76]	[5.7]	CB	Douglasville	GA	True	West Virginia Mountaineers	
+Tycoolhill Luman	[86]	[86]	[76]	[5.7]	DL	Miami	FL	True	Rutgers Scarlet Knights	
+Steven Soles	[88]	[86]	[78]	[5.6]	LB	Powell	TN	False	False	
+Fred Clark	[89]	[85]	[78]	[5.6]	LB	Winona	MS	True	Mississippi State Bulldogs	
+Blake Barnett	[88]	[86]	[78]	[5.6]	QB	Erie	CO	True	Kansas State Wildcats	
+Cameron Monteiro	[87]	[87]	[78]	[5.6]	WR	Brockton	MA	True	Pittsburgh Panthers	
+Josaiah Knight	[88]	[86]	[78]	[5.6]	EDGE	Tallahassee	FL	False	False	
+Desmond Jackson	[88]	[86]	[78]	[5.6]	IOL	Clemmons	NC	True	North Carolina Tar Heels	
+Damien McDaniel	[86]	[87]	['-']	['-']	CB	Hitchcock	TX	True	Unlv Rebels	
+Lorenzo Cowan	[87]	[86]	['-']	['-']	EDGE	Savannah	GA	False	False	
+Lloyd Avant	[87]	[86]	['-']	['-']	RB	Humble	TX	True	Tulsa Golden Hurricane	
+Tito Williams	[87]	[86]	['-']	['-']	S	Chattanooga	TN	False	False	
+Amontrae Bradford	[87]	[86]	['-']	['-']	EDGE	Statesboro	GA	False	False	
+Guiseann Mirtil	[86]	[87]	['-']	['-']	TE	Winter Haven	FL	False	False	
+Marcellus Nash	[87]	[86]	['-']	['-']	EDGE	Richmond	VA	True	James Madison Dukes	
+Meikhi Cuttino	[88]	[85]	['-']	['-']	LB	Paramus	NJ	False	False	
+Britain Simmons	[87]	[86]	['-']	['-']	WR	Jasper	TX	False	False	
+Therrian Alexander III	[86]	[87]	['-']	['-']	S	Decatur	GA	False	False	
+Evan Lawrence	[88]	[85]	['-']	['-']	OT	Danville	IN	True	Indiana Hoosiers	
+Elijah King	[87]	[86]	[77]	['-']	EDGE	Gahanna	OH	True	Rutgers Scarlet Knights	
+Jamorie Flagg	[85]	[86]	[79]	[5.7]	DL	Miami	FL	True	Florida State Seminoles	
+Bradley Smith	[85]	[86]	[79]	[5.7]	IOL	Newnan	GA	True	Duke Blue Devils	
+Web Davidson	[85]	['-']	['-']	[5.7]	OT	Macon	GA	False	False	
+Darius Jones	[86]	[86]	[75]	[5.7]	LB	Baltimore	MD	True	Wake Forest Demon Deacons	
+Jabari Murphy	[87]	[87]	['-']	[5.6]	WR	Eclectic	AL	False	False	
+Traville Frederick Jr.	[87]	[87]	['-']	[5.6]	TE	Jeanerette	LA	True	Tulane Green Wave	
+Demetrius John	[88]	[86]	['-']	[5.6]	DL	Columbus	OH	True	Illinois Fighting Illini	
+DJ McCormick	[88]	[86]	['-']	[5.6]	LB	Rockledge	FL	True	Ucf Knights	
+Sire Gaines	[88]	[86]	['-']	[5.6]	LB	Perris	CA	False	False	
+Caleb Redd	[87]	[87]	['-']	[5.6]	EDGE	Saint Louis	MO	True	Kentucky Wildcats	
+David Abajian	[88]	[86]	['-']	[5.6]	IOL	Los Angeles	CA	True	Oregon State Beavers	
+Javon Hammonds	[88]	[86]	['-']	['-']	EDGE	Wayne	OH	False	False	
+Willie Rodriguez	[87]	[87]	['-']	[5.6]	TE	Covington	KY	True	Kentucky Wildcats	
+Adedamola Ajani	[87]	[87]	['-']	[5.6]	IOL	Indianapolis	IN	True	Indiana Hoosiers	
+Miles Sillas	[87]	[87]	['-']	[5.6]	LB	Hortonville	WI	False	False	
+Benjamin York	[88]	[86]	['-']	[5.6]	OT	Burke	VA	True	Virginia Cavaliers	
+Alex Foster	[89]	[85]	['-']	[5.6]	DL	Greenville	MS	True	Baylor Bears	
+Zahir Rainer	[87]	[87]	[77]	[5.6]	S	Richmond	VA	True	Minnesota Golden Gophers	
+Jaden Hart	[87]	[87]	[77]	[5.6]	RB	Michigan City	IN	True	Syracuse Orange	
+Micah Ford	[89]	[85]	[77]	[5.6]	ATH	Toms River	NJ	True	Stanford Cardinal	
+Taebron Bennie-Powell	[86]	[88]	[77]	[5.6]	ATH	West Chester	OH	True	Notre Dame Fighting Irish	
+Brooklyn Cheek	[87]	[87]	[77]	[5.6]	S	Modesto	CA	True	California Golden Bears	
+Pat Schaller	[86]	[88]	[77]	[5.6]	TE	Northbrook	IL	True	Northwestern Wildcats	
+Vernon Woodward	[87]	[87]	[77]	[5.6]	CB	Orange City	FL	True	Illinois Fighting Illini	
+Eric Mensah	[88]	[88]	[79]	[5.5]	DL	Stafford	VA	False	False	
+Tyler Carter	['-']	[88]	[75]	[5.6]	EDGE	Vicksburg	MS	True	Mississippi State Bulldogs	
+Deryc Plazz	[85]	[86]	[78]	[5.7]	OT	Jacksonville	FL	False	False	
+Casey Etienne	[88]	[86]	[76]	[5.6]	S	Fort Lauderdale	FL	False	False	
+Fred Johnson	[87]	[87]	[76]	[5.6]	OT	Cleveland	OH	True	Louisville Cardinals	
+Allen Bryant	[89]	[85]	[76]	[5.6]	CB	Fort Lauderdale	FL	True	Pittsburgh Panthers	
+Corey Smith	[87]	[87]	[76]	[5.6]	WR	Brownsburg	IN	True	Minnesota Golden Gophers	
+Keaton Roskop	[89]	[85]	[76]	[5.6]	TE	Marion	IA	True	Iowa State Cyclones	
+Mo Saine	[88]	[86]	[76]	[5.6]	DL	Eden Prairie	MN	True	Minnesota Golden Gophers	
+Reece Vander Zee	[87]	[87]	[76]	[5.6]	WR	Rock Rapids	IA	True	Iowa Hawkeyes	
+Luke Masterson	[87]	[87]	[76]	[5.6]	OT	Brentwood	TN	True	North Carolina Tar Heels	
+Payton Stewart	[87]	[87]	[76]	[5.6]	OT	Kelso	WA	True	Northwestern Wildcats	
+Xavier Williams	[87]	[87]	[76]	[5.6]	RB	Saint John	IN	True	Iowa Hawkeyes	
+Daniel James	[89]	[87]	[78]	[5.5]	CB	Powder Springs	GA	True	Cincinnati Bearcats	
+Timothy Carpenter	[87]	[89]	[78]	[5.5]	QB	Madison	OH	True	Indiana Hoosiers	
+Kevin Levy	[88]	[88]	[78]	[5.5]	CB	West Palm Beach	FL	False	False	
+Kason Stokes	[88]	[88]	[78]	[5.5]	WR	Riverview	FL	True	Ucf Knights	
+Landen Marshall	[86]	[85]	[77]	[5.7]	DL	Andalusia	AL	True	Georgia Tech Yellow Jackets	
+Jivan Baly	[85]	[86]	['-']	[5.7]	CB	Norcross	GA	True	Nc State Wolfpack	
+Gerald Modest	[85]	[86]	['-']	[5.7]	RB	Miami	FL	False	False	
+Devin Collier	[86]	[85]	['-']	[5.7]	ATH	Albany	GA	False	False	
+Sandy Lewis	[86]	[85]	['-']	[5.7]	EDGE	Lafayette	LA	False	False	
+Michai Boireau	[86]	[87]	[79]	[5.6]	DL	Fairburn	GA	True	Florida Gators	
+Jensen Somerville	[88]	[87]	[80]	[5.5]	OT	Lehi	UT	True	Ucla Bruins	
+Zae Jennings	[88]	[86]	[75]	[5.6]	ATH	Cincinnati	OH	True	West Virginia Mountaineers	
+Khalil Conley	[88]	[87]	[80]	[5.5]	CB	Arden	NC	True	North Carolina Tar Heels	
+Turran Williams	[88]	[88]	['-']	[5.5]	LB	Pasadena	CA	True	Arizona Wildcats	
+Darius Wiley	[89]	[87]	['-']	[5.5]	EDGE	Radcliff	KY	False	False	
+Jason Cross	[88]	[88]	['-']	[5.5]	S	Pittsburgh	PA	True	West Virginia Mountaineers	
+Joseph Anderson	[88]	[88]	['-']	[5.5]	EDGE	Saint Louis	MO	True	Iowa Hawkeyes	
+Jacobi Murray	[86]	[87]	[78]	[5.6]	DL	Atlanta	GA	True	Stanford Cardinal	
+Jude Foster	[86]	[87]	[78]	[5.6]	OT	Baton Rouge	LA	True	Ole Miss Rebels	
+Kobe Branham	[87]	[86]	[78]	[5.6]	IOL	Fort Smith	AR	True	Arkansas Razorbacks	
+Trelain Maddox	[87]	[85]	[78]	['-']	ATH	Buford	GA	True	Georgia Tech Yellow Jackets	
+Gavin Hoffman	[88]	[88]	[76]	[5.5]	TE	Overland Park	KS	True	Iowa Hawkeyes	
+Moritz Schmoranzer	['-']	[87]	[77]	[5.6]	OT	Roanoke	VA	True	Pittsburgh Panthers	
+Romanas Frederique	['-']	[87]	[77]	[5.6]	CB	Deerfield Beach	FL	True	Miami Hurricanes	
+Mike Gerald	['-']	[87]	[77]	[5.6]	ATH	Katy	TX	True	Minnesota Golden Gophers	
+Larry Tarver	[84]	[86]	['-']	[5.8]	CB	Miami	FL	True	Maryland Terrapins	
+Antonio White	[82]	[88]	[79]	[5.7]	WR	Lilburn	GA	True	Rutgers Scarlet Knights	
+Simeon Coleman	[85]	[86]	[75]	[5.7]	LB	Hyattsville	MD	True	Cincinnati Bearcats	
+Judah Jenkins	[86]	[85]	[75]	[5.7]	CB	Olney	MD	True	Indiana Hoosiers	
+Graham Knowles	[87]	[85]	[80]	[5.6]	QB	Southlake	TX	True	Georgia Tech Yellow Jackets	
+Montay Weedon	[87]	['-']	['-']	[5.6]	LB	Silver Spring	MD	True	Cincinnati Bearcats	
+Enzo Hall	[87]	['-']	['-']	[5.6]	OT	Thousand Oaks	CA	False	False	
+Dillan Johnson	[87]	[86]	[77]	[5.6]	DL	Joliet	IL	True	Northwestern Wildcats	
+Tashi Braceful	[86]	[87]	[77]	[5.6]	WR	Southfield	MI	True	Toledo Rockets	
+Jesse Perry	[89]	[84]	[77]	[5.6]	OT	Murfreesboro	TN	True	Tennessee Volunteers	
+Keelan Smith	[87]	[86]	[77]	[5.6]	ATH	Liberty	MO	True	Nebraska Cornhuskers	
+Red Martel	[87]	[86]	[77]	[5.6]	RB	Beggs	OK	True	Kansas Jayhawks	
+Jalen Smith	[87]	[86]	[77]	[5.6]	WR	Mankato	MN	True	Minnesota Golden Gophers	
+Aidan Banfield	[88]	[87]	[79]	[5.5]	IOL	Alpharetta	GA	True	North Carolina Tar Heels	
+Rodney Fields	[89]	[86]	[79]	[5.5]	RB	Oklahoma City	OK	True	Oklahoma State Cowboys	
+Deuce Walker	[86]	[87]	['-']	[5.6]	CB	Salisbury	NC	False	False	
+Zachaun Williams	[88]	[85]	['-']	[5.6]	CB	Tyler	TX	False	False	
+Julius Tate	[86]	[87]	['-']	[5.6]	IOL	Greenville	SC	True	Northwestern Wildcats	
+Kevon Gray	[87]	[86]	['-']	[5.6]	CB	Atlanta	GA	True	Virginia Cavaliers	
+Legend Journey	[87]	[86]	['-']	[5.6]	DL	Mansfield	TX	False	False	
+Jordan Ward	[90]	[83]	['-']	[5.6]	ATH	Memphis	TN	False	False	
+Diore Hubbard	[86]	[87]	['-']	[5.6]	RB	Gahanna	OH	True	West Virginia Mountaineers	
+Ryan Hughes	[86]	[87]	['-']	[5.6]	OT	The Woodlands	TX	True	Tcu Horned Frogs	
+Dillon Hipp	[86]	[87]	['-']	[5.6]	TE	Scottsdale	AZ	False	False	
+Cole McConathy	[88]	[85]	['-']	[5.6]	EDGE	Spanish Fort	AL	False	False	
+Carson Bruhn	[87]	[86]	['-']	[5.6]	TE	Sioux Center	IA	True	Kansas Jayhawks	
+Ryan Jostes	[86]	[87]	['-']	[5.6]	OT	Washington	MO	True	Missouri Tigers	
+Jonathan Kabeya	[87]	[85]	[77]	['-']	ATH	Colleyville	TX	False	False	
+Nijrell Eason II	[86]	[86]	['-']	['-']	CB	Gilbert	AZ	False	False	
+Xai'Shaun Edwards	[86]	[86]	['-']	['-']	RB	League City	TX	False	False	
+Corey Myrick	[86]	[86]	['-']	['-']	CB	Cincinnati	OH	True	Marshall Thundering Herd	
+Rashad Westbrooks	[86]	[86]	['-']	['-']	IOL	Los Angeles	CA	False	False	
+Tanner Williams	[86]	[86]	['-']	['-']	LB	Santa Ana	CA	False	False	
+Shae Terry	[87]	[85]	['-']	['-']	CB	Gaithersburg	MD	False	False	
+Brendan Zurbrugg	[87]	[85]	['-']	['-']	QB	Alliance	OH	True	Northwestern Wildcats	
+Stratton Shufelt	[87]	[85]	['-']	['-']	LB	Rio Rancho	NM	False	False	
+Donte Ferrell	[87]	[85]	['-']	['-']	WR	Cincinnati	OH	True	Colorado State Rams	
+Briley Brown	[85]	[87]	['-']	['-']	IOL	Helotes	TX	True	Utsa Roadrunners	
+DaMontre Patterson	[87]	[85]	['-']	['-']	WR	Ada	OK	False	False	
+Donovan Hamilton	[87]	[85]	['-']	['-']	WR	Fishers	IN	False	False	
+Swazy Carheel	[87]	[85]	['-']	['-']	EDGE	Many	LA	False	False	
+Nathan Knapik	[86]	[86]	['-']	['-']	OT	Kennewick	WA	False	False	
+Jewlyen Thomas-Roberts	[86]	[86]	['-']	['-']	TE	Richardson	TX	False	False	
+Israel Hiraldo	[86]	[86]	['-']	['-']	WR	Providence	RI	False	False	
+Elijah Lee	[87]	[85]	['-']	['-']	CB	Kennesaw	GA	True	Coastal Carolina Chanticleers	
+Deylen Platt	[86]	[86]	['-']	['-']	CB	Venice	FL	False	False	
+Eze Osondu	[86]	[86]	['-']	['-']	LB	Trophy Club	TX	True	California Golden Bears	
+Bernard Causey	[87]	[86]	[76]	[5.6]	CB	New Orleans	LA	True	Ole Miss Rebels	
+Albert Smith	[88]	[85]	[76]	[5.6]	LB	Ponchatoula	LA	True	Arizona State Sun Devils	
+Gideon Ituka	[87]	[86]	[76]	[5.6]	RB	Gaithersburg	MD	True	Wisconsin Badgers	
+Montele Johnson	[87]	[86]	[76]	[5.6]	LB	West Bloomfield	MI	True	Rutgers Scarlet Knights	
+Josh Harrison	[87]	[86]	[76]	[5.6]	EDGE	Arden	NC	True	Wake Forest Demon Deacons	
+Trey Jackson	[87]	[86]	[76]	[5.6]	TE	Dallas	TX	True	Texas Tech Red Raiders	
+Jaylen Neal	[87]	['-']	[76]	[5.6]	ATH	Buford	GA	False	False	
+Shaun Boykins	[87]	[88]	[78]	[5.5]	WR	Radcliff	KY	True	Louisville Cardinals	
+Evan Taylor	[87]	[88]	[78]	[5.5]	CB	Waxhaw	NC	True	Nebraska Cornhuskers	
+Jeremiah Melvin	[88]	[88]	[77]	[5.4]	WR	Fayetteville	NC	True	Wake Forest Demon Deacons	
+Tyclean Luman	[85]	[85]	[77]	[5.7]	EDGE	Miami	FL	True	Rutgers Scarlet Knights	
+Kamari McClellan	[85]	[87]	[79]	[5.6]	QB	Pinson	AL	False	False	
+Ryan Howard	[86]	[86]	[79]	[5.6]	IOL	Downingtown	PA	True	Kansas State Wildcats	

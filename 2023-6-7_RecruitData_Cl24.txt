@@ -1,0 +1,501 @@
+Name	On3 Rating	247 Rating	ESPN Rating	Rivals Rating	Position	City	State	Commit Status	Commit Team
+Dylan Raiola	98	98	91	6.1	QB	Buford	GA	True	Georgia Bulldogs	
+Jeremiah Smith	98	98	90	6.1	WR	Hollywood	FL	True	Ohio State Buckeyes	
+Colin Simmons	98	98	90	6.1	EDGE	Duncanville	TX	False	False	
+Micah Hudson	98	98	90	6.1	WR	Temple	TX	False	False	
+KJ Bolden	98	98	90	6.1	S	Buford	GA	False	False	
+Williams Nwaneri	98	98	90	6.0	DL	Lee's Summit	MO	False	False	
+Ellis Robinson IV	98	98	91	6.0	CB	New Haven	CT	True	Georgia Bulldogs	
+Justin Scott	98	98	86	6.1	DL	Chicago	IL	False	False	
+Dylan Stewart	98	98	89	6.0	EDGE	Washington	DC	False	False	
+Mike Matthews	96	98	91	6.1	WR	Lilburn	GA	False	False	
+David Stone	96	98	91	6.1	DL	Oklahoma City	OK	False	False	
+Justin Williams	96	98	90	6.0	LB	Conroe	TX	False	False	
+Mylan Graham	97	98	86	6.0	WR	New Haven	IN	True	Ohio State Buckeyes	
+Julian Sayin	96	96	90	6.1	QB	Carlsbad	CA	True	Alabama Crimson Tide	
+Eddrick Houston	95	98	86	6.1	DL	Buford	GA	False	False	
+Sammy Brown	95	98	90	6.0	LB	Jefferson	GA	True	Clemson Tigers	
+Jaylen Mbakwe	97	98	91	5.9	ATH	Pinson	AL	True	Alabama Crimson Tide	
+Kobe Black	95	98	89	6.0	CB	Waco	TX	False	False	
+Charles Lester III	97	96	86	6.0	CB	Venice	FL	False	False	
+Dominick McKinley	97	98	87	5.9	DL	Lafayette	LA	False	False	
+Landen Thomas	95	98	86	6.0	TE	Moultrie	GA	True	Florida State Seminoles	
+Ryan Wingo	93	98	87	6.1	WR	Saint Louis	MO	False	False	
+DJ Lagway	96	95	90	6.0	QB	Willis	TX	True	Florida Gators	
+Elijah Rushing	95	98	89	5.9	EDGE	Tucson	AZ	False	False	
+Cam Coleman	98	98	90	5.7	WR	Phenix City	AL	False	False	
+Brandon Baker	96	98	85	5.9	OT	Santa Ana	CA	False	False	
+Joshisa Trader	94	95	90	6.1	WR	Miami	FL	False	False	
+Jadyn Davis	92	98	86	6.1	QB	Charlotte	NC	True	Michigan Wolverines	
+Perry Thompson	95	98	86	5.9	WR	Foley	AL	True	Alabama Crimson Tide	
+Terry Bussey	97	98	84	5.8	ATH	Timpson	TX	False	False	
+Bryant Wesco	96	98	88	5.8	WR	Midlothian	TX	True	Clemson Tigers	
+Xavier Filsaime	95	98	85	5.9	S	McKinney	TX	True	Florida Gators	
+Jordan Ross	96	98	88	5.8	EDGE	Birmingham	AL	False	False	
+Aydin Breland	94	98	86	5.9	DL	Santa Ana	CA	False	False	
+Cam Williams	96	94	86	6.0	WR	Glen Ellyn	IL	True	Notre Dame Fighting Irish	
+Kamarion Franklin	91	98	87	6.1	DL	Lake Cormorant	MS	False	False	
+Aaron Scott Jr.	97	96	86	5.8	CB	Springfield	OH	False	False	
+Demarcus Riddick	95	95	86	5.9	LB	Clanton	AL	True	Georgia Bulldogs	
+TJ Capers	93	94	86	6.1	LB	Miami	FL	True	Louisville Cardinals	
+Taylor Tatum	95	95	86	5.9	RB	Longview	TX	False	False	
+Quinton Martin	93	95	86	6.0	ATH	Belle Vernon	PA	True	Penn State Nittany Lions	
+Jordan Seaton	94	93	84	6.0	OT	Washington	DC	False	False	
+CJ Carr	91	96	86	6.0	QB	Saline	MI	True	Notre Dame Fighting Irish	
+Selman Bridges	94	95	85	5.9	CB	Temple	TX	False	False	
+Jerrick Gibson	95	93	87	5.9	RB	Gainesville	FL	False	False	
+Ernest Willor	91	96	85	6.0	DL	Baltimore	MD	False	False	
+Josiah Thompson	96	94	85	5.8	OT	Dillon	SC	True	South Carolina Gamecocks	
+Kam Davis	94	92	86	6.0	RB	Albany	GA	True	Florida State Seminoles	
+Jaden Reddell	96	94	85	5.8	TE	Raymore	MO	True	Georgia Bulldogs	
+Air Noland	95	95	86	5.8	QB	Fairburn	GA	True	Ohio State Buckeyes	
+Kam Pringle	95	91	86	6.0	OT	Dorchester	SC	True	South Carolina Gamecocks	
+Myles Graham	91	94	85	6.1	LB	Atlanta	GA	True	Florida Gators	
+Guerby Lambert	96	92	85	5.9	OT	West Roxbury	MA	False	False	
+Bryce West	94	91	87	6.0	CB	Cleveland	OH	False	False	
+Joseph Jonah-Ajonye	95	93	88	5.8	DL	Conroe	TX	False	False	
+Zabien Brown	92	95	83	5.9	CB	Santa Ana	CA	False	False	
+Benedict Umeh	96	91	84	5.9	DL	Toronto	ON	False	False	
+Adarius Hayes	93	93	85	5.9	LB	Largo	FL	True	Florida Gators	
+Elijah Brown	91	96	82	5.9	-	Santa Ana	CA	False	False	
+Ny Carr	92	92	86	6.0	WR	Moultrie	GA	True	Georgia Bulldogs	
+Gatlin Bair	93	96	84	5.8	WR	Burley	ID	False	False	
+Trey'Dez Green	92	92	84	6.0	TE	Jackson	LA	True	Lsu Tigers	
+Corian Gipson	94	92	84	5.9	CB	Lancaster	TX	False	False	
+Zion Kearney	94	92	84	5.9	WR	Missouri City	TX	True	Oklahoma Sooners	
+Marquise Lightfoot	94	92	83	5.9	EDGE	Chicago	IL	False	False	
+Marcelles Williams	92	94	84	5.9	CB	Bellflower	CA	False	False	
+Jonathan Daniels	98	89	85	5.9	OT	Pensacola	FL	False	False	
+Jaylen Heyward	94	91	86	5.9	S	Rockledge	FL	True	Georgia Bulldogs	
+Caleb Odom	95	93	84	5.8	TE	Carrollton	GA	False	False	
+Peyton Woodyard	91	91	86	6.1	S	Bellflower	CA	True	Georgia Bulldogs	
+Jason Brown	93	92	84	5.9	RB	Seattle	WA	False	False	
+Luke Kromenhoek	95	94	82	5.7	QB	Savannah	GA	True	Florida State Seminoles	
+Jake Merklinger	92	93	84	5.9	QB	Savannah	GA	True	Tennessee Volunteers	
+Nathaniel Frazier	96	91	84	5.8	RB	Santa Ana	CA	False	False	
+Wardell Mack	96	90	81	5.9	CB	Marrero	LA	False	False	
+Dre'lon Miller	92	93	84	5.9	WR	Silsbee	TX	False	False	
+Liam Andrews	94	93	83	5.8	IOL	Brookline	MA	False	False	
+Jamari Howard	95	93	84	5.7	CB	Miami	FL	False	False	
+Carter Nelson	93	95	81	5.8	TE	Ainsworth	NE	False	False	
+Demello Jones	92	93	83	5.9	CB	Swainsboro	GA	True	Georgia Bulldogs	
+Jamonta Waller	89	98	90	5.8	LB	Picayune	MS	False	False	
+James Peoples	92	93	82	5.9	RB	San Antonio	TX	True	Ohio State Buckeyes	
+Zaquan Patterson	90	93	85	6.0	S	Hollywood	FL	False	False	
+Christian Bentancur	92	93	83	5.9	TE	Woodstock	IL	True	Clemson Tigers	
+Brady Prieskorn	93	91	84	5.9	TE	Rochester	MI	True	Michigan Wolverines	
+Nick Marsh	92	91	82	6.0	WR	River Rouge	MI	False	False	
+Cutter Boley	94	90	81	6.0	QB	Hodgenville	KY	True	Kentucky Wildcats	
+Ryan Pellum	91	93	84	5.9	WR	Long Beach	CA	False	False	
+Nigel Smith II	92	92	84	5.9	DL	Melissa	TX	False	False	
+Isendre Ahfua	92	92	85	5.9	IOL	Seattle	WA	False	False	
+Dakoda Fields	92	92	84	5.9	CB	Gardena	CA	True	Usc Trojans	
+Gekyle Baker	93	93	82	5.8	WR	Brownsboro	TX	False	False	
+LJ McCray	94	93	-	5.7	DL	Daytona Beach	FL	False	False	
+Ify Obidegwu	92	92	83	5.9	CB	Baltimore	MD	True	Oregon Ducks	
+Michael Smith	92	94	81	5.8	TE	Savannah	GA	True	South Carolina Gamecocks	
+Walker White	91	93	82	5.9	QB	Little Rock	AR	True	Auburn Tigers	
+Dwight Phillips	93	92	85	5.8	RB	Mableton	GA	True	Georgia Bulldogs	
+Jeremiah Beaman	93	93	83	5.8	DL	Birmingham	AL	True	Alabama Crimson Tide	
+Xavier Jordan	93	93	82	5.8	WR	Los Angeles	CA	True	Usc Trojans	
+Hunter Moddon	92	93	84	5.8	CB	Houston	TX	True	Texas Longhorns	
+Aaron Chiles	91	92	85	5.9	LB	Olney	MD	False	False	
+Kevin Riley	92	93	85	5.8	RB	Northport	AL	False	False	
+Blake Ivy	93	92	83	5.8	IOL	League City	TX	False	False	
+Jordan Marshall	93	90	82	5.9	RB	Cincinnati	OH	True	Michigan Wolverines	
+Walter Matthews	92	93	84	5.8	TE	Hiram	GA	False	False	
+Daniel Calhoun	90	93	84	5.9	IOL	Roswell	GA	False	False	
+Aaron Flowers	93	92	83	5.8	S	Forney	TX	True	Oregon Ducks	
+Justin Greene	92	91	83	5.9	DL	Lawrenceville	GA	True	Georgia Bulldogs	
+Maurice Williams	91	92	83	5.9	S	Bellaire	TX	True	Lsu Tigers	
+KingJoseph Edwards	91	92	85	5.9	EDGE	Hoschton	GA	False	False	
+Jason Zandamela	92	94	83	5.7	IOL	Clearwater	FL	False	False	
+Jordan Thomas	92	93	84	5.8	DL	Ramsey	NJ	False	False	
+Grant Brix	93	92	84	5.8	IOL	Logan	IA	False	False	
+Dealyn Evans	91	95	81	5.8	DL	Longview	TX	True	Texas Am Aggies	
+Ashton Bethel-Roman	93	93	82	5.7	WR	Missouri City	TX	False	False	
+DeAndre Carter	89	94	86	5.9	IOL	Santa Ana	CA	False	False	
+Kyngstonn Viliamu-Asa	90	93	82	5.9	LB	Bellflower	CA	False	False	
+Jordan Pride	92	92	85	5.8	S	Blountstown	FL	True	Texas Am Aggies	
+Ian Moore	90	91	83	6.0	IOL	New Palestine	IN	True	Ohio State Buckeyes	
+Aaron Butler	91	93	84	5.8	ATH	Calabasas	CA	True	Colorado Buffaloes	
+Kam Mikell	94	91	83	5.8	CB	Statesboro	GA	False	False	
+Amir Jackson	92	90	84	5.9	TE	Portal	GA	False	False	
+JJ Harrell	93	90	81	5.9	WR	Sardis	MS	False	False	
+Weston Davis	96	89	79	5.9	OT	Beaumont	TX	False	False	
+Joseph Phillips	93	91	82	5.8	LB	Tuskegee	AL	False	False	
+Aeryn Hampton	92	90	83	5.9	WR	Carthage	TX	False	False	
+TJ Moore	92	93	81	5.8	WR	Tampa	FL	True	Clemson Tigers	
+Caden Durham	93	91	82	5.8	RB	Duncanville	TX	False	False	
+Jonathan Echols	92	91	86	5.8	TE	Franklin	GA	True	Tennessee Volunteers	
+Andrew Sprague	92	92	81	5.8	OT	Kansas City	MO	True	Michigan Wolverines	
+Zion Ragins	92	90	82	5.9	WR	Gray	GA	False	False	
+Ricardo Jones	91	91	83	5.9	S	Warner Robins	GA	False	False	
+Kamron Beavers	92	92	82	5.8	DL	Bay Springs	MS	True	Ole Miss Rebels	
+Casey Poe	95	90	81	5.8	IOL	Lindale	TX	False	False	
+Chance Robinson	92	92	82	5.8	WR	Fort Lauderdale	FL	True	Miami Hurricanes	
+Jordan Anderson	91	91	82	5.9	WR	Newport Beach	CA	True	Oregon Ducks	
+Kaleb Beasley	92	92	82	5.8	CB	Nashville	TN	True	Tennessee Volunteers	
+Tylen Singleton	90	92	83	5.9	LB	Many	LA	False	False	
+Bradley Shaw	91	94	82	5.7	LB	Hoover	AL	False	False	
+Zay Mincey	94	93	84	5.6	S	Daytona Beach	FL	False	False	
+Garrett Stover	92	92	83	5.8	LB	Sunbury	OH	True	Ohio State Buckeyes	
+Jimothy Lewis	91	93	81	5.8	IOL	Madison	MS	False	False	
+Charleston Collins	92	93	79	5.8	DL	Pine Bluff	AR	True	Arkansas Razorbacks	
+Wendell Gregory	94	90	84	5.8	LB	Marietta	GA	True	South Carolina Gamecocks	
+Jeremiah McClellan	91	93	80	5.8	WR	Saint Louis	MO	False	False	
+Kameryn Fountain	90	94	84	5.7	EDGE	Atlanta	GA	True	Usc Trojans	
+Koy Beasley	93	91	83	5.7	CB	Cincinnati	OH	False	False	
+Jordon Johnson-Rubell	89	91	84	6.0	S	Fort Worth	TX	False	False	
+Kris Jones	90	93	83	5.8	LB	Fairfax	VA	False	False	
+Ryan Puglisi	93	90	85	5.8	QB	Avon	CT	True	Georgia Bulldogs	
+Dylan Williams	91	90	81	6.0	LB	Long Beach	CA	False	False	
+Michael Uini	92	91	85	5.8	OT	Copperas Cove	TX	False	False	
+Nyier Daniels	92	92	82	5.7	OT	Oradell	NJ	False	False	
+Booker Pickett	92	90	85	5.8	EDGE	Tampa	FL	False	False	
+Braylon Staley	92	92	81	5.7	WR	Aiken	SC	False	False	
+T.A. Cunningham	90	90	84	6.0	DL	Miami	FL	False	False	
+Brandon Jacob	92	91	83	5.8	S	Orlando	FL	False	False	
+Nathan Roy	95	89	81	5.8	OT	Mukwonago	WI	False	False	
+Ellis Davis	94	90	-	5.7	OT	Prosper	TX	False	False	
+Tae Johnson	90	91	81	5.9	ATH	Fort Wayne	IN	False	False	
+Cai Bates	91	93	81	5.7	CB	Orlando	FL	False	False	
+Artavius Jones	91	92	84	5.7	DL	Blountstown	FL	False	False	
+Darien Mayo	93	89	80	5.9	EDGE	Olney	MD	False	False	
+Sterling Dixon	93	90	81	5.8	LB	Mobile	AL	True	Alabama Crimson Tide	
+Hogan Hansen	91	92	81	5.8	TE	Bellevue	WA	True	Michigan Wolverines	
+Jeffery Rush	89	94	83	5.8	DL	Pascagoula	MS	True	Ole Miss Rebels	
+Dashawn McBryde	91	93	80	5.7	S	Denham Springs	LA	True	Lsu Tigers	
+Danny Okoye	94	89	83	5.8	EDGE	Tulsa	OK	False	False	
+Loghan Thomas	93	90	79	5.8	EDGE	Katy	TX	True	Notre Dame Fighting Irish	
+Bennett Warren	90	93	84	5.7	OT	Sugar Land	TX	False	False	
+Cayden Jones	91	91	85	5.8	LB	Arden	NC	True	Alabama Crimson Tide	
+Jalyn Crawford	90	91	82	5.9	CB	Lilburn	GA	False	False	
+Jaydan Hardy	89	92	83	5.9	S	Lewisville	TX	True	Oklahoma Sooners	
+Jon Mitchell	93	90	83	5.7	CB	Jacksonville	FL	True	Penn State Nittany Lions	
+Brian Robinson	91	90	85	5.8	EDGE	Austintown	OH	False	False	
+Gabriel Williams	93	90	80	5.8	LB	Washington	DC	False	False	
+Blake Frazier	91	90	79	5.9	OT	Austin	TX	True	Michigan Wolverines	
+Dilin Jones	90	92	83	5.8	RB	Olney	MD	False	False	
+NiTareon Tuggle	90	93	80	5.8	WR	South Bend	IN	True	Georgia Bulldogs	
+Freddie Dubose Jr.	92	90	83	5.8	WR	Schertz	TX	False	False	
+Keylen Adams	92	90	82	5.8	WR	Virginia Beach	VA	False	False	
+Kedren Young	93	90	80	5.8	RB	Lufkin	TX	True	Notre Dame Fighting Irish	
+Jac'Qawn McRoy	89	94	85	5.7	OT	Pinson	AL	False	False	
+Michael Van Buren	90	89	90	5.9	QB	Bowie	MD	True	Oregon Ducks	
+Jelani Watkins	90	92	86	5.8	WR	Houston	TX	False	False	
+Mazeo Bennett	92	90	81	5.8	WR	Greenville	SC	True	South Carolina Gamecocks	
+Hevin Brown-Shuler	90	90	81	5.9	DL	Atlanta	GA	True	Clemson Tigers	
+Chris Cole	89	93	-	-	LB	Salem	VA	False	False	
+Max Anderson	91	90	82	5.8	IOL	Frisco	TX	False	False	
+Travaris Banks	91	89	83	5.9	S	Tuscaloosa	AL	False	False	
+Christopher Jackson	93	89	81	5.8	EDGE	Tucker	GA	False	False	
+Jacob Oden	91	90	82	5.8	S	Harper Woods	MI	True	Michigan Wolverines	
+Zina Umeozulu	91	90	86	5.8	EDGE	Allen	TX	False	False	
+Daniel Hill	91	90	82	5.8	ATH	Meridian	MS	False	False	
+Jameer Grimsley	93	90	79	5.7	CB	Tampa	FL	False	False	
+Dylan Stephenson	91	89	82	5.9	EDGE	Miami	FL	False	False	
+Peyton Lewis	91	91	83	5.7	RB	Salem	VA	True	Tennessee Volunteers	
+William Satterwhite	90	90	83	5.9	IOL	Akron	OH	False	False	
+Micahi Danzy	92	91	79	5.7	ATH	Tallahassee	FL	False	False	
+Kelvin Hunter	91	91	82	5.7	S	Florence	SC	True	South Carolina Gamecocks	
+Keonde Henry	92	90	-	5.8	WR	Lake Dallas	TX	False	False	
+Frankie Arthur	91	92	79	5.7	RB	Conroe	TX	False	False	
+Donovan Harbour	90	90	85	5.8	IOL	Waukesha	WI	True	Penn State Nittany Lions	
+Cheta Ofili	92	90	80	5.7	EDGE	Sachse	TX	True	Texas Tech Red Raiders	
+Braylon Burnside	91	90	83	5.8	WR	Starkville	MS	False	False	
+Mason Curtis	92	90	81	5.8	LB	Nashville	TN	True	Michigan Wolverines	
+Ethan Calloway	93	89	-	5.8	OT	Mooresville	NC	False	False	
+Courtney Crutchfield	89	94	79	5.8	ATH	Pine Bluff	AR	True	Arkansas Razorbacks	
+Ju’Juan Johnson	90	90	80	5.9	CB	Lafayette	LA	True	Lsu Tigers	
+Dakyus Brinkley	91	90	81	5.8	EDGE	Katy	TX	False	False	
+Isaiah Garcia	91	90	83	5.7	IOL	Draper	UT	False	False	
+Fox Crader	93	91	81	5.6	OT	Vancouver	WA	True	Oregon Ducks	
+Aneyas Williams	90	90	80	5.9	RB	Hannibal	MO	True	Notre Dame Fighting Irish	
+Chauncey Bowens	93	88	82	5.8	RB	North Palm Beach	FL	True	Florida Gators	
+Kylan Fox	89	92	82	5.8	TE	Loganville	GA	False	False	
+Xadavien Sims	88	91	81	5.9	DL	Durant	OK	True	Oregon Ducks	
+Jalewis Solomon	90	89	83	5.9	ATH	Ellaville	GA	False	False	
+Preston Taumua	90	90	82	5.8	IOL	Aiea	HI	False	False	
+Jonathan Paylor	90	90	84	5.8	WR	Burlington	NC	False	False	
+Kolaj Cobbins	89	90	82	5.9	LB	Destrehan	LA	True	Lsu Tigers	
+Cooper Cousins	90	90	84	5.8	IOL	Erie	PA	True	Penn State Nittany Lions	
+Brayden Platt	89	93	81	5.7	LB	Yelm	WA	False	False	
+Marquis Gallegos	92	90	82	5.7	S	West Hills	CA	False	False	
+Tyseer Denmark	91	88	82	5.9	WR	Philadelphia	PA	True	Oregon Ducks	
+Brandon Davis-Swain	88	90	82	6.0	DL	West Bloomfield	MI	False	False	
+Tavoy Feagin	89	90	81	5.9	CB	Tampa	FL	True	Clemson Tigers	
+Marcos Davila	90	91	79	5.8	QB	Midland	TX	True	Purdue Boilermakers	
+Micah Gilbert	91	90	80	5.8	WR	Charlotte	NC	True	Notre Dame Fighting Irish	
+Jason Mitchell	90	90	81	5.8	S	Los Angeles	CA	False	False	
+Jerrae Hawkins	90	91	82	5.8	WR	Wheeling	WV	False	False	
+Jacob Smith	90	90	84	5.8	EDGE	Cheshire	CT	False	False	
+Payton Pierce	88	90	83	5.9	LB	Lucas	TX	True	Ohio State Buckeyes	
+Boo Carter	90	89	81	5.9	ATH	Chattanooga	TN	False	False	
+Troy Stevenson	89	92	80	5.8	CB	Charleston	SC	False	False	
+Jericho Johnson	91	92	82	5.6	DL	Fairfield	CA	False	False	
+Ka'Davion Dotson-Walker	90	90	80	5.9	S	Duncanville	TX	False	False	
+J'Marion Burnette	90	90	81	5.8	RB	Andalusia	AL	True	Auburn Tigers	
+Ashton Funk	90	89	83	5.9	IOL	Katy	TX	True	Texas Am Aggies	
+Amaris Williams	88	93	81	5.8	DL	Clinton	NC	False	False	
+Marques Easley	90	90	81	5.8	OT	Kankakee	IL	False	False	
+Fletcher Westphal	90	90	82	5.8	OT	Leesburg	VA	False	False	
+Jordan Washington	91	90	80	5.7	RB	Long Beach	CA	True	Arizona Wildcats	
+Kavion Henderson	88	90	83	5.9	DL	Leeds	AL	True	Arkansas Razorbacks	
+Nasir Johnson	90	90	-	5.8	DL	Dublin	GA	False	False	
+Tawaski Abrams	91	90	81	5.8	WR	Fort Myers	FL	True	Florida State Seminoles	
+Joey Olsen	91	90	82	5.7	TE	Lake Oswego	OR	True	Usc Trojans	
+Corey Smith	89	90	82	5.9	RB	Waukesha	WI	True	Penn State Nittany Lions	
+Josiah Brown	90	90	82	5.7	ATH	Hicksville	NY	False	False	
+Eddy Pierre-Louis	90	87	82	6.0	IOL	Tampa	FL	False	False	
+Malcolm Ziglar	93	89	79	5.7	S	Fuquay Varina	NC	False	False	
+Kamar Mothudi	89	91	83	5.8	LB	Los Angeles	CA	False	False	
+Santana Wilson	93	89	79	5.7	CB	Scottsdale	AZ	False	False	
+Naki Tuakoi	91	90	-	5.8	LB	Oakland	CA	False	False	
+Paki Finau	90	90	82	5.7	IOL	Hesperia	CA	True	Washington Huskies	
+Vaboue Toure	92	89	81	5.7	S	Irvington	NJ	False	False	
+Colin Hurley	90	89	81	5.9	QB	Jacksonville	FL	True	Lsu Tigers	
+Noah Dixon	89	90	81	5.9	S	Lagrange	GA	True	Clemson Tigers	
+Caleb Holmes	90	90	81	5.7	IOL	Fairburn	GA	False	False	
+Kellen Lindstrom	90	89	79	5.9	EDGE	Springfield	MO	True	Tennessee Volunteers	
+Kevin Heywood	92	88	80	5.8	OT	Royersford	PA	True	Wisconsin Badgers	
+Grant Stec	90	90	82	5.8	TE	Algonquin	IL	True	Wisconsin Badgers	
+Jerod Smith	88	92	82	5.8	DL	Cheshire	CT	True	Michigan Wolverines	
+Xavier Atkins	90	89	80	5.9	LB	Jonesboro	LA	True	Lsu Tigers	
+Roger Gradney	90	91	79	5.7	S	Altair	TX	True	Nebraska Cornhuskers	
+Jordan Ross	91	89	82	5.8	WR	Garden Grove	CA	False	False	
+Kwazi Gilmer	92	89	79	5.8	WR	West Hills	CA	False	False	
+Marcellus Barnes	92	88	-	-	CB	Chattanooga	TN	False	False	
+Jeremy Payne	89	90	82	5.8	RB	Missouri City	TX	False	False	
+Christian Clark	90	89	80	5.9	RB	Phoenix	AZ	False	False	
+Mario Craver	90	90	81	5.8	WR	Pinson	AL	False	False	
+DD Holmes	92	88	81	5.8	EDGE	Washington	DC	False	False	
+Jeremiah Beasley	90	90	79	5.8	LB	Belleville	MI	False	False	
+Braylen Russell	90	90	81	5.8	RB	Benton	AR	False	False	
+Stacy Gage	89	89	81	5.9	RB	Fort Lauderdale	FL	False	False	
+Brian Huff	92	88	-	5.8	LB	Jonesboro	AR	False	False	
+Edwin Spillman	90	90	83	5.8	LB	Nashville	TN	False	False	
+Noreel White	90	90	80	5.8	WR	Ocean Springs	MS	True	Arkansas Razorbacks	
+Jeremiah Newcombe	90	90	79	5.8	CB	Queen Creek	AZ	True	Oklahoma Sooners	
+Cameron Keys	92	90	80	5.6	CB	Panama City	FL	False	False	
+James Madison II	89	89	81	5.9	WR	Fort Lauderdale	FL	False	False	
+Terhyon Nichols	91	89	81	5.7	CB	Cincinnati	OH	False	False	
+Max LeBlanc	90	90	82	5.8	TE	Chattanooga	TN	True	Ohio State Buckeyes	
+Myles Davis	91	90	79	5.7	S	Converse	TX	False	False	
+Anthony Carrie	89	89	80	5.9	RB	Tampa	FL	False	False	
+Jaylen McClain	93	89	83	5.6	S	West Orange	NJ	False	False	
+Bredell Richardson	90	88	80	5.9	WR	Tampa	FL	False	False	
+Emerson Mandell	92	88	-	5.7	IOL	Saint Paul	MN	False	False	
+Elias Rudolph	89	90	83	5.8	LB	Deerfield Beach	FL	False	False	
+Amari Jefferson	90	89	82	5.8	WR	Chattanooga	TN	False	False	
+Rico Scott	90	90	79	5.8	WR	Harrisburg	PA	True	Alabama Crimson Tide	
+A'Mon Lane	89	90	81	5.8	CB	Alabaster	AL	True	Auburn Tigers	
+Alex Taylor	89	91	78	5.8	WR	Greensboro	NC	False	False	
+DeJuan Williams	89	90	81	5.8	RB	Baltimore	MD	False	False	
+Cody Fox	88	90	82	5.8	IOL	Winthrop	IA	True	Iowa Hawkeyes	
+Joseph Stone	89	90	81	5.8	WR	Fairburn	GA	True	Lsu Tigers	
+Isiah Canion	93	89	81	5.6	WR	Warner Robins	GA	True	Notre Dame Fighting Irish	
+Izaiah Williams	91	89	79	5.8	WR	Zephyrhills	FL	True	Florida Gators	
+Demond Williams Jr.	89	90	82	5.8	QB	Chandler	AZ	True	Ole Miss Rebels	
+Ivan Carreon	91	90	81	5.6	WR	Odessa	TX	True	Texas Tech Red Raiders	
+Isaac Brown	90	90	82	5.7	RB	Homestead	FL	True	Louisville Cardinals	
+Lawayne McCoy	89	91	77	5.8	WR	Miami	FL	True	Florida State Seminoles	
+Tayvion Galloway	88	90	83	5.8	TE	Pickerington	OH	True	Lsu Tigers	
+Braydon Lee	89	88	82	5.9	CB	Springdale	MD	True	South Carolina Gamecocks	
+Dejuan Lane	89	90	81	5.8	S	Baltimore	MD	True	Penn State Nittany Lions	
+Peter Jones	89	88	81	5.9	IOL	Malvern	PA	True	Notre Dame Fighting Irish	
+Jayden Lewis	89	90	80	5.8	CB	Anniston	AL	True	Auburn Tigers	
+Josh Flowers	90	90	81	5.7	QB	Mobile	AL	True	Mississippi State Bulldogs	
+Damian Thompson	89	90	80	5.8	S	Florence	AL	False	False	
+Deontae Armstrong	91	88	80	5.8	OT	Lakewood	OH	True	Ohio State Buckeyes	
+Malcolm Simmons	90	89	80	5.8	ATH	Alexander City	AL	False	False	
+Johann Cardenas	92	88	79	5.7	RB	Houston	TX	False	False	
+Kahnen Daniels	90	89	80	5.8	RB	West Point	MS	True	Florida Gators	
+Peyton Morgan	93	89	-	5.6	S	Pflugerville	TX	False	False	
+Mario Buford	92	87	81	5.7	CB	DeSoto	TX	False	False	
+Ronnie Royal III	87	90	81	5.9	ATH	Alexandria	AL	False	False	
+Tyson Turner	91	88	-	-	WR	Bryan	TX	False	False	
+JaCorey Whitted	91	89	79	5.7	TE	McCalla	AL	False	False	
+Isaac Wilson	89	90	80	5.8	QB	Draper	UT	True	Utah Utes	
+Waltclaire Flynn Jr.	88	90	83	5.8	IOL	Loganville	GA	False	False	
+Emmett Mosley	89	90	81	5.8	WR	Rancho Santa Margarita	CA	False	False	
+Zion Ferguson	88	89	80	5.9	CB	Gainesville	GA	True	Lsu Tigers	
+Elija Lofton	88	90	81	5.8	TE	Las Vegas	NV	False	False	
+Mylachi Williams	91	87	-	5.8	EDGE	Philadelphia	PA	False	False	
+James Nesta	90	89	-	5.7	LB	Cornelius	NC	False	False	
+Jordan Lyle	94	88	79	5.6	RB	Fort Lauderdale	FL	True	Ohio State Buckeyes	
+Qua Birdsong	89	89	82	5.8	LB	Lagrange	GA	True	Cincinnati Bearcats	
+Bryce Young	91	88	79	5.8	EDGE	Charlotte	NC	True	Notre Dame Fighting Irish	
+Julius Pope	89	90	79	5.8	LB	Batesville	MS	True	Arkansas Razorbacks	
+Omar White	90	89	80	5.8	DL	Valdosta	GA	True	Colorado Buffaloes	
+DayDay Farmer	89	90	80	5.8	WR	Melbourne	FL	True	Pittsburgh Panthers	
+Josh Philostin	90	89	80	5.7	CB	Palm Beach	FL	False	False	
+Fred Gaskin III	88	89	79	5.9	S	Ocala	FL	False	False	
+Ryner Swanson	90	89	-	5.8	TE	Laguna Beach	CA	False	False	
+Champ Thompson	90	88	81	5.8	DL	Norcross	GA	True	Clemson Tigers	
+Jamyri Cauley	88	90	83	5.8	ATH	Dallas	TX	True	Smu Mustangs	
+Tyanthony Smith	90	88	79	5.8	LB	Jasper	TX	False	False	
+Jayshawn Ross	88	88	81	5.9	ATH	Kansas City	MO	False	False	
+Derrick McFall	89	90	81	5.7	ATH	Tyler	TX	False	False	
+Miles Lockhart	89	90	79	5.7	CB	Chandler	AZ	False	False	
+Devontae Armstrong	90	88	80	5.8	OT	Lakewood	OH	True	Ohio State Buckeyes	
+Ca'lil Valentine	90	88	80	5.8	RB	Chandler	AZ	False	False	
+Samaj Jones	90	88	81	5.7	QB	Philadelphia	PA	False	False	
+Jaylen Harvey	89	89	80	5.8	EDGE	Potomac	MD	False	False	
+Witt Edwards	89	90	-	-	ATH	Wagoner	OK	False	False	
+Manasse Itete	91	92	79	5.5	OT	Modesto	CA	True	Usc Trojans	
+Dae'vonn Hall	89	89	80	5.8	WR	Bellevue	NE	False	False	
+Jamie Tremble	88	90	-	-	TE	Norcross	GA	False	False	
+Anthonie Knapp	91	88	78	5.7	IOL	Roswell	GA	True	Notre Dame Fighting Irish	
+Jakhari Williams	91	87	79	5.8	QB	Macon	GA	False	False	
+Joel Rogers	91	89	82	5.6	S	Saint Francisville	LA	False	False	
+Dante Reno	88	90	81	5.8	QB	Fiskdale	MA	True	South Carolina Gamecocks	
+Luke Hamilton	88	90	81	5.8	IOL	Avon	OH	True	Michigan Wolverines	
+Marcus Goree	90	89	78	5.7	S	Cleveland	TN	True	Tennessee Volunteers	
+Michael Hawkins	88	88	80	5.9	QB	McKinney	TX	True	Oklahoma Sooners	
+Ondre Evans	93	88	79	5.6	CB	Nashville	TN	False	False	
+I'marion Stewart	89	89	79	5.8	WR	Chicago	IL	False	False	
+Derek Weisskopf	90	91	76	5.6	LB	Williamsburg	IA	True	Iowa Hawkeyes	
+Jaxson Jones	89	89	79	5.8	EDGE	Yuma	AZ	True	Oregon Ducks	
+Ziron Brown	91	87	-	5.7	OT	Bay Saint Louis	MS	False	False	
+Chris Johnson	90	88	-	-	CB	Aledo	TX	False	False	
+Earl Kulp	88	90	80	5.8	CB	Fort Lauderdale	FL	False	False	
+Eli Bowen	88	90	80	5.8	CB	Denton	TX	False	False	
+BJ Gibson	89	89	80	5.8	WR	Rochelle	GA	True	Florida State Seminoles	
+Jaylan Hornsby	90	88	80	5.8	WR	Camden	NJ	False	False	
+Damarion Witten	88	90	79	5.7	TE	Cleveland	OH	False	False	
+Parker Livingstone	87	88	82	5.9	WR	Lucas	TX	False	False	
+TyShun White	88	88	79	5.9	CB	Buford	GA	False	False	
+Terrance Hibbler	88	87	81	5.9	DL	Lexington	MS	True	Mississippi State Bulldogs	
+Dominic Nichols	90	89	79	5.7	EDGE	Ijamsville	MD	False	False	
+Luke Williams	89	90	79	5.7	WR	Naperville	IL	False	False	
+Duke Watson	90	89	79	5.7	RB	Forsyth	GA	False	False	
+Davion Gause	87	88	81	5.9	RB	Hollywood	FL	True	North Carolina Tar Heels	
+Kensley Faustin	90	88	78	5.8	S	Naples	FL	False	False	
+Devon Baxter	90	88	-	5.8	EDGE	Brandywine	MD	False	False	
+Obinna Onwuka	90	88	-	5.8	EDGE	Upper Marlboro	MD	False	False	
+Roger Saleapaga	89	89	-	5.8	TE	Orem	UT	False	False	
+Jordan Burns	89	89	-	5.8	LB	Atlanta	GA	False	False	
+Travis Jackson	89	89	-	5.8	EDGE	Tyler	TX	True	Tcu Horned Frogs	
+Caleb Moore	89	89	-	5.8	DL	Hattiesburg	MS	False	False	
+Jordan Shipp	89	89	78	5.8	WR	Charlotte	NC	False	False	
+William Love	89	88	82	5.8	LB	Camden	NJ	False	False	
+Kenyan Kelly	89	90	78	5.7	S	Denison	TX	False	False	
+James Randle	89	88	82	5.8	WR	Daytona Beach	FL	False	False	
+Gerard Johnson	92	88	-	5.6	EDGE	Virginia Beach	VA	False	False	
+Austin Alexander	91	89	80	5.6	CB	Hazel Crest	IL	False	False	
+D'antre Robinson	89	86	80	5.9	DL	Orlando	FL	False	False	
+A.J. Pugliano	88	90	79	5.8	TE	Medford	OR	True	Oregon Ducks	
+Dylan Mesman	89	89	79	5.8	TE	Saline	MI	True	Louisville Cardinals	
+Ted Hammond	89	89	79	5.8	DL	Cincinnati	OH	True	Michigan Wolverines	
+David Washington	87	90	81	5.8	WR	Las Vegas	NV	False	False	
+Terrell Anderson	92	88	79	5.6	WR	Greensboro	NC	False	False	
+Jadon Porter	89	90	77	5.7	WR	Lorena	TX	True	Baylor Bears	
+Tionne Gray	87	88	80	5.9	DL	Saint Louis	MO	True	Oregon Ducks	
+Nathaniel Palmer	90	87	80	5.7	RB	Decatur	TX	False	False	
+KJ Jackson	88	90	78	5.8	QB	Montgomery	AL	True	Arkansas Razorbacks	
+Makai Saina	89	89	78	5.8	IOL	Arlington	TX	False	False	
+Navarro Schunke	90	90	81	5.6	IOL	Brandon	SD	False	False	
+Kingston Lopa	89	90	81	5.6	ATH	Sacramento	CA	False	False	
+David Eziomume	89	88	79	5.8	RB	Kennesaw	GA	True	Clemson Tigers	
+Joshua Lair	89	89	-	-	S	Missouri City	TX	False	False	
+Michael Turner	88	90	-	-	WR	River Ridge	LA	False	False	
+Cam Pruitt	88	90	-	5.7	LB	Theodore	AL	False	False	
+Anelu Lafaele	88	90	-	5.7	EDGE	Honolulu	HI	False	False	
+Adam Kissayi	89	89	-	-	EDGE	Palm Bay	FL	False	False	
+Isaiah McMorris	89	89	-	5.7	WR	Omaha	NE	False	False	
+Dominic Kirks	90	88	-	5.7	DL	Cleveland	OH	False	False	
+Anthony Speca	88	89	79	5.8	LB	Pittsburgh	PA	True	Penn State Nittany Lions	
+Owen Wafle	88	89	80	5.8	DL	Princeton	NJ	False	False	
+Paul Mencke Jr.	92	88	78	5.6	S	Cibolo	TX	False	False	
+Rodney Hill	89	88	79	5.8	LB	Palm Coast	FL	False	False	
+Leonard Moore	89	88	78	5.8	CB	Round Rock	TX	True	Notre Dame Fighting Irish	
+Camdon Frier	88	88	81	5.8	WR	Lake City	FL	True	Florida State Seminoles	
+Melvin Laster	88	90	77	5.8	LB	Liberty	MO	True	Unlv Rebels	
+Elyjah Thurmon	90	87	-	-	IOL	Hinesville	GA	False	False	
+Peyton Waters	-	88	80	5.8	WR	Los Angeles	CA	False	False	
+Jake Guarnera	89	89	79	5.7	IOL	Ponte Vedra Beach	FL	True	Michigan Wolverines	
+Kaj Sanders	90	88	79	5.7	S	Oradell	NJ	False	False	
+Edward Smith	89	89	79	5.7	EDGE	Pearland	TX	False	False	
+Kyan McDonald	90	90	80	5.6	CB	Seattle	WA	False	False	
+Jack Larsen	88	88	83	5.8	TE	Charlotte	NC	True	Notre Dame Fighting Irish	
+Eric Karner	90	88	79	-	TE	Itasca	IL	False	False	
+Cam Buffington	89	90	80	5.6	LB	Winfield	IA	True	Iowa Hawkeyes	
+Zycarl Lewis	88	88	80	5.8	WR	Tampa	FL	False	False	
+Elijah Baesa	88	89	81	5.7	WR	Mesquite	TX	True	Arizona State Sun Devils	
+Willis McGahee IV	87	90	79	5.7	LB	Miami	FL	True	Nebraska Cornhuskers	
+Omillio Agard	87	87	81	5.9	CB	Philadelphia	PA	False	False	
+Gabriel Winowich	87	90	81	5.7	ATH	Detroit	MI	True	Rutgers Scarlet Knights	
+Jarvis Boatwright Jr.	89	88	78	5.8	S	Clearwater	FL	True	Usc Trojans	
+Jayden Bradford	88	86	81	5.9	QB	Chapin	SC	False	False	
+TJ Lindsey	89	88	-	5.8	DL	Bryant	AR	False	False	
+Justin Logan	88	89	-	5.8	LB	Marietta	GA	False	False	
+Koby Young	89	88	-	5.8	WR	New Orleans	LA	False	False	
+Chase Tyler	89	88	-	5.8	WR	Hiram	GA	False	False	
+Justin Tauanuu	88	89	-	5.8	OT	Huntington Beach	CA	False	False	
+Daniel Freitag	89	88	-	5.8	WR	Minneapolis	MN	False	False	
+Devon Jordan	88	89	-	5.8	CB	Tulsa	OK	False	False	
+Brayshon Williams	90	86	80	5.8	S	Lakeland	FL	False	False	
+Ernest Campbell	90	87	79	5.7	WR	Refugio	TX	False	False	
+Jaylen Thompson	88	88	80	5.8	CB	Murfreesboro	TN	True	Michigan State Spartans	
+Jaden Allen	87	88	78	5.9	CB	Aledo	TX	True	Arkansas Razorbacks	
+Channing Goodwin	87	90	78	5.7	WR	Charlotte	NC	True	Michigan Wolverines	
+Jakob Gude	89	89	78	-	S	Fairburn	GA	False	False	
+Jason Robinson	88	89	79	5.8	WR	Houston	TX	False	False	
+Damani Maxson	89	88	79	5.8	S	Houston	TX	False	False	
+Davhon Keys	89	88	79	5.8	LB	Aledo	TX	True	Lsu Tigers	
+Malik Blocton	88	89	79	5.8	DL	Pike Road	AL	False	False	
+Jamir Benjamin	88	89	80	5.7	CB	West Bloomfield	MI	False	False	
+Kayvion Sibley	89	88	80	5.7	RB	Allen	TX	False	False	
+Christian Peterson	89	88	80	5.7	S	Atlanta	GA	False	False	
+Elijah Newby	89	90	-	5.6	LB	Cheshire	CT	False	False	
+Dillon Gresham	91	90	81	5.5	WR	San Jacinto	CA	True	Oregon Ducks	
+Yasin Willis	87	88	77	5.9	RB	Montvale	NJ	False	False	
+Garrett Sexton	92	87	79	5.6	OT	Hartland	WI	True	Penn State Nittany Lions	
+Jah Jah Boyd	88	-	81	-	CB	Philadelphia	PA	False	False	
+Isaiah Rubin	86	90	81	5.8	CB	Los Alamitos	CA	False	False	
+Hauss Hejny	90	90	79	5.6	QB	Fort Worth	TX	True	Tcu Horned Frogs	
+Tovani Mizell	88	88	81	5.8	RB	Fort Lauderdale	FL	False	False	
+PJ Woodland	88	88	-	5.8	ATH	Hattiesburg	MS	False	False	
+Jacory Barney	89	88	78	5.8	WR	Miami	FL	False	False	
+Will Hammond	89	88	78	5.8	QB	Hutto	TX	True	Texas Tech Red Raiders	
+Bodie Kahoun	89	88	78	5.8	LB	Roanoke	VA	True	Notre Dame Fighting Irish	
+Caden Brown	91	88	-	5.6	EDGE	New York	NY	False	False	
+Darrion Dupree	88	88	79	5.8	RB	Chicago	IL	False	False	
+D'Mon Marable	89	89	77	-	S	Clinton	TN	True	Purdue Boilermakers	
+Daniel Cruz	92	89	80	5.5	IOL	North Richland Hills	TX	False	False	
+Jalen Todd	89	87	-	5.8	CB	Southfield	MI	False	False	
+Jordan Lockhart	88	88	79	5.8	LB	Bellflower	CA	False	False	
+Rob Booker	90	87	77	5.7	TE	Waunakee	WI	True	Wisconsin Badgers	
+KJ Duff	90	89	-	5.6	TE	Riverhead	NY	False	False	
+Mark Schroller	90	89	79	5.6	OT	Mission Viejo	CA	True	Ucla Bruins	
+Solomon Williams	88	89	-	5.7	EDGE	Tampa	FL	False	False	
+Robby Martin	88	89	-	5.7	IOL	Huntington	WV	False	False	
+Devin Smith	89	88	-	5.7	LB	Brunswick	GA	False	False	
+Jameson Riggs	87	90	-	5.7	IOL	Hiram	GA	False	False	
+Clinton Richard	89	88	-	5.7	IOL	Hiram	GA	False	False	
+Michael Boganowski	89	88	-	5.7	LB	Junction City	KS	False	False	
+Marcus Downs	89	88	-	5.7	DL	Taylors	SC	False	False	
+CJ Heard	89	87	80	5.8	S	Atlanta	GA	True	Florida State Seminoles	
+Trey Owens	88	88	79	5.8	QB	Cypress	TX	True	Texas Longhorns	
+Kenny Woseley	88	88	78	5.8	CB	Philadelphia	PA	True	Penn State Nittany Lions	
+J'Koby Williams	89	88	79	5.7	RB	Beckville	TX	False	False	
+Josiah Davis	88	89	79	5.7	S	Nashville	GA	True	Florida Gators	
+Koi Perich	89	90	80	5.6	S	Esko	MN	True	Minnesota Golden Gophers	
+Nate Kibble	89	87	81	5.7	IOL	Humble	TX	False	False	
+Joshua Smith	88	89	-	-	WR	Crandall	TX	False	False	
+Anthony Robinson	88	89	-	-	S	Destrehan	LA	False	False	
+Jayden Fortier	88	89	-	-	TE	Tualatin	OR	False	False	
+Trajen Greco	89	88	-	-	CB	Hoschton	GA	False	False	
+Keyshawn Flowers	89	88	-	-	LB	Severn	MD	False	False	
+Red Morgan	89	88	-	-	S	Phenix City	AL	False	False	
+Daniel Kaelin	88	89	78	5.7	QB	Bellevue	NE	True	Nebraska Cornhuskers	
+Mekhai White	88	89	78	5.7	WR	King George	VA	False	False	
+Markeis Barrett Jr.	89	88	78	5.7	WR	Knoxville	TN	False	False	
+Rodney Bimage	89	88	78	5.7	CB	Dickinson	TX	False	False	
+Karson Hobbs	89	88	78	5.7	CB	Cincinnati	OH	True	Notre Dame Fighting Irish	
+Ryan Mack	90	89	77	5.6	S	Fort Lauderdale	FL	False	False	
+Cameron Lindsey	88	88	-	5.8	LB	Aliquippa	PA	False	False	
+Vosky Howard	89	87	-	5.8	WR	Timpson	TX	False	False	
+Ashton Woods	90	86	-	5.8	LB	Marietta	GA	False	False	
+D'Angelo Barber	89	87	-	5.8	LB	Pinson	AL	False	False	
