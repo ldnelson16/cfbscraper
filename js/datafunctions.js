@@ -31,6 +31,9 @@ function addPlayer(name,ron3,r247,respn,rrivals,pos,city,state,committed,team,re
     results.push(player);
   }
 }
+function webScrape(results,nameandcities,dates){
+  
+}
 
 let res = []
 let nameandcities = []
