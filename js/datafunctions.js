@@ -1,3 +1,5 @@
+import {Player} from './playerclass.js';
+
 function fillList(lst,deslength) {
   if(lst.length<deslength){
     lst.unshift("-");
@@ -7,16 +9,34 @@ function fillList(lst,deslength) {
     return lst;
   }
 }
+function searchAofAs(arr,arrfind,wantindex=false){
+  for(let i=0;i<arr.length;++i){
+    if(arr[i].includes(arrfind[0])&&arr[i].includes(arrfind[1])){
+      if (wantindex) {return i;}
+      return true;
+    }
+  }
+  return false;
+}
 function addPlayer(name,ron3,r247,respn,rrivals,pos,city,state,committed,team,results,nameandcities) {
   let player=new Player(name,ron3,r247,respn,rrivals,pos,city,state,committed,team);
-  if ((name,city) in nameandcities){
-    results[nameandcities.index((name,city))].ron3+=[ron3]
-    results[nameandcities.index((name,city))].r247+=[r247]
-    results[nameandcities.index((name,city))].respn+=[respn]
-    results[nameandcities.index((name,city))].rrivals+=[rrivals]
+  if (searchAofAs(nameandcities,[name,city])){
+    results[searchAofAs(nameandcities,[name,city],true)].ron3.push(ron3);
+    results[searchAofAs(nameandcities,[name,city],true)].r247.push(r247);
+    results[searchAofAs(nameandcities,[name,city],true)].respn.push(respn);
+    results[searchAofAs(nameandcities,[name,city],true)].rrivals.push(rrivals);
   }
   else{
-    nameandcities+=[(name,city)]
-    results+=[player]
+    nameandcities.push([name,city]);
+    results.push(player);
   }
 }
+
+let res = []
+let nameandcities = []
+addPlayer("J",1,1,1,1,"Q","Q","W",false,false,res,nameandcities);
+console.log(res[0].print());
+console.log(nameandcities);
+addPlayer("J",1.1,1,1,1,"Q","Q","W",false,false,res,nameandcities);
+console.log(res[0].print());
+console.log(nameandcities);

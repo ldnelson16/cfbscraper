@@ -6,13 +6,13 @@ String.prototype.format = function () {
   });
 };
 
-class Player {
+export class Player {
   constructor(name,ratingon3,rating247,ratingespn,ratingrivals,position,city,state,committed,team = false) {
     this.name=name;
-    this.ron3=isNaN(ratingon3) ? ratingon3 : parseInt(ratingon3);
-    this.r247=isNaN(rating247) ? rating247 : parseInt(rating247);
-    this.respn=isNaN(ratingespn) ? ratingespn : parseInt(ratingespn);
-    this.rrivals=isNaN(ratingrivals) ? ratingrivals : parseFloat(ratingrivals);
+    this.ron3=[isNaN(ratingon3) ? ratingon3 : parseInt(ratingon3)];
+    this.r247=[isNaN(rating247) ? rating247 : parseInt(rating247)];
+    this.respn=[isNaN(ratingespn) ? ratingespn : parseInt(ratingespn)];
+    this.rrivals=[isNaN(ratingrivals) ? ratingrivals : parseFloat(ratingrivals)];
     this.pos=position;
     this.city=city;
     this.state=state;
@@ -25,6 +25,3 @@ class Player {
     return this.committed===true?f1.format(this.name,this.ron3,this.r247,this.respn,this.rrivals,this.pos,this.city,this.state,this.team):f2.format(this.name,this.ron3,this.r247,this.respn,this.rrivals,this.pos,this.city,this.state);
   }
 }
-
-let p1=new Player("L",1,"-","1",1.1,"RB","N","NV",false,false);
-console.log(p1.print());
