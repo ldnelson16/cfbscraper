@@ -22,8 +22,8 @@ function searchAofAs(arr,arrfind,wantindex=false){
   }
   return false;
 }
-function addPlayer(name,ron3,r247,respn,rrivals,pos,city,state,committed,team,results,nameandcities) {
-  let player=new Player(name,ron3,r247,respn,rrivals,pos,city,state,committed,team);
+function addPlayer(ron3,r247,respn,rrivals,name,pos,city,state,committed,team,results,nameandcities) {
+  let player=new Player(ron3,r247,respn,rrivals,name,pos,city,state,committed,team);
   if (searchAofAs(nameandcities,[name,city])){
     results[searchAofAs(nameandcities,[name,city],true)].ron3.push(ron3);
     results[searchAofAs(nameandcities,[name,city],true)].r247.push(r247);
@@ -38,26 +38,47 @@ function addPlayer(name,ron3,r247,respn,rrivals,pos,city,state,committed,team,re
 async function webScrape(results,nameandcities,dates,url){
   const driver = await new Builder().forBrowser('chrome').build()/*.setChromeOptions(new chrome.Options().headless())*/;
   await driver.get(url);
-  var elm = driver.findElement(By.xpath('/html/body/div[1]/div[1]/section/main/section/section/ul/li[2]/div[1]/div[1]/div/a'));
-  for(let i=0;i<50;++i){
+  for(let x=0;x<50;++x){
     //take all data
+    let data=[];
+    const xpath_stats = ["/html/body/div[1]/div[1]/section/main/section/section/ul/li[" + String(1+x) + "]/div[2]/div["+String(1+y)+"]/a/div[1]/div[2]/div/span[2]/span","/html/body/div/div[1]/section/main/section/section/ul/li[" + String(1+x) + "]/div[2]/div["+String(1+y)+"]/a/div[1]/div[2]/div/span[2]/span","/html/body/div[1]/div[1]/section/main/section/section/ul/li[" + String(1+x) + "]/div[2]/div["+String(1+y)+"]/a/div[3]/h6[1]","/html/body/div[1]/div[1]/section/main/section/section/ul/li[" + String(1+x) + "]/div[2]/div["+String(1+y)+"]/div/div[3]/h6[1]"];
+    for(let y=0;y<3;++y){
+      let nothappened=true;
+      let a=0;
+      while(nothappened){
+        try{retrieveXpathData(xpath_stats[a],driver,By).then(function(txt){console.log(txt);nothappened=false;})}
+        catch(error){++a;}
+      }
+    }
+    const xpath_name = '/html/body/div[1]/div[1]/section/main/section/section/ul/li[' + String(1+x) + ']/div[1]/div[1]/div/a';
+    /*const xpath_on3 = "/html/body/div[1]/div[1]/section/main/section/section/ul/li[" + String(1+x) + "]/div[2]/div[1]/a/div[1]/div[2]/div/span[2]/span";
+    const xpath_247 = "/html/body/div[1]/div[1]/section/main/section/section/ul/li[" + str(1+x) + "]/div[2]/div[2]/a/div[1]/div[2]/div/span[2]/span";
+    const xpath_espn = "/html/body/div[1]/div[1]/section/main/section/section/ul/li[" + str(1+x) + "]/div[2]/div[3]/a/div[1]/div[2]/div/span[2]/span";
+    const xpath_rivals = "/html/body/div[1]/div[1]/section/main/section/section/ul/li[" + str(1+x) + "]/div[2]/div[4]/a/div[1]/div[2]/div/span[2]/span";*/
+    const xpath_pos = "/html/body/div[1]/div[1]/section/main/section/section/ul/li["+ String(1+x) +"]/div[1]/div[1]/p[1]/span[1]";
+    const xpath_citystate = "/html/body/div[1]/div[1]/section/main/section/section/ul/li["+ String(1+x) +"]/div[1]/div[1]/p[2]/span[2]";
+    const xpath_committed = "/html/body/div[1]/div[1]/section/main/section/section/ul/li[" + String(1+x) + "]/div[3]/div/a";
+    const xpaths = [xpath_name,xpath_pos,xpath_citystate,xpath_committed];
+    xpaths.map(function(xp) {retrieveXpathData(xp,driver,By).then(function(txt){data.push(txt);});});
+    //var elm = driver.findElement(By.xpath(xpath_name)).getText();
+    //elm.getText().then(function(txt) {console.log(txt);});
+    //elm=elm.getText();
+    //console.log(elm);
   }
-  elm.getText().then(function(txt) {
-    console.log("txt: " + txt);
-  });
   /*driver.findElement(By.xpath('/html/body/div[1]/div[1]/section/main/section/section/ul/li[2]/div[1]/div[1]/div/a').then(function(element){
     element.getText().then(function(text){
         console.log(text);
     });
   }));*/
 }
+function retrieveXpathData(xpath,driver,By){return driver.findElement(By.xpath(xpath)).getText();}
 
 let res = []
 let nameandcities = []
-addPlayer("J",1,1,1,1,"Q","Q","W",false,false,res,nameandcities);
+addPlayer(1,1,1,1,"J","Q","Q","W",false,false,res,nameandcities);
 console.log(res[0].print());
 console.log(nameandcities);
-addPlayer("J",1.1,1,1,1,"Q","Q","W",false,false,res,nameandcities);
+addPlayer(1.1,1,1,1,"J","Q","Q","W",false,false,res,nameandcities);
 console.log(res[0].print());
 console.log(nameandcities);
 

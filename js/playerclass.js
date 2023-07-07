@@ -7,7 +7,7 @@ String.prototype.format = function () {
 };
 
 export class Player {
-  constructor(name,ratingon3,rating247,ratingespn,ratingrivals,position,city,state,committed,team = false) {
+  constructor(ratingon3,rating247,ratingespn,ratingrivals,name,position,city,state,committed,team = false) {
     this.name=name;
     this.ron3=[isNaN(ratingon3) ? ratingon3 : parseInt(ratingon3)];
     this.r247=[isNaN(rating247) ? rating247 : parseInt(rating247)];
