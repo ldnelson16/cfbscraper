@@ -207,7 +207,6 @@ Braylon Burnside	91	90	83	5.8	WR	Starkville	MS	False	False
 Mason Curtis	92	90	81	5.8	LB	Nashville	TN	True	Michigan Wolverines	
 Ethan Calloway	93	89	-	5.8	OT	Mooresville	NC	False	False	
 Courtney Crutchfield	89	94	79	5.8	ATH	Pine Bluff	AR	True	Arkansas Razorbacks	
-
 Ju’Juan Johnson	90	90	80	5.9	CB	Lafayette	LA	True	Lsu Tigers	
 Dakyus Brinkley	91	90	81	5.8	EDGE	Katy	TX	False	False	
 Isaiah Garcia	91	90	83	5.7	IOL	Draper	UT	False	False	

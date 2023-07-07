@@ -41,15 +41,16 @@ async function webScrape(results,nameandcities,dates,url){
   for(let x=0;x<50;++x){
     //take all data
     let data=[];
-    const xpath_stats = ["/html/body/div[1]/div[1]/section/main/section/section/ul/li[" + String(1+x) + "]/div[2]/div["+String(1+y)+"]/a/div[1]/div[2]/div/span[2]/span","/html/body/div/div[1]/section/main/section/section/ul/li[" + String(1+x) + "]/div[2]/div["+String(1+y)+"]/a/div[1]/div[2]/div/span[2]/span","/html/body/div[1]/div[1]/section/main/section/section/ul/li[" + String(1+x) + "]/div[2]/div["+String(1+y)+"]/a/div[3]/h6[1]","/html/body/div[1]/div[1]/section/main/section/section/ul/li[" + String(1+x) + "]/div[2]/div["+String(1+y)+"]/div/div[3]/h6[1]"];
-    for(let y=0;y<3;++y){
+    let result;
+    const xpath_stats = ["/html/body/div[1]/div[1]/section/main/section/section/ul/li[" + String(1+x) + "]/div[2]/div[","]/a/div[1]/div[2]/div/span[2]/span","/html/body/div/div[1]/section/main/section/section/ul/li[" + String(1+x) + "]/div[2]/div[","]/a/div[1]/div[2]/div/span[2]/span","/html/body/div[1]/div[1]/section/main/section/section/ul/li[" + String(1+x) + "]/div[2]/div[","]/a/div[3]/h6[1]","/html/body/div[1]/div[1]/section/main/section/section/ul/li[" + String(1+x) + "]/div[2]/div[","]/div/div[3]/h6[1]"];
+    /*for(let y=0;y<3;++y){
       let nothappened=true;
       let a=0;
       while(nothappened){
-        try{retrieveXpathData(xpath_stats[a],driver,By).then(function(txt){console.log(txt);nothappened=false;})}
-        catch(error){++a;}
+        try{retrieveXpathData((xpath_stats[a]+String(y+1)+xpath_stats[a+1]),driver,By).then(function(txt){console.log(txt);nothappened=false;})}
+        catch(error){a+=2;};
       }
-    }
+    }*/
     const xpath_name = '/html/body/div[1]/div[1]/section/main/section/section/ul/li[' + String(1+x) + ']/div[1]/div[1]/div/a';
     /*const xpath_on3 = "/html/body/div[1]/div[1]/section/main/section/section/ul/li[" + String(1+x) + "]/div[2]/div[1]/a/div[1]/div[2]/div/span[2]/span";
     const xpath_247 = "/html/body/div[1]/div[1]/section/main/section/section/ul/li[" + str(1+x) + "]/div[2]/div[2]/a/div[1]/div[2]/div/span[2]/span";
@@ -58,12 +59,13 @@ async function webScrape(results,nameandcities,dates,url){
     const xpath_pos = "/html/body/div[1]/div[1]/section/main/section/section/ul/li["+ String(1+x) +"]/div[1]/div[1]/p[1]/span[1]";
     const xpath_citystate = "/html/body/div[1]/div[1]/section/main/section/section/ul/li["+ String(1+x) +"]/div[1]/div[1]/p[2]/span[2]";
     const xpath_committed = "/html/body/div[1]/div[1]/section/main/section/section/ul/li[" + String(1+x) + "]/div[3]/div/a";
-    const xpaths = [xpath_name,xpath_pos,xpath_citystate,xpath_committed];
-    xpaths.map(function(xp) {retrieveXpathData(xp,driver,By).then(function(txt){data.push(txt);});});
+    const xpaths = [xpath_name,xpath_pos,xpath_citystate,xpath_committed,(xpath_stats[0]+String(1)+xpath_stats[1])];
+    retrieveXpathData(xpath_name,driver,By).then((datum) => {((datum) => {data.push(datum);})(datum);});
+    //xpaths.map(let result;(function(xp){retrieveXpathData(xp,driver,By).then(function(txt) {let elm});}));
     //var elm = driver.findElement(By.xpath(xpath_name)).getText();
     //elm.getText().then(function(txt) {console.log(txt);});
     //elm=elm.getText();
-    //console.log(elm);
+    console.log(data);
   }
   /*driver.findElement(By.xpath('/html/body/div[1]/div[1]/section/main/section/section/ul/li[2]/div[1]/div[1]/div/a').then(function(element){
     element.getText().then(function(text){
@@ -72,6 +74,9 @@ async function webScrape(results,nameandcities,dates,url){
   }));*/
 }
 function retrieveXpathData(xpath,driver,By){return driver.findElement(By.xpath(xpath)).getText();}
+async function addToData(data,xpath,driver,By){
+  let result = await retrieveXpathData(xpath,driver,By).then(function(){});
+}
 
 let res = []
 let nameandcities = []

@@ -1,10 +1,5 @@
-import requests
-import json
-import pandas
 import datetime
-import selenium
 from selenium import webdriver
-from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.chrome.options import Options
 options = Options()
 options.add_argument('--headless=new')
@@ -157,10 +152,6 @@ def webscrape(results,nameandcities,dates):
                 addPlayer(name,ron3,r247,respn,rrivals,pos,city_state[:-4],city_state[-2:],committed,team,results,nameandcities)
                 p1 = Player(name,ron3,r247,respn,rrivals,pos,city_state[:-4],city_state[-2:],committed,team)
                 printres+=[p1]
-                file = open(dtFormat(datetime.date.today())+"_RecruitData_Cl24.txt","w")
-                file.write("Name\tOn3 Rating\t247 Rating\tESPN Rating\tRivals Rating\tPosition\tCity\tState\tCommit Status\tCommit Team\n")
-                for printr in printres:
-                    file.write(printr.name+"\t"+str(printr.ron3)+"\t"+str(printr.r247)+"\t"+str(printr.respn)+"\t"+str(printr.rrivals)+"\t"+printr.position+"\t"+printr.city+"\t"+printr.state+"\t"+str(printr.committed)+"\t"+str(printr.team)+"\t"+"\n")
             except:
                 print("Nothing at player #",x+y*50-49)
                 pass
@@ -186,53 +177,15 @@ def addPlayer(name,ron3,r247,respn,rrivals,pos,city,state,committed,team,results
         nameandcities+=[(name,city)]
         results+=[player]
 
-#first, bring in all previous results
-
-results = []
-nameandcities = []
-startdate = datetime.date(2023,6,7)
-dates=[]
-x=0
-while (startdate+datetime.timedelta(days=x)<datetime.date.today()):
-    filename = dtFormat(startdate+datetime.timedelta(days=x))+"_RecruitData_Cl24.txt"
-    try: 
-        file = open(filename,"r")
-        dates+=[startdate+datetime.timedelta(days=x)]
-        for line in file.readlines()[1:]:
-            data=line.split("\t")
-            addPlayer(data[0],data[1],data[2],data[3],data[4],data[5],data[6],data[7],data[8],data[9],results,nameandcities)
-    except: 
-        print("No data from "+dtFormat(startdate+datetime.timedelta(days=x)))
-    x+=1
-webscrape(results,nameandcities,dates)
-
-#resort results and nameandcities alphabetically
-results.sort(key=lambda result: result.name)
-nameandcities.sort(key=lambda nc: nc[0])
-
-#go through and find duplicates
-for x in range(len(results)):
-    if len(results[x].ron3)!=len(dates):
-        print(results[x],"Might be an error")
-
-#go through, and if any not correct length, append hyphen to them to fill spots
-for result in results:
-    #print(len(result.ron3),len(result.r247),len(result.respn),len(result.rrivals),len(dates)) 
-    if len(result.ron3)<=len(dates):
-        #print("FILLING on3")
-        fillList(result.ron3,len(dates))
-    if len(result.r247)<=len(dates):
-        #print("FILLING 247")
-        fillList(result.r247,len(dates))
-    if len(result.respn)<=len(dates):
-        #print("FILLING espn")
-        fillList(result.respn,len(dates))
-    if len(result.rrivals)<=len(dates):
-        #print("FILLING rivals")
-        fillList(result.rrivals,len(dates))
-
-
-#for result in results:
-    #print(result)
-#for namecity in nameandcities:
-    #print(namecity)
+file = open("data.txt","r")
+#load results
+results=[]
+nameandcities=[]
+dates=file.readline()[:-1].split(" ")
+print(dates)
+for line in file.readlines()[1:]:
+  data=line.split("\t")
+  print(data)
+  #print(data[1])
+  #addPlayer(data[0],data[1],data[2],data[3],data[4],data[5],data[6],data[7],data[8],data[9],results,nameandcities)
+print(results[0:10],nameandcities[0:10])
