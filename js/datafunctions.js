@@ -1,5 +1,6 @@
 import {Player} from './playerclass.js';
 import { Builder, By } from 'selenium-webdriver';
+import 'selenium-webdriver';
 import chrome from 'selenium-webdriver/chrome.js';
 
 
@@ -36,11 +37,14 @@ function addPlayer(name,ron3,r247,respn,rrivals,pos,city,state,committed,team,re
 }
 async function webScrape(results,nameandcities,dates,url){
   const driver = await new Builder().forBrowser('chrome').build()/*.setChromeOptions(new chrome.Options().headless())*/;
+  await driver.get(url);
   var elm = driver.findElement(By.xpath('/html/body/div[1]/div[1]/section/main/section/section/ul/li[2]/div[1]/div[1]/div/a'));
+  for(let i=0;i<50;++i){
+    //take all data
+  }
   elm.getText().then(function(txt) {
     console.log("txt: " + txt);
   });
-  await driver.quit();
   /*driver.findElement(By.xpath('/html/body/div[1]/div[1]/section/main/section/section/ul/li[2]/div[1]/div[1]/div/a').then(function(element){
     element.getText().then(function(text){
         console.log(text);
