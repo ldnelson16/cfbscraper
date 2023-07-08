@@ -36,11 +36,11 @@ function addPlayer(ron3,r247,respn,rrivals,name,pos,city,state,committed,team,re
   }
 }
 async function webScrape(results,nameandcities,dates,url){
-  const driver = await new Builder().forBrowser('chrome').build()/*.setChromeOptions(new chrome.Options().headless())*/;
+  const driver = await new Builder().forBrowser('chrome').setChromeOptions(new chrome.Options().headless()).build();
   await driver.get(url);
+  let data = [];
   for(let x=0;x<50;++x){
     //take all data
-    let data=[];
     let result;
     const xpath_stats = ["/html/body/div[1]/div[1]/section/main/section/section/ul/li[" + String(1+x) + "]/div[2]/div[","]/a/div[1]/div[2]/div/span[2]/span","/html/body/div/div[1]/section/main/section/section/ul/li[" + String(1+x) + "]/div[2]/div[","]/a/div[1]/div[2]/div/span[2]/span","/html/body/div[1]/div[1]/section/main/section/section/ul/li[" + String(1+x) + "]/div[2]/div[","]/a/div[3]/h6[1]","/html/body/div[1]/div[1]/section/main/section/section/ul/li[" + String(1+x) + "]/div[2]/div[","]/div/div[3]/h6[1]"];
     /*for(let y=0;y<3;++y){
@@ -60,12 +60,14 @@ async function webScrape(results,nameandcities,dates,url){
     const xpath_citystate = "/html/body/div[1]/div[1]/section/main/section/section/ul/li["+ String(1+x) +"]/div[1]/div[1]/p[2]/span[2]";
     const xpath_committed = "/html/body/div[1]/div[1]/section/main/section/section/ul/li[" + String(1+x) + "]/div[3]/div/a";
     const xpaths = [xpath_name,xpath_pos,xpath_citystate,xpath_committed,(xpath_stats[0]+String(1)+xpath_stats[1])];
-    retrieveXpathData(xpath_name,driver,By).then((datum) => {((datum) => {data.push(datum);})(datum);});
+    retrieveXpathData(xpath_name,driver,By).then((datum) => {console.log(datum);data.push(datum);console.log(data);});
     //xpaths.map(let result;(function(xp){retrieveXpathData(xp,driver,By).then(function(txt) {let elm});}));
     //var elm = driver.findElement(By.xpath(xpath_name)).getText();
     //elm.getText().then(function(txt) {console.log(txt);});
     //elm=elm.getText();
-    console.log(data);
+    //let dat = retrieveXpathData(xpath_name,driver,By).then((x)=>{dat=x;});
+    //console.log(await dat+"h");
+    await return data;
   }
   /*driver.findElement(By.xpath('/html/body/div[1]/div[1]/section/main/section/section/ul/li[2]/div[1]/div[1]/div/a').then(function(element){
     element.getText().then(function(text){
@@ -87,4 +89,5 @@ addPlayer(1.1,1,1,1,"J","Q","Q","W",false,false,res,nameandcities);
 console.log(res[0].print());
 console.log(nameandcities);
 
-webScrape(res,nameandcities,res,"https://www.on3.com/db/rankings/industry-comparison/football/2024/?page=1");
+let d=webScrape(res,nameandcities,res,"https://www.on3.com/db/rankings/industry-comparison/football/2024/?page=1");
+console.log(d);
