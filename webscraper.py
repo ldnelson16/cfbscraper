@@ -25,10 +25,10 @@ class Player:
         try: ratingrivals=float(ratingrivals)
         except: pass
         self.name = name
-        self.ron3 = [ratingon3]
-        self.r247 = [rating247]
-        self.respn = [ratingespn]
-        self.rrivals = [ratingrivals]
+        self.ron3 = ratingon3
+        self.r247 = rating247
+        self.respn = ratingespn
+        self.rrivals = ratingrivals
         self.position = position
         self.city = city
         self.state = state
@@ -60,7 +60,6 @@ def webscrape(results,nameandcities,dates):
                 xpath_rivals = "/html/body/div[1]/div[1]/section/main/section/section/ul/li[" + str(1+x) + "]/div[2]/div[4]/a/div[1]/div[2]/div/span[2]/span"
                 xpath_pos = "/html/body/div[1]/div[1]/section/main/section/section/ul/li["+ str(1+x) +"]/div[1]/div[1]/p[1]/span[1]"
                 xpath_city = "/html/body/div[1]/div[1]/section/main/section/section/ul/li["+ str(1+x) +"]/div[1]/div[1]/p[2]/span[2]"
-                xpath_state = "/html/body/div[1]/div[1]/section/main/section/section/ul/li["+ str(1+x) +"]/div[1]/div[1]/p[2]/span[2]"
                 xpath_committed = "/html/body/div[1]/div[1]/section/main/section/section/ul/li[" + str(1+x) + "]/div[3]/div/a"
                 name = browser.find_element("xpath", xpath_name).text
                 try:
@@ -150,8 +149,11 @@ def webscrape(results,nameandcities,dates):
                     committed = False
                     team = False
                 #check if player exists
-                if (name,city) in nameandcities:
-                  s
+                if (name,city_state[:-4]) in nameandcities:
+                  results[nameandcities.index((name,city_state[:-4]))].ron3+=[str(ron3)]
+                  results[nameandcities.index((name,city_state[:-4]))].r247+=[str(r247)]
+                  results[nameandcities.index((name,city_state[:-4]))].respn+=[str(respn)]
+                  results[nameandcities.index((name,city_state[:-4]))].rrivals+=[str(rrivals)]
                 else:
                   addPlayer(name,ron3,r247,respn,rrivals,pos,city_state[:-4],city_state[-2:],committed,team,results,nameandcities)
             except:
@@ -164,6 +166,11 @@ def dtFormat(date):
     stri=str(date.year)+"-"+str(date.month)+"-"+str(date.day)
     return stri 
 
+def rvdtFormat(datestr):
+  datestr=datestr.split("-")
+  print(datestr)
+  return datetime.date(int(datestr[0]),int(datestr[1]),int(datestr[2]))
+
 def turnList(ele):
   try: #list loaded from data.txt
     ele=ele[1:-1].replace("'","")
@@ -175,7 +182,6 @@ def turnList(ele):
 def addPlayer(name,ron3,r247,respn,rrivals,pos,city,state,committed,team,results,nameandcities):
     [ron3,r247,respn,rrivals]=map(turnList,[ron3,r247,respn,rrivals])
     player = Player(name,ron3,r247,respn,rrivals,pos,city,state,committed,team)
-    print(player)
     if (name,city) in nameandcities:
         results[nameandcities.index((name,city))].ron3+=[ron3]
         results[nameandcities.index((name,city))].r247+=[r247]
@@ -190,13 +196,32 @@ file = open("data.txt","r")
 results=[]
 nameandcities=[]
 dates=file.readline()[:-1].split(" ")
-print(dates)
+dates=[rvdtFormat(dt) for dt in dates]
 for line in file.readlines()[1:]:
   data=line[:-1].split("\t")
-  #print(data[1],type(data[1]))
-  #print(data[1])
   addPlayer(data[0],data[1],data[2],data[3],data[4],data[5],data[6],data[7],data[8],data[9],results,nameandcities)
 webscrape(results,nameandcities,dates)
-for result in results[0:25]:
+for result in results:
+    if len(result.ron3)<=len(dates):
+        fillList(result.ron3,len(dates))
+    if len(result.r247)<=len(dates):
+        fillList(result.r247,len(dates))
+    if len(result.respn)<=len(dates):
+        fillList(result.respn,len(dates))
+    if len(result.rrivals)<=len(dates):
+        fillList(result.rrivals,len(dates))
+for result in results:
   print(result)
 print(nameandcities[0:10])
+print(dates)
+
+#alphabetize results
+results.sort(key=lambda result: result.name)
+nameandcities.sort(key=lambda nc: nc[0])
+
+#write out file
+file = open("data.txt","w")
+print(" ".join(map(dtFormat,dates)))
+file.write(" ".join(map(dtFormat,dates))+"\n")
+for printr in results:
+  file.write(printr.name+"\t"+str(printr.ron3)+"\t"+str(printr.r247)+"\t"+str(printr.respn)+"\t"+str(printr.rrivals)+"\t"+printr.position+"\t"+printr.city+"\t"+printr.state+"\t"+str(printr.committed)+"\t"+str(printr.team)+"\t"+"\n")
