@@ -149,9 +149,11 @@ def webscrape(results,nameandcities,dates):
                 except:
                     committed = False
                     team = False
-                addPlayer(name,ron3,r247,respn,rrivals,pos,city_state[:-4],city_state[-2:],committed,team,results,nameandcities)
-                p1 = Player(name,ron3,r247,respn,rrivals,pos,city_state[:-4],city_state[-2:],committed,team)
-                printres+=[p1]
+                #check if player exists
+                if (name,city) in nameandcities:
+                  s
+                else:
+                  addPlayer(name,ron3,r247,respn,rrivals,pos,city_state[:-4],city_state[-2:],committed,team,results,nameandcities)
             except:
                 print("Nothing at player #",x+y*50-49)
                 pass
@@ -162,12 +164,18 @@ def dtFormat(date):
     stri=str(date.year)+"-"+str(date.month)+"-"+str(date.day)
     return stri 
 
+def turnList(ele):
+  try: #list loaded from data.txt
+    ele=ele[1:-1].replace("'","")
+    ele=ele.replace(" ","")
+    ele=ele.split(",")
+  except: #from webscraper
+    ele=[ele]
+  return ele
 def addPlayer(name,ron3,r247,respn,rrivals,pos,city,state,committed,team,results,nameandcities):
-    if ron3!="-": ron3 = int(ron3)
-    if r247!="-": r247 = int(r247)
-    if respn!="-": respn = int(respn)
-    if rrivals!="-": rrivals = float(rrivals)
+    [ron3,r247,respn,rrivals]=map(turnList,[ron3,r247,respn,rrivals])
     player = Player(name,ron3,r247,respn,rrivals,pos,city,state,committed,team)
+    print(player)
     if (name,city) in nameandcities:
         results[nameandcities.index((name,city))].ron3+=[ron3]
         results[nameandcities.index((name,city))].r247+=[r247]
@@ -184,8 +192,11 @@ nameandcities=[]
 dates=file.readline()[:-1].split(" ")
 print(dates)
 for line in file.readlines()[1:]:
-  data=line.split("\t")
-  print(data)
+  data=line[:-1].split("\t")
+  #print(data[1],type(data[1]))
   #print(data[1])
-  #addPlayer(data[0],data[1],data[2],data[3],data[4],data[5],data[6],data[7],data[8],data[9],results,nameandcities)
-print(results[0:10],nameandcities[0:10])
+  addPlayer(data[0],data[1],data[2],data[3],data[4],data[5],data[6],data[7],data[8],data[9],results,nameandcities)
+webscrape(results,nameandcities,dates)
+for result in results[0:25]:
+  print(result)
+print(nameandcities[0:10])

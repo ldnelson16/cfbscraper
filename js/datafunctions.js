@@ -60,15 +60,15 @@ async function webScrape(results,nameandcities,dates,url){
     const xpath_citystate = "/html/body/div[1]/div[1]/section/main/section/section/ul/li["+ String(1+x) +"]/div[1]/div[1]/p[2]/span[2]";
     const xpath_committed = "/html/body/div[1]/div[1]/section/main/section/section/ul/li[" + String(1+x) + "]/div[3]/div/a";
     const xpaths = [xpath_name,xpath_pos,xpath_citystate,xpath_committed,(xpath_stats[0]+String(1)+xpath_stats[1])];
-    retrieveXpathData(xpath_name,driver,By).then((datum) => {console.log(datum);data.push(datum);console.log(data);});
+    retrieveXpathData(xpath_name,driver,By).then(async function(d) {await data.push(d);console.log(data);});
     //xpaths.map(let result;(function(xp){retrieveXpathData(xp,driver,By).then(function(txt) {let elm});}));
     //var elm = driver.findElement(By.xpath(xpath_name)).getText();
     //elm.getText().then(function(txt) {console.log(txt);});
     //elm=elm.getText();
     //let dat = retrieveXpathData(xpath_name,driver,By).then((x)=>{dat=x;});
     //console.log(await dat+"h");
-    await return data;
   }
+  console.log("DATA=="+data);
   /*driver.findElement(By.xpath('/html/body/div[1]/div[1]/section/main/section/section/ul/li[2]/div[1]/div[1]/div/a').then(function(element){
     element.getText().then(function(text){
         console.log(text);
@@ -89,5 +89,4 @@ addPlayer(1.1,1,1,1,"J","Q","Q","W",false,false,res,nameandcities);
 console.log(res[0].print());
 console.log(nameandcities);
 
-let d=webScrape(res,nameandcities,res,"https://www.on3.com/db/rankings/industry-comparison/football/2024/?page=1");
-console.log(d);
+webScrape(res,nameandcities,res,"https://www.on3.com/db/rankings/industry-comparison/football/2024/?page=1");
