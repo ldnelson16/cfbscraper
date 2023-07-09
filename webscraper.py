@@ -49,7 +49,7 @@ def webscrape(results,nameandcities,dates):
     printres=[]
     for y in range (1,21):
         url = 'https://www.on3.com/db/rankings/industry-comparison/football/2024/?page='+str(y)
-        browser = webdriver.Chrome(options=options)
+        browser = webdriver.Chrome(options=options,encoding="utf-8")
         browser.get(url)
         for x in range (0,50):
             try:
@@ -173,25 +173,28 @@ def rvdtFormat(datestr):
 
 def turnList(ele):
   try: #list loaded from data.txt
-    ele=ele[1:-1].replace("'","")
-    ele=ele.replace(" ","")
-    ele=ele.split(",")
+    if(ele[0]=="'"):
+        ele=ele[1:-1].replace("'","")
+        ele=ele.replace(" ","")
+        ele=ele.split(",")
   except: #from webscraper
     ele=[ele]
+  if(ele==""):
+    ele="-"
   return ele
 def addPlayer(name,ron3,r247,respn,rrivals,pos,city,state,committed,team,results,nameandcities):
     [ron3,r247,respn,rrivals]=map(turnList,[ron3,r247,respn,rrivals])
     player = Player(name,ron3,r247,respn,rrivals,pos,city,state,committed,team)
     if (name,city) in nameandcities:
-        results[nameandcities.index((name,city))].ron3+=[ron3]
-        results[nameandcities.index((name,city))].r247+=[r247]
-        results[nameandcities.index((name,city))].respn+=[respn]
-        results[nameandcities.index((name,city))].rrivals+=[rrivals]
+        results[nameandcities.index((name,city))].ron3+=[str(ron3)]
+        results[nameandcities.index((name,city))].r247+=[str(r247)]
+        results[nameandcities.index((name,city))].respn+=[str(respn)]
+        results[nameandcities.index((name,city))].rrivals+=[str(rrivals)]
     else:
         nameandcities+=[(name,city)]
         results+=[player]
 
-file = open("data.txt","r")
+file = open("data.txt","r",encoding="utf-8")
 #load results
 results=[]
 nameandcities=[]
@@ -220,7 +223,7 @@ results.sort(key=lambda result: result.name)
 nameandcities.sort(key=lambda nc: nc[0])
 
 #write out file
-file = open("data.txt","w")
+file = open("data.txt","w",encoding="utf-8")
 print(" ".join(map(dtFormat,dates)))
 file.write(" ".join(map(dtFormat,dates))+"\n")
 for printr in results:

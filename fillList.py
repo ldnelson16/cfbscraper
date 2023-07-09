@@ -59,5 +59,5 @@ for x in range ((datetime.date.today()-startdate).days):
     print(filename)
 
 line="Ju�Juan Johnson"
-line=line.decode('utf-8','ignore').encode("utf-8")
+line=line.replace(r'[^\x00-\x7F]', ' ')
 print(line)

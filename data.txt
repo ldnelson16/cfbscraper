@@ -73,7 +73,7 @@ Blake Franks	['-', '-', '88', '88']	['-', '-', '88', '88']	['-', '-', '79', '79'
 Blake Frazier	['91', '91', '91', '91']	['90', '90', '90', '90']	['79', '79', '81', '81']	['5.9', '5.9', '5.0', '5.9']	OT	Austin	TX	True	Michigan Wolverines	
 Blake Ivy	['93', '93', '93', '93']	['92', '92', '92', '92']	['83', '83', '83', '83']	['5.8', '5.8', '5.0', '5.8']	IOL	League City	TX	False	False	
 Blake Tabaracci	['-', '-', '89', '89']	['-', '-', '86', '86']	['-', '-', '79', '79']	['-', '-', '5.0', '5.6']	LB	Park City	UT	True	Ucla Bruins	
-Bo Tate	['-', '-', '-', 88]	['-', '-', '-', 82]	['-', '-', '-', '']	['-', '-', '-', 5.7]	LB	Salt Lake City	UT	True	Baylor Bears	
+Bo Tate	['-', '-', '-', '88']	['-', '-', '-', '82']	['-', '-', '-', '-']	['-', '-', '-', '5.7']	LB	Salt Lake City	UT	True	Baylor Bears	
 Bobby Kennedy	['-', '-', '88', '88']	['-', '-', '88', '88']	['-', '-', '-', '-']	['-', '-', '5.0', '5.6']	CB	New Orleans	LA	False	False	
 Bodey McCaslin	['-', '-', '89', '89']	['-', '-', '88', '88']	['-', '-', '79', '79']	['-', '-', '5.0', '5.6']	OT	Saint Charles	IL	True	Iowa Hawkeyes	
 Bodie Kahoun	['89', '89', '89', '89']	['88', '88', '88', '88']	['78', '78', '78', '78']	['5.8', '5.8', '5.0', '5.8']	LB	Roanoke	VA	True	Notre Dame Fighting Irish	
@@ -183,7 +183,7 @@ Coen Echols	['-', '-', '88', '88']	['-', '-', '87', '87']	['-', '-', '80', '80']
 Cole McConathy	['-', '-', '88', '88']	['-', '-', '85', '85']	['-', '-', '-', '-']	['-', '-', '5.0', '5.6']	EDGE	Spanish Fort	AL	False	False	
 Cole Mullins	['-', '-', '88', '88']	['-', '-', '87', '87']	['-', '-', '78', '78']	['-', '-', '5.0', '5.7']	LB	Hoschton	GA	True	Notre Dame Fighting Irish	
 Cole Sullivan	['-', '-', '89', '89']	['-', '-', '87', '87']	['-', '-', '79', '79']	['-', '-', '5.0', '5.7']	LB	Pittsburgh	PA	True	Michigan Wolverines	
-Cole Tabb	['-', '-', '-', 88]	['-', '-', '-', 86]	['-', '-', '-', 80]	['-', '-', '-', 5.5]	RB	Fort Walton Beach	FL	True	Stanford Cardinal	
+Cole Tabb	['-', '-', '-', '88']	['-', '-', '-', '86']	['-', '-', '-', '80']	['-', '-', '-', '5.5']	RB	Fort Walton Beach	FL	True	Stanford Cardinal	
 Colin Cubberly	['-', '-', '88', '88']	['-', '-', '86', '86']	['-', '-', '77', '77']	['-', '-', '5.0', '5.7']	OT	Lagrangeville	NY	True	Wisconsin Badgers	
 Colin Hurley	['90', '90', '90', '90']	['89', '89', '90', '90']	['81', '81', '81', '81']	['5.9', '5.9', '5.0', '5.8']	QB	Jacksonville	FL	True	Lsu Tigers	
 Colin Simmons	['98', '98', '98', '98']	['98', '98', '98', '98']	['90', '90', '90', '90']	['6.1', '6.1', '6.0', '6.1']	EDGE	Duncanville	TX	False	False	
@@ -307,7 +307,7 @@ Duke Watson	['90', '90', '90', '90']	['89', '89', '89', '89']	['79', '79', '79',
 Dwight Phillips	['93', '93', '93', '93']	['92', '92', '92', '92']	['85', '85', '85', '85']	['5.8', '5.8', '5.0', '5.8']	RB	Mableton	GA	True	Georgia Bulldogs	
 Dylan Day	['-', '-', '88', '88']	['-', '-', '87', '87']	['-', '-', '77', '77']	['-', '-', '5.0', '5.7']	S	Baton Rouge	LA	True	Miami Hurricanes	
 Dylan Mesman	['89', '89', '89', '89']	['89', '89', '89', '89']	['79', '79', '79', '79']	['5.8', '5.8', '5.0', '5.8']	TE	Saline	MI	True	Louisville Cardinals	
-Dylan Raiola	['-', '-', '-', 98]	['-', '-', '-', 98]	['-', '-', '-', 91]	['-', '-', '-', 6.1]	QB	Buford	GA	True	Georgia Bulldogs	
+Dylan Raiola	['98', '98', '98', '98']	['98', '98', '98', '98']	['90', '90', '90', '91']	['6.1', '6.1', '6.1', '6.1']	QB	Buford	GA	True	Georgia Bulldogs	
 Dylan Stephenson	['91', '91', '91', '91']	['89', '89', '89', '89']	['82', '82', '82', '82']	['5.9', '5.9', '5.0', '5.9']	EDGE	Miami	FL	False	False	
 Dylan Stewart	['98', '98', '98', '98']	['98', '98', '98', '98']	['89', '89', '90', '90']	['6.0', '6.0', '6.0', '6.1']	EDGE	Washington	DC	False	False	
 Dylan Tapley	['-', '-', '88', '88']	['-', '-', '87', '87']	['-', '-', '79', '79']	['-', '-', '5.0', '5.8']	ATH	Scottsdale	AZ	True	Arizona State Sun Devils	
@@ -391,7 +391,7 @@ Gus Hawkins	['-', '-', '89', '89']	['-', '-', '88', '88']	['-', '-', '76', '76']
 Hardley Gilmore	['-', '-', '90', '90']	['-', '-', '88', '88']	['-', '-', '81', '81']	['-', '-', '5.0', '5.9']	WR	Belle Glade	FL	False	False	
 Harry Stewart	['-', '-', '88', '88']	['-', '-', '88', '88']	['-', '-', '78', '78']	['-', '-', '5.0', '5.7']	RB	Frisco	TX	True	Kansas Jayhawks	
 Hauss Hejny	['90', '90', '90', '90']	['90', '90', '90', '90']	['79', '79', '79', '79']	['5.6', '5.6', '5.0', '5.8']	QB	Fort Worth	TX	True	Tcu Horned Frogs	
-Hayden Gunter	['-', '-', '-', 88]	['-', '-', '-', 85]	['-', '-', '-', 75]	['-', '-', '-', 5.6]	OT	Denton	TX	True	Stanford Cardinal	
+Hayden Gunter	['-', '-', '-', '88']	['-', '-', '-', '85']	['-', '-', '-', '75']	['-', '-', '-', '5.6']	OT	Denton	TX	True	Stanford Cardinal	
 Herb Gray	['-', '-', '88', '88']	['-', '-', '88', '88']	['-', '-', '-', '-']	['-', '-', '5.0', '5.7']	DL	Upper Marlboro	MD	False	False	
 Hevin Brown-Shuler	['90', '90', '90', '90']	['90', '90', '90', '90']	['81', '81', '81', '81']	['5.9', '5.9', '5.0', '5.9']	DL	Atlanta	GA	True	Clemson Tigers	
 Hogan Hansen	['91', '91', '91', '91']	['92', '92', '92', '92']	['81', '81', '81', '81']	['5.8', '5.8', '5.0', '5.8']	TE	Bellevue	WA	True	Michigan Wolverines	
@@ -514,7 +514,7 @@ Jeremiah Newcombe	['90', '90', '90', '90']	['90', '90', '90', '90']	['79', '79',
 Jeremiah Smith	['98', '98', '98', '98']	['98', '98', '98', '98']	['90', '90', '90', '90']	['6.1', '6.1', '6.0', '6.1']	WR	Hollywood	FL	True	Ohio State Buckeyes	
 Jeremy Hecklinski	['-', '-', '87', '87']	['-', '-', '87', '87']	['-', '-', '76', '76']	['-', '-', '5.0', '5.7']	QB	Marietta	GA	True	Wake Forest Demon Deacons	
 Jeremy Payne	['89', '89', '89', '89']	['90', '90', '90', '90']	['82', '82', '82', '82']	['5.8', '5.8', '5.0', '5.8']	RB	Missouri City	TX	False	False	
-Jeremy Scott	['-', '-', '-', 85]	['-', '-', '-', 85]	['-', '-', '-', '']	['-', '-', '-', 5.7]	WR	Jackson	MS	True	Ole Miss Rebels	
+Jeremy Scott	['-', '-', '-', '85']	['-', '-', '-', '85']	['-', '-', '-', '-']	['-', '-', '-', '5.7']	WR	Jackson	MS	True	Ole Miss Rebels	
 Jeremy St. Hilaire	['-', '-', '89', '89']	['-', '-', '88', '88']	['-', '-', '77', '77']	['-', '-', '5.0', '5.5']	QB	Chattanooga	TN	True	Vanderbilt Commodores	
 Jericho Johnson	['91', '91', '91', '91']	['92', '92', '92', '92']	['82', '82', '82', '82']	['5.6', '5.6', '5.0', '5.9']	DL	Fairfield	CA	False	False	
 Jerod Smith	['88', '88', '88', '88']	['92', '92', '92', '92']	['82', '82', '82', '82']	['5.8', '5.8', '5.0', '5.8']	DL	Cheshire	CT	True	Michigan Wolverines	
@@ -590,14 +590,12 @@ Justin Okoronkwo	['-', '-', '87', '87']	['-', '-', '88', '89']	['-', '-', '-', '
 Justin Scott	['98', '98', '98', '98']	['98', '98', '98', '98']	['86', '86', '86', '86']	['6.1', '6.1', '6.0', '6.1']	DL	Chicago	IL	False	False	
 Justin Tauanuu	['88', '88', '88', '88']	['89', '89', '89', '89']	['-', '-', '78', '78']	['5.8', '5.8', '5.0', '5.8']	OT	Huntington Beach	CA	False	False	
 Justin Williams	['96', '96', '96', '96']	['98', '98', '98', '98']	['90', '90', '90', '90']	['6.0', '6.0', '6.0', '6.1']	LB	Conroe	TX	False	False	
-Juâ€™Juan Johnson	['-', '-', '90', '90']	['-', '-', '90', '90']	['-', '-', '80', '80']	['-', '-', '5.9', '5.9']	CB	Lafayette	LA	True	Lsu Tigers	
-Juï¿½Juan Johnson	['-', '-', '-', '90']	['-', '-', '-', '90']	['-', '-', '-', '80']	['-', '-', '-', '5.0']	CB	Lafayette	LA	True	Lsu Tigers	
-Ju’Juan Johnson	['-', '-', '-', 90]	['-', '-', '-', 90]	['-', '-', '-', 80]	['-', '-', '-', 5.8]	CB	Lafayette	LA	True	Lsu Tigers	
+JuJuan Johnson	['90', '90', '90', '90']	['90', '90', '90', '90']	['80', '80', '80', '80']	['5.0', '5.9', '5.9', '5.8']	CB	Lafayette	LA	True	Lsu Tigers	
 KJ Bolden	['98', '98', '98', '98']	['98', '98', '98', '98']	['90', '90', '90', '90']	['6.1', '6.1', '6.0', '6.1']	S	Buford	GA	False	False	
 KJ Daniels	['-', '-', '87', '87']	['-', '-', '88', '88']	['-', '-', '80', '80']	['-', '-', '5.0', '5.7']	WR	Franklinton	LA	True	Oklahoma Sooners	
 KJ Duff	['90', '90', '90', '90']	['89', '89', '89', '89']	['-', '-', '79', '79']	['5.6', '5.6', '5.0', '5.8']	TE	Riverhead	NY	False	False	
 KJ Jackson	['88', '88', '88', '88']	['90', '90', '90', '90']	['78', '78', '78', '78']	['5.8', '5.8', '5.0', '5.8']	QB	Montgomery	AL	True	Arkansas Razorbacks	
-KJ Merrell	['-', '-', '-', 89]	['-', '-', '-', 87]	['-', '-', '-', '']	['-', '-', '-', 5.4]	LB	Cordele	GA	True	East Carolina Pirates	
+KJ Merrell	['-', '-', '-', '89']	['-', '-', '-', '87']	['-', '-', '-', '-']	['-', '-', '-', '5.4']	LB	Cordele	GA	True	East Carolina Pirates	
 Ka'Davion Dotson-Walker	['90', '90', '90', '90']	['90', '90', '90', '90']	['80', '80', '80', '80']	['5.9', '5.9', '5.0', '5.8']	S	Duncanville	TX	False	False	
 Kaedin Massey	['-', '-', '86', '86']	['-', '-', '89', '89']	['-', '-', '-', '-']	['-', '-', '5.0', '5.7']	OT	Lyndon	KS	True	Kansas State Wildcats	
 Kahmir Prescott	['-', '-', '90', '90']	['-', '-', '87', '87']	['-', '-', '77', '77']	['-', '-', '5.0', '5.6']	S	Philadelphia	PA	True	Wisconsin Badgers	
@@ -812,9 +810,9 @@ Peyton Lewis	['91', '91', '91', '91']	['91', '91', '91', '91']	['83', '83', '83'
 Peyton Morgan	['93', '93', '93', '93']	['89', '89', '89', '89']	['-', '-', '78', '78']	['5.6', '5.6', '5.0', '5.6']	S	Pflugerville	TX	False	False	
 Peyton Waters	['-', '-', '87', '87']	['88', '88', '88', '88']	['80', '80', '80', '80']	['5.8', '5.8', '5.0', '5.8']	WR	Los Angeles	CA	False	False	
 Peyton Woodyard	['91', '91', '91', '91']	['91', '91', '91', '91']	['86', '86', '84', '84']	['6.1', '6.1', '6.0', '6.1']	S	Bellflower	CA	True	Georgia Bulldogs	
-Preston Ries	['-', '-', '-', 87]	['-', '-', '-', 87]	['-', '-', '-', 80]	['-', '-', '-', 5.5]	LB	Monticello	IA	True	Iowa Hawkeyes	
+Preston Ries	['-', '-', '-', '87']	['-', '-', '-', '87']	['-', '-', '-', '80']	['-', '-', '-', '5.5']	LB	Monticello	IA	True	Iowa Hawkeyes	
 Preston Taumua	['-', '90', '90', '90']	['-', '90', '90', '90']	['-', '82', '82', '82']	['-', '5.8', '5.8', '5.0']	IOL	Aiea	HI	False	False	
-Preston Taumua	['-', '-', '-', 90]	['-', '-', '-', 90]	['-', '-', '-', 82]	['-', '-', '-', 5.8]	IOL	Waipahu	HI	False	False	
+Preston Taumua	['-', '-', '-', '90']	['-', '-', '-', '90']	['-', '-', '-', '82']	['-', '-', '-', '5.8']	IOL	Waipahu	HI	False	False	
 Preston Watson	['-', '-', '87', '87']	['-', '-', '87', '87']	['-', '-', '79', '79']	['-', '-', '5.0', '5.6']	DL	Sanford	FL	True	Duke Blue Devils	
 Qua Birdsong	['89', '89', '89', '89']	['89', '89', '89', '89']	['82', '82', '80', '80']	['5.8', '5.8', '5.0', '5.8']	LB	Lagrange	GA	True	Cincinnati Bearcats	
 Quentin Reddish	['-', '-', '88', '88']	['-', '-', '86', '86']	['-', '-', '76', '76']	['-', '-', '5.0', '5.7']	S	Charlotte	NC	True	Virginia Tech Hokies	
@@ -883,7 +881,7 @@ Steven Soles	['-', '-', '88', '88']	['-', '-', '86', '86']	['-', '-', '78', '78'
 Stratton Shufelt	['-', '-', '87', '87']	['-', '-', '85', '85']	['-', '-', '-', '-']	['-', '-', '-', '-']	LB	Rio Rancho	NM	False	False	
 Styles Prescod	['-', '-', '91', '91']	['-', '-', '88', '88']	['-', '-', '80', '80']	['-', '-', '5.0', '5.7']	IOL	Fishers	IN	True	Notre Dame Fighting Irish	
 Swazy Carheel	['-', '-', '87', '87']	['-', '-', '85', '85']	['-', '-', '-', '-']	['-', '-', '-', '-']	EDGE	Many	LA	False	False	
-Syair Torrence	['-', '-', '-', 88]	['-', '-', '-', 87]	['-', '-', '-', 77]	['-', '-', '-', 5.5]	WR	Syracuse	NY	True	Michigan State Spartans	
+Syair Torrence	['-', '-', '-', '88']	['-', '-', '-', '87']	['-', '-', '-', '77']	['-', '-', '-', '5.5']	WR	Syracuse	NY	True	Michigan State Spartans	
 T.A. Cunningham	['90', '90', '90', '90']	['90', '90', '90', '90']	['84', '84', '83', '83']	['6.0', '6.0', '5.0', '5.8']	DL	Miami	FL	False	False	
 TJ Capers	['93', '93', '93', '93']	['94', '94', '94', '94']	['86', '86', '86', '86']	['6.1', '6.1', '5.0', '5.9']	LB	Miami	FL	True	Louisville Cardinals	
 TJ Lindsey	['89', '89', '89', '89']	['88', '88', '88', '88']	['-', '-', '-', '-']	['5.8', '5.8', '5.0', '5.9']	DL	Bryant	AR	False	False	
@@ -988,7 +986,7 @@ Xai'Shaun Edwards	['-', '-', '86', '86']	['-', '-', '86', '86']	['-', '-', '-', 
 Xavier Atkins	['90', '90', '90', '90']	['89', '89', '89', '89']	['80', '80', '80', '80']	['5.9', '5.9', '5.0', '5.9']	LB	Jonesboro	LA	True	Lsu Tigers	
 Xavier Filsaime	['95', '95', '95', '95']	['98', '98', '98', '98']	['85', '85', '86', '86']	['5.9', '5.9', '6.0', '6.0']	S	McKinney	TX	True	Florida Gators	
 Xavier Gayten	['-', '-', '86', '86']	['-', '-', '88', '88']	['-', '-', '78', '78']	['-', '-', '5.0', '5.7']	ATH	Brookhaven	MS	True	Mississippi State Bulldogs	
-Xavier Gilliam	['-', '-', '-', 87]	['-', '-', '-', 87]	['-', '-', '-', 80]	['-', '-', '-', 5.5]	EDGE	Columbia	MD	True	Penn State Nittany Lions	
+Xavier Gilliam	['-', '-', '-', '87']	['-', '-', '-', '87']	['-', '-', '-', '80']	['-', '-', '-', '5.5']	EDGE	Columbia	MD	True	Penn State Nittany Lions	
 Xavier Jordan	['93', '93', '93', '93']	['93', '93', '93', '93']	['82', '82', '84', '84']	['5.8', '5.8', '5.0', '5.8']	WR	Los Angeles	CA	True	Usc Trojans	
 Xavier Lucas	['-', '-', '86', '86']	['-', '-', '86', '86']	['-', '-', '76', '76']	['-', '-', '5.0', '5.8']	S	Fort Lauderdale	FL	False	False	
 Xavier Porter	['-', '-', '87', '87']	['-', '-', '86', '86']	['-', '-', '-', '-']	['-', '-', '5.0', '5.8']	DL	Tampa	FL	False	False	
@@ -1012,5 +1010,4 @@ Zion Ragins	['92', '92', '92', '92']	['90', '90', '90', '90']	['82', '82', '82',
 Ziron Brown	['91', '91', '91', '91']	['87', '87', '87', '87']	['-', '-', '-', '-']	['5.7', '5.7', '5.0', '5.7']	OT	Bay Saint Louis	MS	False	False	
 Zuri Madison	['-', '-', '88', '88']	['-', '-', '88', '88']	['-', '-', '79', '79']	['-', '-', '5.0', '5.6']	OT	Lexington	KY	True	Arkansas Razorbacks	
 Zycarl Lewis	['88', '88', '88', '88']	['88', '88', '88', '88']	['80', '80', '80', '80']	['5.8', '5.8', '5.0', '5.8']	WR	Tampa	FL	False	False	
-Zyï¿½marion Lang	['-', '-', '-', '88']	['-', '-', '-', '87']	['-', '-', '-', '78']	['-', '-', '-', '5.0']	WR	Palmetto	FL	False	False	
-Zy’marion Lang	['-', '-', '-', 88]	['-', '-', '-', 87]	['-', '-', '-', 78]	['-', '-', '-', 5.8]	WR	Palmetto	FL	False	False	
+Zymarion Lang	['-', '-', '88', '88']	['-', '-', '87', '87']	['-', '-', '78', '78']	['-', '-', '5.0', '5.8']	WR	Palmetto	FL	False	False	
