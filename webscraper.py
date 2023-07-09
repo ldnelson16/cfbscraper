@@ -16,14 +16,6 @@ def fillList(lst,deslength):
 #define Player class
 class Player:
     def __init__(self,name,ratingon3,rating247,ratingespn,ratingrivals,position,city,state,committed,team = False):
-        try: ratingon3=int(ratingon3)
-        except: pass
-        try: rating247=int(rating247)
-        except: pass
-        try: ratingespn=int(ratingespn)
-        except: pass
-        try: ratingrivals=float(ratingrivals)
-        except: pass
         self.name = name
         self.ron3 = ratingon3
         self.r247 = rating247
@@ -49,7 +41,7 @@ def webscrape(results,nameandcities,dates):
     printres=[]
     for y in range (1,21):
         url = 'https://www.on3.com/db/rankings/industry-comparison/football/2024/?page='+str(y)
-        browser = webdriver.Chrome(options=options,encoding="utf-8")
+        browser = webdriver.Chrome(options=options)
         browser.get(url)
         for x in range (0,50):
             try:
@@ -78,8 +70,6 @@ def webscrape(results,nameandcities,dates):
                                 ron3 = browser.find_element("xpath", xpath_on3).text
                             except: 
                                 ron3 = "-"
-                if ron3 != "-":
-                    ron3 = int(ron3)
                 try:
                     r247 = browser.find_element("xpath", xpath_247).text
                 except:
@@ -96,8 +86,6 @@ def webscrape(results,nameandcities,dates):
                                 r247 = browser.find_element("xpath", xpath_247).text
                             except: 
                                 r247 = "-"
-                if r247 != "-":
-                    r247 = int(r247)
                 try:
                     respn = browser.find_element("xpath", xpath_espn).text
                 except:
@@ -114,8 +102,6 @@ def webscrape(results,nameandcities,dates):
                                 respn = browser.find_element("xpath",xpath_espn).text
                             except: 
                                 respn = "-"
-                if respn != "-":
-                    respn = int(respn)
                 try:
                     rrivals = browser.find_element("xpath", xpath_rivals).text
                 except:
@@ -132,8 +118,6 @@ def webscrape(results,nameandcities,dates):
                                 rrivals = browser.find_element("xpath", xpath_rivals).text
                             except: 
                                 rrivals = "-"
-                if rrivals != "-":
-                    rrivals = float(rrivals)
                 pos = browser.find_element("xpath", xpath_pos).text
                 city_state = browser.find_element("xpath", xpath_city).text
                 try:
@@ -150,10 +134,14 @@ def webscrape(results,nameandcities,dates):
                     team = False
                 #check if player exists
                 if (name,city_state[:-4]) in nameandcities:
-                  results[nameandcities.index((name,city_state[:-4]))].ron3+=[str(ron3)]
-                  results[nameandcities.index((name,city_state[:-4]))].r247+=[str(r247)]
-                  results[nameandcities.index((name,city_state[:-4]))].respn+=[str(respn)]
-                  results[nameandcities.index((name,city_state[:-4]))].rrivals+=[str(rrivals)]
+                  results[nameandcities.index((name,city_state[:-4]))].ron3+=[ron3]
+                  print("on3")
+                  results[nameandcities.index((name,city_state[:-4]))].r247+=[r247]
+                  print("247")
+                  results[nameandcities.index((name,city_state[:-4]))].respn+=[respn]
+                  print("espn")
+                  results[nameandcities.index((name,city_state[:-4]))].rrivals+=[rrivals]
+                  print("got to end of adding already existent player")
                 else:
                   addPlayer(name,ron3,r247,respn,rrivals,pos,city_state[:-4],city_state[-2:],committed,team,results,nameandcities)
             except:
@@ -213,8 +201,6 @@ for result in results:
         fillList(result.respn,len(dates))
     if len(result.rrivals)<=len(dates):
         fillList(result.rrivals,len(dates))
-for result in results:
-  print(result)
 print(nameandcities[0:10])
 print(dates)
 
@@ -227,4 +213,5 @@ file = open("data.txt","w",encoding="utf-8")
 print(" ".join(map(dtFormat,dates)))
 file.write(" ".join(map(dtFormat,dates))+"\n")
 for printr in results:
+  print(printr)
   file.write(printr.name+"\t"+str(printr.ron3)+"\t"+str(printr.r247)+"\t"+str(printr.respn)+"\t"+str(printr.rrivals)+"\t"+printr.position+"\t"+printr.city+"\t"+printr.state+"\t"+str(printr.committed)+"\t"+str(printr.team)+"\t"+"\n")
