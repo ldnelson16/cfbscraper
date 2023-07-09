@@ -57,3 +57,7 @@ for x in range ((datetime.date.today()-startdate).days):
     try: file = open(filename,"r")
     except: print("PASSED")
     print(filename)
+
+line="Ju�Juan Johnson"
+line=line.decode('utf-8','ignore').encode("utf-8")
+print(line)
