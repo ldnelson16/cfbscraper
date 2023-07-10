@@ -70,6 +70,7 @@ def webscrape(results,nameandcities,dates):
                                 ron3 = browser.find_element("xpath", xpath_on3).text
                             except: 
                                 ron3 = "-"
+                print(ron3,"ron3")
                 try:
                     r247 = browser.find_element("xpath", xpath_247).text
                 except:
@@ -132,8 +133,10 @@ def webscrape(results,nameandcities,dates):
                 except:
                     committed = False
                     team = False
+                print("Got through commitments")
                 #check if player exists
                 if (name,city_state[:-4]) in nameandcities:
+                  print("in if statement",type(results[nameandcities.index((name,city_state[:-4]))].ron3))
                   results[nameandcities.index((name,city_state[:-4]))].ron3+=[ron3]
                   print("on3")
                   results[nameandcities.index((name,city_state[:-4]))].r247+=[r247]
@@ -160,29 +163,33 @@ def rvdtFormat(datestr):
   return datetime.date(int(datestr[0]),int(datestr[1]),int(datestr[2]))
 
 def turnList(ele):
-  try: #list loaded from data.txt
-    if(ele[0]=="'"):
+  if(ele[0]=="'"):
         ele=ele[1:-1].replace("'","")
         ele=ele.replace(" ","")
         ele=ele.split(",")
-  except: #from webscraper
-    ele=[ele]
-  if(ele==""):
+  elif(ele==""):
     ele="-"
+  elif(ele[0]=="["):
+    ele = ele.strip("][").replace("'","").split(', ')
+  else: #from webscraper
+    ele=[ele]
   return ele
 def addPlayer(name,ron3,r247,respn,rrivals,pos,city,state,committed,team,results,nameandcities):
     [ron3,r247,respn,rrivals]=map(turnList,[ron3,r247,respn,rrivals])
+    print(ron3,type(ron3))
     player = Player(name,ron3,r247,respn,rrivals,pos,city,state,committed,team)
     if (name,city) in nameandcities:
-        results[nameandcities.index((name,city))].ron3+=[str(ron3)]
-        results[nameandcities.index((name,city))].r247+=[str(r247)]
-        results[nameandcities.index((name,city))].respn+=[str(respn)]
-        results[nameandcities.index((name,city))].rrivals+=[str(rrivals)]
+        results[nameandcities.index((name,city))].ron3+=[ron3]
+        print("breaks 1")
+        results[nameandcities.index((name,city))].r247+=[r247]
+        print("breaks 2")
+        results[nameandcities.index((name,city))].respn+=[respn]
+        results[nameandcities.index((name,city))].rrivals+=[rrivals]
     else:
         nameandcities+=[(name,city)]
         results+=[player]
 
-file = open("data.txt","r",encoding="utf-8")
+file = open("data.txt","r")
 #load results
 results=[]
 nameandcities=[]
@@ -191,6 +198,8 @@ dates=[rvdtFormat(dt) for dt in dates]
 for line in file.readlines()[1:]:
   data=line[:-1].split("\t")
   addPlayer(data[0],data[1],data[2],data[3],data[4],data[5],data[6],data[7],data[8],data[9],results,nameandcities)
+for result in nameandcities[0:10]:
+    print(result)
 webscrape(results,nameandcities,dates)
 for result in results:
     if len(result.ron3)<=len(dates):
