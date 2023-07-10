@@ -70,7 +70,6 @@ def webscrape(results,nameandcities,dates):
                                 ron3 = browser.find_element("xpath", xpath_on3).text
                             except: 
                                 ron3 = "-"
-                print(ron3,"ron3")
                 try:
                     r247 = browser.find_element("xpath", xpath_247).text
                 except:
@@ -133,18 +132,12 @@ def webscrape(results,nameandcities,dates):
                 except:
                     committed = False
                     team = False
-                print("Got through commitments")
                 #check if player exists
                 if (name,city_state[:-4]) in nameandcities:
-                  print("in if statement",type(results[nameandcities.index((name,city_state[:-4]))].ron3))
                   results[nameandcities.index((name,city_state[:-4]))].ron3+=[ron3]
-                  print("on3")
                   results[nameandcities.index((name,city_state[:-4]))].r247+=[r247]
-                  print("247")
                   results[nameandcities.index((name,city_state[:-4]))].respn+=[respn]
-                  print("espn")
                   results[nameandcities.index((name,city_state[:-4]))].rrivals+=[rrivals]
-                  print("got to end of adding already existent player")
                 else:
                   addPlayer(name,ron3,r247,respn,rrivals,pos,city_state[:-4],city_state[-2:],committed,team,results,nameandcities)
             except:
@@ -159,7 +152,6 @@ def dtFormat(date):
 
 def rvdtFormat(datestr):
   datestr=datestr.split("-")
-  print(datestr)
   return datetime.date(int(datestr[0]),int(datestr[1]),int(datestr[2]))
 
 def turnList(ele):
@@ -176,13 +168,10 @@ def turnList(ele):
   return ele
 def addPlayer(name,ron3,r247,respn,rrivals,pos,city,state,committed,team,results,nameandcities):
     [ron3,r247,respn,rrivals]=map(turnList,[ron3,r247,respn,rrivals])
-    print(ron3,type(ron3))
     player = Player(name,ron3,r247,respn,rrivals,pos,city,state,committed,team)
     if (name,city) in nameandcities:
         results[nameandcities.index((name,city))].ron3+=[ron3]
-        print("breaks 1")
         results[nameandcities.index((name,city))].r247+=[r247]
-        print("breaks 2")
         results[nameandcities.index((name,city))].respn+=[respn]
         results[nameandcities.index((name,city))].rrivals+=[rrivals]
     else:
@@ -210,8 +199,6 @@ for result in results:
         fillList(result.respn,len(dates))
     if len(result.rrivals)<=len(dates):
         fillList(result.rrivals,len(dates))
-print(nameandcities[0:10])
-print(dates)
 
 #alphabetize results
 results.sort(key=lambda result: result.name)
@@ -219,7 +206,6 @@ nameandcities.sort(key=lambda nc: nc[0])
 
 #write out file
 file = open("data.txt","w",encoding="utf-8")
-print(" ".join(map(dtFormat,dates)))
 file.write(" ".join(map(dtFormat,dates))+"\n")
 for printr in results:
   print(printr)
