@@ -2,8 +2,17 @@ import datetime
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 options = Options()
-options.add_argument('--headless=new')
+#options.add_argument('--headless=new')
 options.add_argument('--disable-gpu')
+options.add_argument('--ignore-certificate-errors')
+options.add_argument('--ignore-ssl-errors')
+
+def remove_ascii_characters(text):
+    ascii_free_text = ""
+    for char in text:
+        if ord(char) < 128:  # Check if the character is within the ASCII range
+            ascii_free_text += char
+    return ascii_free_text
 
 def fillList(lst,deslength):
     if(len(lst)!=deslength):
@@ -54,6 +63,7 @@ def webscrape(results,nameandcities,dates):
                 xpath_city = "/html/body/div[1]/div[1]/section/main/section/section/ul/li["+ str(1+x) +"]/div[1]/div[1]/p[2]/span[2]"
                 xpath_committed = "/html/body/div[1]/div[1]/section/main/section/section/ul/li[" + str(1+x) + "]/div[3]/div/a"
                 name = browser.find_element("xpath", xpath_name).text
+                name=remove_ascii_characters(name)
                 try:
                     ron3 = browser.find_element("xpath", xpath_on3).text
                 except:
@@ -183,11 +193,17 @@ file = open("data.txt","r")
 results=[]
 nameandcities=[]
 dates=file.readline()[:-1].split(" ")
-dates=[rvdtFormat(dt) for dt in dates]
-for line in file.readlines()[1:]:
-  data=line[:-1].split("\t")
+try:
+    dates=[rvdtFormat(dt) for dt in dates]
+except: 
+    print("NO DATES, file should be empty")
+    dates=[]
+    pass
+for line in file.readlines():
+  print(line)
+  data=line[:-1].replace("’","").split("\t")
   addPlayer(data[0],data[1],data[2],data[3],data[4],data[5],data[6],data[7],data[8],data[9],results,nameandcities)
-for result in nameandcities[0:10]:
+for result in nameandcities:
     print(result)
 webscrape(results,nameandcities,dates)
 for result in results:
