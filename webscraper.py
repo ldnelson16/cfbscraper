@@ -1,6 +1,8 @@
 import datetime
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
+import json
+
 options = Options()
 #options.add_argument('--headless=new')
 options.add_argument('--disable-gpu')
@@ -21,33 +23,11 @@ def fillList(lst,deslength):
     else:
         return lst
 
-
-#define Player class
-class Player:
-    def __init__(self,name,ratingon3,rating247,ratingespn,ratingrivals,position,city,state,committed,team = False):
-        self.name = name
-        self.ron3 = ratingon3
-        self.r247 = rating247
-        self.respn = ratingespn
-        self.rrivals = ratingrivals
-        self.position = position
-        self.city = city
-        self.state = state
-        self.committed = committed
-        self.team = team
-    def __str__(self):
-        if self.committed == True:
-            ret_format = "{}: Ratings - On3:{}, 247:{}, ESPN:{}, Rivals:{}\nPos: {}, City: {}, State: {}\n{} commit"
-            return ret_format.format(self.name,self.ron3,self.r247,self.respn,self.rrivals,self.position,self.city,self.state,self.team)
-        else:
-            ret_format = "{}: Ratings - On3:{}, 247:{}, ESPN:{}, Rivals:{}\nPos: {}, City: {}, State: {}"
-            return ret_format.format(self.name,self.ron3,self.r247,self.respn,self.rrivals,self.position,self.city,self.state)
-
-
-def webscrape(results,nameandcities,dates):
+def webscrape(data,nameandcities,dates):
     #bring in webscraper, to get today's data
-    dates+=[datetime.date.today()]
-    printres=[]
+    dates+=[dtFormat(datetime.date.today())]
+    data["dates"]=dates
+    print(dates)
     for y in range (1,21):
         url = 'https://www.on3.com/db/rankings/industry-comparison/football/2024/?page='+str(y)
         browser = webdriver.Chrome(options=options)
@@ -142,14 +122,7 @@ def webscrape(results,nameandcities,dates):
                 except:
                     committed = False
                     team = False
-                #check if player exists
-                if (name,city_state[:-4]) in nameandcities:
-                  results[nameandcities.index((name,city_state[:-4]))].ron3+=[ron3]
-                  results[nameandcities.index((name,city_state[:-4]))].r247+=[r247]
-                  results[nameandcities.index((name,city_state[:-4]))].respn+=[respn]
-                  results[nameandcities.index((name,city_state[:-4]))].rrivals+=[rrivals]
-                else:
-                  addPlayer(name,ron3,r247,respn,rrivals,pos,city_state[:-4],city_state[-2:],committed,team,results,nameandcities)
+                addPlayer(name,ron3,r247,respn,rrivals,pos,city_state[:-4],city_state[-2:],team,data,nameandcities,dates)
             except:
                 print("Nothing at player #",x+y*50-49)
                 pass
@@ -160,69 +133,43 @@ def dtFormat(date):
     stri=str(date.year)+"-"+str(date.month)+"-"+str(date.day)
     return stri 
 
-def rvdtFormat(datestr):
-  datestr=datestr.split("-")
-  return datetime.date(int(datestr[0]),int(datestr[1]),int(datestr[2]))
-
-def turnList(ele):
-  if(ele[0]=="'"):
-        ele=ele[1:-1].replace("'","")
-        ele=ele.replace(" ","")
-        ele=ele.split(",")
-  elif(ele==""):
-    ele="-"
-  elif(ele[0]=="["):
-    ele = ele.strip("][").replace("'","").split(', ')
-  else: #from webscraper
-    ele=[ele]
-  return ele
-def addPlayer(name,ron3,r247,respn,rrivals,pos,city,state,committed,team,results,nameandcities):
-    [ron3,r247,respn,rrivals]=map(turnList,[ron3,r247,respn,rrivals])
-    player = Player(name,ron3,r247,respn,rrivals,pos,city,state,committed,team)
+def addPlayer(name,ron3,r247,respn,rrivals,pos,city,state,team,data,nameandcities,dates):
     if (name,city) in nameandcities:
-        results[nameandcities.index((name,city))].ron3+=[ron3]
-        results[nameandcities.index((name,city))].r247+=[r247]
-        results[nameandcities.index((name,city))].respn+=[respn]
-        results[nameandcities.index((name,city))].rrivals+=[rrivals]
+        data["players"][nameandcities.index((name,city))]["ON3 Rating"]+=[ron3]
+        data["players"][nameandcities.index((name,city))]["247 Rating"]+=[r247]
+        data["players"][nameandcities.index((name,city))]["ESPN Rating"]+=[respn]
+        data["players"][nameandcities.index((name,city))]["Rivals Rating"]+=[rrivals]
     else:
         nameandcities+=[(name,city)]
-        results+=[player]
+        ron3=fillList([ron3],len(dates))
+        r247=fillList([r247],len(dates))
+        respn=fillList([respn],len(dates))
+        rrivals=fillList([rrivals],len(dates))
+        data["players"]+=[{"name":name,"ON3 Rating":ron3,"247 Rating":r247,"ESPN Rating":respn,"Rivals Rating":rrivals,"Pos":pos,"City":city,"State":state,"Commit Status":team}]
 
-file = open("data.txt","r")
+file = open("data.json")
+data=json.load(file)
 #load results
-results=[]
 nameandcities=[]
-dates=file.readline()[:-1].split(" ")
 try:
-    dates=[rvdtFormat(dt) for dt in dates]
+    dates=data["dates"]
 except: 
     print("NO DATES, file should be empty")
     dates=[]
-    pass
-for line in file.readlines():
-  print(line)
-  data=line[:-1].replace("’","").split("\t")
-  addPlayer(data[0],data[1],data[2],data[3],data[4],data[5],data[6],data[7],data[8],data[9],results,nameandcities)
-for result in nameandcities:
-    print(result)
-webscrape(results,nameandcities,dates)
-for result in results:
-    if len(result.ron3)<=len(dates):
-        fillList(result.ron3,len(dates))
-    if len(result.r247)<=len(dates):
-        fillList(result.r247,len(dates))
-    if len(result.respn)<=len(dates):
-        fillList(result.respn,len(dates))
-    if len(result.rrivals)<=len(dates):
-        fillList(result.rrivals,len(dates))
+for player in data["players"]:
+    nameandcities+=[(player["name"],player["City"])]
+file.close()
+print("Beginning Webscraping")
+webscrape(data,nameandcities,dates)
 
 #alphabetize results
-results.sort(key=lambda result: result.name)
-nameandcities.sort(key=lambda nc: nc[0])
+data["players"]=sorted(data["players"],key=lambda p: p["name"])
 
-#write out file
-file = open("data.txt","w",encoding="utf-8")
-file.write(" ".join(map(dtFormat,dates))+"\n")
-for printr in results:
-  print(printr)
-  file.write(printr.name+"\t"+str(printr.ron3)+"\t"+str(printr.r247)+"\t"+str(printr.respn)+"\t"+str(printr.rrivals)+"\t"+printr.position+"\t"+printr.city+"\t"+printr.state+"\t"+str(printr.committed)+"\t"+str(printr.team)+"\t"+"\n")
+#test print statements
+#print(data)
+#print(nameandcities)
+
+#write out new file
+json_dt=json.dumps(data)
+with open("data.json","w") as f:
+    f.write(json_dt)
