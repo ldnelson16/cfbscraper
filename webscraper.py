@@ -23,15 +23,25 @@ def fillList(lst,deslength):
     else:
         return lst
 
-def webscrape(data,nameandcities,dates):
+def webscrape(classnum,data,nameandcities,dates):
     #bring in webscraper, to get today's data
     dates+=[dtFormat(datetime.date.today())]
     data["dates"]=dates
     print(dates)
-    for y in range (1,21):
-        url = 'https://www.on3.com/db/rankings/industry-comparison/football/2024/?page='+str(y)
+    start=22
+    flag=False
+    while(True):
+        print(start)
+        url = 'https://www.on3.com/db/rankings/industry-comparison/football/'+str(classnum)+'/?page='+str(start)
         browser = webdriver.Chrome(options=options)
         browser.get(url)
+        #check if page has "No industry... text and if so, after 2 pages of this in a row, break loop"
+        get_source = browser.page_source
+        if "No Industry Comparison data for this selection" in get_source:
+            #loop only breaks second time around
+            if flag:
+                break
+            flag=True
         for x in range (0,50):
             try:
                 xpath_name = '/html/body/div[1]/div[1]/section/main/section/section/ul/li[' + str(1+x) + ']/div[1]/div[1]/div/a'
@@ -124,10 +134,11 @@ def webscrape(data,nameandcities,dates):
                     team = False
                 addPlayer(name,ron3,r247,respn,rrivals,pos,city_state[:-4],city_state[-2:],team,data,nameandcities,dates)
             except:
-                print("Nothing at player #",x+y*50-49)
+                print("Nothing at player #",x+start*50-49)
                 pass
         browser.close()
-        #outwrite this webscraper data into a new file
+        #close browser and increment page of data collection
+        start+=1
 
 def dtFormat(date):
     stri=str(date.year)+"-"+str(date.month)+"-"+str(date.day)
@@ -147,28 +158,32 @@ def addPlayer(name,ron3,r247,respn,rrivals,pos,city,state,team,data,nameandcitie
         rrivals=fillList([rrivals],len(dates))
         data["players"]+=[{"name":name,"ON3 Rating":ron3,"247 Rating":r247,"ESPN Rating":respn,"Rivals Rating":rrivals,"Pos":pos,"City":city,"State":state,"Commit Status":team}]
 
-file = open("data.json")
-data=json.load(file)
-#load results
-nameandcities=[]
-try:
-    dates=data["dates"]
-except: 
-    print("NO DATES, file should be empty")
-    dates=[]
-for player in data["players"]:
-    nameandcities+=[(player["name"],player["City"])]
-file.close()
-print("Beginning Webscraping")
-webscrape(data,nameandcities,dates)
+def processData(classnum):
+    filename="class"+str(classnum)+"data.json"
+    try: file = open(filename)
+    except: 
+        with open(filename) as f:
+            f.write({"dates":[],"players":[]})
+        file=open(filename)
 
-#alphabetize results
-data["players"]=sorted(data["players"],key=lambda p: p["name"])
+    data=json.load(file)
+    #load results
+    nameandcities=[]
+    try:
+        dates=data["dates"]
+    except: 
+        print("NO DATES, file should be empty")
+        dates=[]
+    for player in data["players"]:
+        nameandcities+=[(player["name"],player["City"])]
+    file.close()
+    print("Beginning Webscraping")
+    webscrape(classnum,data,nameandcities,dates)
+    #alphabetize results
+    data["players"]=sorted(data["players"],key=lambda p: p["name"])
+    return data
 
-#test print statements
-#print(data)
-#print(nameandcities)
-
+data=processData(2024)
 #write out new file
 json_dt=json.dumps(data)
 with open("data.json","w") as f:
