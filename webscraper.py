@@ -28,10 +28,9 @@ def webscrape(classnum,data,nameandcities,dates):
     dates+=[dtFormat(datetime.date.today())]
     data["dates"]=dates
     print(dates)
-    start=22
+    start=1
     flag=False
     while(True):
-        print(start)
         url = 'https://www.on3.com/db/rankings/industry-comparison/football/'+str(classnum)+'/?page='+str(start)
         browser = webdriver.Chrome(options=options)
         browser.get(url)
@@ -159,13 +158,13 @@ def addPlayer(name,ron3,r247,respn,rrivals,pos,city,state,team,data,nameandcitie
         data["players"]+=[{"name":name,"ON3 Rating":ron3,"247 Rating":r247,"ESPN Rating":respn,"Rivals Rating":rrivals,"Pos":pos,"City":city,"State":state,"Commit Status":team}]
 
 def processData(classnum):
-    filename="class"+str(classnum)+"data.json"
+    filename="classof"+str(classnum)+"data.json"
     try: file = open(filename)
     except: 
-        with open(filename) as f:
-            f.write({"dates":[],"players":[]})
+        with open(filename,"w") as f:
+            d=json.dumps({"dates":[],"players":[]})
+            f.write(d)
         file=open(filename)
-
     data=json.load(file)
     #load results
     nameandcities=[]
@@ -181,10 +180,11 @@ def processData(classnum):
     webscrape(classnum,data,nameandcities,dates)
     #alphabetize results
     data["players"]=sorted(data["players"],key=lambda p: p["name"])
-    return data
+    #write out data
+    json_dt=json.dumps(data)
+    with open(filename,"w") as f:
+        f.write(json_dt)
 
-data=processData(2024)
-#write out new file
-json_dt=json.dumps(data)
-with open("data.json","w") as f:
-    f.write(json_dt)
+
+#processData(2024)
+processData(2025)
