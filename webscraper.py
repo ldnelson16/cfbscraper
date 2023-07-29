@@ -16,12 +16,14 @@ def remove_ascii_characters(text):
             ascii_free_text += char
     return ascii_free_text
 
-def fillList(lst,deslength):
+def fillList(lst,deslength,team=False):
+    if team: fillchar = "No Data Yet"
+    else: fillchar = "-"
     if(len(lst)!=deslength):
-        lst.insert(0,"-")
-        fillList(lst,deslength)
-    else:
-        return lst
+        lst.insert(0,fillchar)
+        if not team: fillList(lst,deslength)
+        else: fillList(lst,deslength,True)
+    return lst
 
 def webscrape(classnum,data,nameandcities,dates):
     #bring in webscraper, to get today's data
@@ -144,17 +146,28 @@ def dtFormat(date):
     return stri 
 
 def addPlayer(name,ron3,r247,respn,rrivals,pos,city,state,team,data,nameandcities,dates):
+    try: ron3=int(ron3) 
+    except: pass
+    try: r247=int(r247) 
+    except: pass
+    try: respn=int(respn) 
+    except: pass
+    try: rrivals=float(rrivals) 
+    except: pass
     if (name,city) in nameandcities:
         data["players"][nameandcities.index((name,city))]["ON3 Rating"]+=[ron3]
         data["players"][nameandcities.index((name,city))]["247 Rating"]+=[r247]
         data["players"][nameandcities.index((name,city))]["ESPN Rating"]+=[respn]
         data["players"][nameandcities.index((name,city))]["Rivals Rating"]+=[rrivals]
+        data["players"][nameandcities.index((name,city))]["Commit Status"]+=[team]
     else:
         nameandcities+=[(name,city)]
         ron3=fillList([ron3],len(dates))
         r247=fillList([r247],len(dates))
         respn=fillList([respn],len(dates))
         rrivals=fillList([rrivals],len(dates))
+        team=fillList([team],len(dates),True)
+        print(ron3,r247,respn,rrivals,team)
         data["players"]+=[{"name":name,"ON3 Rating":ron3,"247 Rating":r247,"ESPN Rating":respn,"Rivals Rating":rrivals,"Pos":pos,"City":city,"State":state,"Commit Status":team}]
 
 def processData(classnum):
