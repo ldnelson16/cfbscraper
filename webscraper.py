@@ -167,7 +167,6 @@ def addPlayer(name,ron3,r247,respn,rrivals,pos,city,state,team,data,nameandcitie
         respn=fillList([respn],len(dates))
         rrivals=fillList([rrivals],len(dates))
         team=fillList([team],len(dates),True)
-        print(ron3,r247,respn,rrivals,team)
         data["players"]+=[{"name":name,"ON3 Rating":ron3,"247 Rating":r247,"ESPN Rating":respn,"Rivals Rating":rrivals,"Pos":pos,"City":city,"State":state,"Commit Status":team}]
 
 def processData(classnum):
@@ -200,4 +199,4 @@ def processData(classnum):
 
 
 #processData(2024)
-processData(2025)
+processData(2024)
