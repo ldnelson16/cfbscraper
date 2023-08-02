@@ -199,4 +199,8 @@ def processData(classnum):
 
 
 #processData(2024)
-processData(2025)
+#processData(2025)
+
+#combine data into one file
+def combineData():
+    
